@@ -1,0 +1,353 @@
+
+<?php
+
+//	"app_setup_ps_tables.php"
+//	By Yong Liu 20/02/2010
+//	This is a program to pick the students and courses information from table "bb_students" based on "today" is within a
+//  given class start date and end date period, and populate them into a table called "ps_students" in an external database 
+//  called "peoplesoft". 
+//	This program also reads the exception table to add some exception enrolments into the table "ps_student".
+// 
+//  Yong Liu added on 29/04/2011 to replace the enrolment rule from semester code to class start and end date.
+//
+//
+
+ini_set('display_errors', 'On');
+ini_set('error_reporting', E_ALL);
+
+define('CLI_SCRIPT', true);
+
+// session_start();
+
+require('config_unitec_app.php');
+require($CFG_UNITEC_APP->moodle_root . '/config.php');
+
+echo "\n--------  Moodle - external data table population:";
+echo "\n          Started at " . date("F j, Y, g:i a") . "\n";   
+
+// Initiallized the database.
+$dbhost = $CFG->dbhost;
+$dbname = 'peoplesoft';
+$dbuser = $CFG->dbuser;
+$dbpass = $CFG->dbpass;
+
+$connect = new mysqli($dbhost,$dbuser,$dbpass, $dbname) or die ("Couldn't connect to server");
+
+if ($connect->connect_errno) {
+	print "***** Connect failed: %s ***** \n" . $connect->connect_error;
+	exit();
+}
+
+///////////////
+//
+// Read the class start & end date exception list from table "class_date_exception" 
+//	and put all data into an array
+//
+///////////////
+
+$class_date_exception = array();  // Array to contain class exception list.
+
+$sql_class_date_exception = "SELECT *
+								FROM class_date_exception 
+								WHERE 1";
+			
+//	print "*** " . $sql . " ***\n";	
+
+echo "\nLoad class start & end date exception list...";	
+
+$result_class_date_exception = $connect->query($sql_class_date_exception);          
+
+if (empty($result_class_date_exception) || $result_class_date_exception->num_rows < 1){ 
+						// No result found. This shouldn't happen.
+	echo " \nNo recod in class date exception list!\n";
+	
+} else {
+
+	$index = 0;				
+				// Get the class date exception info...					
+	while ($record = $result_class_date_exception->fetch_assoc()) { 
+		$class_date_exception[$index]['full_class_id'] = $record['ps_course_id'] . $record['ps_class'];
+		$class_date_exception[$index]['ps_class_start_dt'] = $record['ps_class_start_dt'];
+		$class_date_exception[$index]['ps_class_end_dt'] = $record['ps_class_end_dt'];
+		$class_date_exception[$index]['new_course_id'] = $record['new_course_id'];
+		$index++;
+	}
+
+	//	Debug only
+	//	echo "\n*** Total excepted classes: $index *** \n";
+	//		for($index = 0; $index < count($class_date_exception); $index++) {
+	//			echo " " . $index . "  full_class_id = " . $class_date_exception[$index]['full_class_id'] . 
+	//				 "  ps_class_start_dt = " . $class_date_exception[$index]['ps_class_start_dt'] . 
+	//				 "  ps_class_end_dt = " . $class_date_exception[$index]['ps_class_end_dt'] . "\n";
+	//		}
+	
+echo "\nClass exception records loaded: " . $index . "\n";		
+	
+    // free $result_class_date_exception set 
+$result_class_date_exception->free();
+unset($record);
+}
+/////////////////////
+//
+// Read PeopleSoft student enrollment records and then only select students 
+//	and courses where today is within the period of start date and end date.
+//
+// Open PeopleSoft records from table bb_student.
+//
+////////////////////
+	
+$sql_bb_students = "SELECT *
+					FROM bb_students 
+					WHERE  crse_grade != 'W' AND visa_nsi !='R'";
+				
+//	print "*** " . $sql . " ***\n";	
+
+echo "\nLoad student data table...";	
+
+$result_bb_students = $connect->query($sql_bb_students); 
+         
+				// Stop if anything is wrong.
+if (empty($result_bb_students) || $result_bb_students->num_rows < 10) die("\nRecords are less than 10. Something is wrong!\n");
+
+			// Otherwise get the class date exception info...					
+echo "\nClean Moodle enrolment table...";
+			
+			// Empty the table ps_students.
+$sql_empty_table = "TRUNCATE TABLE ps_students";
+$result_empty_table = $connect->query($sql_empty_table); 
+
+if(!$result_empty_table) { 
+	die($connect->error); 
+} else {
+	echo "\nData table cleaned.";	
+}
+echo "\nNow populate student enrolment table...";	
+
+	// Yong Liu Added on 29/04/2011 to replace the enrolment rule from semester code to class start and end date.
+$timestamp_today = time();  
+
+$record_count = 0;	
+$class_exception_modified_count = 0;
+
+while ($record = $result_bb_students->fetch_assoc()) {
+
+	$full_class_id = $record['ps_template'] . $record['ps_class'];		
+	$matched_index = -1;
+	for($index = 0; $index < count($class_date_exception); $index++) {
+		if(strcasecmp($full_class_id, $class_date_exception[$index]['full_class_id']) == 0){
+			$matched_index = $index;
+//						echo "--- $index ---\n";
+			break;
+		}
+	}		
+						// The time stemp of PeopleSoft class start/end date is at midnight 12:00am. To make sure the end date finishes at 
+						// the end of the day rather than the start of the day, we need to add 23 hours 59 minutes and 59 seconds 
+						// (60*60*24 - 1 = 86399 seconds) for the end date time stemp. 
+						
+														
+	$class_start_date = strtotime(substr_replace(substr_replace($record['ps_class_start_dt'], '-', 2, 0), '-', 5, 0));
+	$class_end_date = strtotime(substr_replace(substr_replace($record['ps_class_end_dt'], '-', 2, 0), '-', 5, 0)) + 86399;
+	
+				
+	if($matched_index >= 0) {  	// If this record belongs to the class which is in the class exception list, then check whether today's time stamp 
+								// is within the range of start and end period of this exception class. If yes, then add this record into ps_student 
+								// table; otherwise just skip to the next record.	
+								
+						// The time stemp of the class start/end date is at midnight 12:00am. To make sure the end date finishes at 
+						// the end of the day rather than the start of the day, we need add 24 hours (60*60*24=86400 seconds) for the end 
+						// date time stemp. $data[14], $data[15] -- start and end dates in ddmmyyyy format.	
+										
+		if(	$timestamp_today >= strtotime(substr_replace(substr_replace($class_date_exception[$matched_index]['ps_class_start_dt'], '-', 2, 0), '-', 5, 0)) &&
+			$timestamp_today < strtotime(substr_replace(substr_replace($class_date_exception[$matched_index]['ps_class_end_dt'], '-', 2, 0), '-', 5, 0)) + 86399){
+			
+		   $course_id = $class_date_exception[$matched_index]['new_course_id'] == "" ? 
+							$record['ps_template'] : $class_date_exception[$matched_index]['new_course_id'];
+							
+//			values(	'" . $record['user_id'] . "','" . md5($record['dob']) . "','" . str_replace("'", "\'", $record['lastname']) . "',							
+							
+		   $sql_import="INSERT into ps_students 
+				   (user_id,password,lastname,firstname,email,dob,
+					ps_course_id,student_id,ps_class,visa_nsi,crse_grade,
+					ps_prog,ps_prog_descr,ps_strm,ps_class_start_dt,ps_class_end_dt) 				    	
+			values(	'" . $record['user_id'] . "','" . md5($record['G3nericP4$$w0rd']) . "','" . str_replace("'", "\'", $record['lastname']) . "',
+					'" . str_replace("'", "\'", $record['firstname']) . "','" . str_replace("'", "\'", $record['email']) . "','" . $record['dob'] . "',
+					'" . $course_id . "','" . $record['student_id'] . "','" . $record['ps_class'] . "',
+					'" . $record['visa_nsi'] . "','" . $record['crse_grade'] . "','" . $record['ps_prog'] . "',
+					'" . $record['ps_prog_descr'] . "','" . $record['ps_strm'] . "','" . $class_date_exception[$matched_index]['ps_class_start_dt'] . "',
+					'" . $class_date_exception[$matched_index]['ps_class_end_dt'] . "')"; // Here password ($data[4]) = student DOB
+//					echo "**** $import ****\n";
+		   $connect->query($sql_import) or die($connect->error);
+		   $record_count++;		
+		   $class_exception_modified_count++;
+		}	// Otherwise ($timestamp_today not in the period range) process the next record.
+					
+	}elseif(				// If this record does not belong to the class which is in the class exception list, then check whether today's time stamp 
+							// is within the range of start and end period of this class. If yes, then add this record into ps_student 
+							// table; otherwise just skip to the next record.	
+						
+				$timestamp_today >= $class_start_date && $timestamp_today < $class_end_date)
+						// End of this addition.
+	{ 					// $data[14], $data[15] -- start and end dates in ddmmyyyy format.	
+		   $sql_import="INSERT into ps_students 
+				   (user_id,password,lastname,firstname,email,dob,
+					ps_course_id,student_id,ps_class,visa_nsi,crse_grade,
+					ps_prog,ps_prog_descr,ps_strm,ps_class_start_dt,ps_class_end_dt) 				    	
+			values(	'" . $record['user_id'] . "','" . md5($record['dob']) . "','" . str_replace("'", "\'", $record['lastname']) . "',
+					'" . str_replace("'", "\'", $record['firstname']) . "','" . str_replace("'", "\'", $record['email']) . "','" . $record['dob'] . "',
+					'" . $record['ps_template'] . "','" . $record['student_id'] . "','" . $record['ps_class'] . "',
+					'" . $record['visa_nsi'] . "','" . $record['crse_grade'] . "','" . $record['ps_prog'] . "',
+					'" . $record['ps_prog_descr'] . "','" . $record['ps_strm'] . "','" . date("dmY", $class_start_date) . "',
+					'" . date("dmY", $class_end_date) . "')"; // Here password ($data[4]) = student DOB
+//					echo "**** $import ****\n";
+		   $connect->query($sql_import) or die($connect->error);
+		   $record_count++;	
+   } // Otherwise ($timestamp_today not in the period range of this class) process the next record.
+
+}  // End of while.
+	
+echo "\nRecords added: " . $record_count . ", includes class exception: " . $class_exception_modified_count;		
+
+    // free $result_class_date_exception set 
+$result_bb_students->free();	
+unset($record);
+unset($class_date_exception);	
+			 
+	////////////////////////	 
+	//
+	//  Now dealing with the individual student exceptions. 
+	//	We read the exception file and append the rcords onto table ps_students.
+	//
+	// 	Open the exception table "exception_list".
+	//
+	////////////////////////
+	
+$sql_individual_exception = "SELECT *
+								FROM exception_list 
+								WHERE 1";
+				
+//	print "*** " . $sql_individual_exception . " ***";	
+
+echo "\n\nLoad student exception table...";	
+			
+$result_individual_exception = $connect->query($sql_individual_exception);     
+
+if (empty($result_individual_exception) || $result_individual_exception->num_rows < 1){ 
+											
+	echo "\nNo exception record found!"; // Display error message.
+
+}else{
+	
+	echo "\nAppend " . $result_individual_exception->num_rows . " exception records into student enrolment table...";	
+	
+	$timestamp_today = time();  
+		
+	$student_exception_count = 0;	
+		
+	while ($record = $result_individual_exception->fetch_assoc()) {
+	
+						// Yong Liu added on 29/04/2011 to replace the enrolment rule from semester code to class start and end date.
+						// The time stemp of the class start/end date is at midnight 12:00am. To make sure the end date finishes at 
+						// the end of the day rather than the start of the day, we need add 24 hours (60*60*24=86400 seconds) for the end 
+						// date time stemp. $data[14], $data[15] -- start and end dates in ddmmyyyy format.
+								
+						// Check whether today's time stamp 
+						// is within the range of start and end period of this class. If yes, then add this record into ps_student 
+						// table; otherwise just skip to the next record.	
+						
+								// The time stemp of the class start/end date is at midnight 12:00am. To make sure the end date finishes at 
+								// the end of the day rather than the start of the day, we need add 24 hours (60*60*24=86400 seconds) for the end 
+								// date time stemp. $data[14], $data[15] -- start and end dates in ddmmyyyy format.	
+								
+		if(	$timestamp_today >= strtotime(substr_replace(substr_replace($record['ps_class_start_dt'], '-', 2, 0), '-', 5, 0)) &&
+			$timestamp_today < strtotime(substr_replace(substr_replace($record['ps_class_end_dt'], '-', 2, 0), '-', 5, 0)) + 86400){
+			
+			   $sql_import="INSERT into ps_students 
+					   (user_id,password,lastname,firstname,email,dob,
+						ps_course_id,student_id,ps_class,visa_nsi,crse_grade,
+						ps_prog,ps_prog_descr,ps_strm,ps_class_start_dt,ps_class_end_dt) 				    	
+				values(	'" . $record['user_id'] . "','" . md5($record['dob']) . "','" . str_replace("'", "\'", $record['lastname']) . "',
+						'" . str_replace("'", "\'", $record['firstname']) . "','" . str_replace("'", "\'", $record['email']) . "','" . $record['dob'] . "',
+						'" . $record['ps_subject'] . $record['ps_cat'] . "','" . $record['student_id'] . "','" . $record['ps_class'] . "',
+						'" . $record['visa_nsi'] . "','" . $record['crse_grade'] . "','" . $record['ps_prog'] . "',
+						'" . $record['ps_prog_descr'] . "','" . $record['ps_strm'] . "','" . $record['ps_class_start_dt'] . "',
+						'" . $record['ps_class_end_dt'] . "')"; // Here password ($data[4]) = student DOB
+//					echo "**** $import ****\n";
+			   $connect->query($sql_import) or die($connect->error);
+			   $student_exception_count++;	
+	   } // else  echo "\n --- expired enrolment: " . $record['student_id'] . "\n"; // Otherwise ($timestamp_today not in the period range of this class) process the next record.
+
+	}  // End of while.
+	
+	echo "\nStudent exception added: " . $student_exception_count;
+    	
+		// free $result_class_date_exception set 
+	$result_individual_exception->free();	
+						
+	unset($record);
+	
+	echo "\nTotal records: " . ($record_count + $student_exception_count);	
+			
+} // if (empty($result_individual_exception)...
+
+
+	///////////////////////////
+	//
+	// Read ps_students table and re-populate into ps_course_enrol table. 
+	// Also append programmes into this table. Programme code is in the field "ps_course_id".
+	// This table is used by Moodle database enrolment script.
+	//
+	//////////////////////////
+	 
+$sql_course_enrol = "SELECT DISTINCT user_id,lastname,firstname,email,ps_course_id,student_id,
+								'course' as course_type,ps_role 
+						FROM ps_students 
+						WHERE 1
+				UNION SELECT DISTINCT user_id,lastname,firstname,email,ps_prog,student_id,
+								'programme' as course_type,ps_role 
+						FROM ps_students 
+						WHERE 1";
+				
+//	print "*** " . $sql . " ***\n";	
+
+echo "\n\nLoad ps_students table...";	
+		
+$result_course_enrol = $connect->query($sql_course_enrol);  
+        
+if (empty($result_course_enrol) || $result_course_enrol->num_rows < 10)  die("\nRecords are less than 10. Something is wrong!\n");
+
+echo "\nClean ps_course_enrol table...";
+
+$sql_empty_table = "TRUNCATE TABLE ps_course_enrol";
+
+$connect->query($sql_empty_table) or die( $connect->error); // Empty the table ps_students.
+
+echo "\nData table cleaned.";	
+
+echo "\nNow populate ps_course_enrol table...";	
+	
+$record_count = 0;	
+while ($record = $result_course_enrol->fetch_assoc()) { 	
+   $sql_import="INSERT into ps_course_enrol 
+						(user_id,lastname,firstname,email,ps_course_id,student_id, course_type ) 				    	
+				values(	'" . $record['user_id'] .  "','" . str_replace("'", "\'", $record['lastname']) . "',
+						'" . str_replace("'", "\'", $record['firstname']) . "','" . str_replace("'", "\'", $record['email']) . "',
+						'" . $record['ps_course_id'] . "','" . $record['student_id'] . "','" . $record['course_type'] . "')"; 
+//					echo "**** $import ****\n";
+   $connect->query($sql_import) or die( $connect->error);
+   $record_count++;	
+
+}  // End of while.
+
+echo "\nRecords added into ps_course_enrol table: " . $record_count;			
+
+	// free $result_class_date_exception set 
+$result_course_enrol->free();	
+
+unset($record);
+$connect->close();
+
+echo "\n\n--------  Moodle - external data table population:";
+echo "\n          Finisheded at " . date("F j, Y, g:i a") . "\n";  
+
+?>
+

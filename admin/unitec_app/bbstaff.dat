@@ -1,0 +1,1615 @@
+USER_ID|FIRSTNAME|MIDDLE_NAME|LASTNAME|EMAIL|DOB|DEPARTMENT|EMPLID|PROFILE
+smonteir@unitec.ac.nz|Sylila|Rose|Monteiro|smonteir@unitec.ac.nz|25101948|32BC|1000006|STAFF_C
+smonteir@unitec.ac.nz|Sylila|Rose|Monteiro|smonteir@unitec.ac.nz|25101948|90AS_01|1000006|STAFF_C
+alovatt@unitec.ac.nz|Adriana|Lucia|Lovatt|alovatt@unitec.ac.nz|13121964|21BP|1000016|STAFF_P
+alovatt@unitec.ac.nz|Adriana|Lucia|Lovatt|alovatt@unitec.ac.nz|13121964|60HR-02|1000016|STAFF_C
+dchurch@unitec.ac.nz|David|Keith|Church|dchurch@unitec.ac.nz|17061952|90LY|1000034|STAFF_P
+vshepher@unitec.ac.nz|Vincent|Alfred|Shepherd|vshepherd@unitec.ac.nz|21051969|90LY|1000040|STAFF_F
+drowlandson@unitec.ac.nz|Danny||Rowlandson|drowlandson@unitec.ac.nz|05051971|21CI|1000053|STAFF_P
+dmartin0@unitec.ac.nz|Denyse||Martin|dmartin0@unitec.ac.nz|13041959|31TS|1000059|STAFF_F
+mpaitry@unitec.ac.nz|Mervyn|John|Paitry|mpaitry@unitec.ac.nz|28021965|31TS|1000066|STAFF_P
+mpaitry@unitec.ac.nz|Mervyn|John|Paitry|mpaitry@unitec.ac.nz|28021965|31VS|1000066|STAFF_P
+laumua@unitec.ac.nz|Linda|Tinai|Aumua|laumua@unitec.ac.nz|08111962|90AD|1000074|STAFF_F
+npelling@unitec.ac.nz|Nina|Rosemary|Pelling|npelling@unitec.ac.nz|08021953|80MA|1000079|STAFF_P
+upoloai@unitec.ac.nz|Utumanu'a||Poloai|upoloai@unitec.ac.nz|04041963|32CS|1000088|STAFF_C
+upoloai@unitec.ac.nz|Utumanu'a||Poloai|upoloai@unitec.ac.nz|04041963|40LA|1000088|STAFF_F
+upoloai@unitec.ac.nz|Utumanu'a||Poloai|upoloai@unitec.ac.nz|04041963|42BE|1000088|STAFF_F
+dphillip@unitec.ac.nz|David|John|Phillips|dphillips@unitec.ac.nz|13031968|32CS|1000090|STAFF_F
+droy@unitec.ac.nz|Dianne|Elizabeth|Roy|droy@unitec.ac.nz|06051955|41HC|1000113|STAFF_P
+mpanko@unitec.ac.nz|Mary||Panko|mpanko@unitec.ac.nz|07061945|32BC|1000123|STAFF_C
+hpaniora@unitec.ac.nz|Hare||Paniora|hpaniora@unitec.ac.nz|14051939|10CE|1000127|STAFF_P
+dwales@unitec.ac.nz|Duncan|Holmes Currie|Wales|dwales@unitec.ac.nz|27121946|31VS|1000131|STAFF_F
+cmurphy@unitec.ac.nz|Chris|Paul|Murphy|cmurphy@unitec.ac.nz|12091948|32AR|1000137|STAFF_C
+idavey@unitec.ac.nz|Rhys|Wilfred Rhys|Davey|idavey@unitec.ac.nz|08071961|30MA|1000138|STAFF_F
+mgrey@unitec.ac.nz|Margi|Theresa|Grey|mgrey@unitec.ac.nz|03041974|80AC|1000145|STAFF_P
+apretty@unitec.ac.nz|Annabel|Claire|Pretty|apretty@unitec.ac.nz|01061965|32AR|1000146|STAFF_F
+mwilliam@unitec.ac.nz|Marcus|Gregory John|Williams|mwilliams@unitec.ac.nz|12111962|90AR|1000147|STAFF_F
+mwilliam@unitec.ac.nz|Marcus|Gregory John|Williams|mwilliams@unitec.ac.nz|12111962|90TR|1000147|STAFF_F
+jverbies@unitec.ac.nz|Jack|Cornelis|Verbiesen|jverbiesen@unitec.ac.nz|04041947|31VS|1000157|STAFF_C
+orizk@unitec.ac.nz|Odette||Rizk|orizk@unitec.ac.nz|19071952|43EA|1000158|STAFF_P
+swatene@unitec.ac.nz|Susan|Mary|Watene|swatene@unitec.ac.nz|01091956|42BE|1000160|STAFF_F
+swatene@unitec.ac.nz|Susan|Mary|Watene|swatene@unitec.ac.nz|01091956|50UG|1000160|STAFF_F
+ryoung@unitec.ac.nz|Ronald|Andrew|Young|ryoung@unitec.ac.nz|31011963|21CI|1000161|STAFF_C
+dturner@unitec.ac.nz|David|Ferguson|Turner|dturner@unitec.ac.nz|07051943|32AR|1000180|STAFF_P
+jstewart@unitec.ac.nz|James|Matheson|Stewart|jstewart@unitec.ac.nz|07051955|21BP|1000183|STAFF_F
+dnummy@unitec.ac.nz|David|Ian|Nummy|dnummy@unitec.ac.nz|03121949|32BC|1000187|STAFF_C
+pjeuriss@unitec.ac.nz|Paul|Adrian|Jeurissen|pjeuriss@unitec.ac.nz|14121961|90AD|1000202|STAFF_F
+preyes@unitec.ac.nz|Patty|Patricia|Reyes|preyes@unitec.ac.nz|04101958|41HC|1000206|STAFF_C
+pball@unitec.ac.nz|Pat||Ball|pball@unitec.ac.nz|04051951|40FS|1000221|STAFF_C
+pball@unitec.ac.nz|Pat||Ball|pball@unitec.ac.nz|04051951|42BE|1000221|STAFF_C
+cmalthus@unitec.ac.nz|Caroline|Mary|Malthus|cmalthus@unitec.ac.nz|21031953|80AC|1000235|STAFF_C
+erainsbu@unitec.ac.nz|Liz|Anne|Rainsbury|erainsbury@unitec.ac.nz|04091956|21BP|1000240|STAFF_F
+woldfiel@unitec.ac.nz|Bill||Oldfield|woldfield@unitec.ac.nz|29041947|21BP|1000241|STAFF_P
+jwilliams@unitec.ac.nz|Jocelyn|Elizabeth|Williams|jwilliams@unitec.ac.nz|21021957|90AR|1000245|STAFF_F
+jwilliams@unitec.ac.nz|Jocelyn|Elizabeth|Williams|jwilliams@unitec.ac.nz|21021957|90TL|1000245|STAFF_F
+rtrewart@unitec.ac.nz|Rae|Rae|Trewartha|rtrewartha@unitec.ac.nz|21021943|42BE|1000251|STAFF_P
+shardman@unitec.ac.nz|Sarah|Ann|Hardman|shardman@unitec.ac.nz|12101959|42BE|1000252|STAFF_P
+rglanvil@unitec.ac.nz|Roger|Charles|Glanville|rglanville@unitec.ac.nz|15051949|32CS|1000290|STAFF_F
+pcliffin@unitec.ac.nz|Penny|Frances|Cliffin|pcliffin@unitec.ac.nz|27111962|32AR|1000295|STAFF_C
+kbarry@unitec.ac.nz|Kate|Elizabeth|Barry|kbarry@unitec.ac.nz|12111958|41HC|1000300|STAFF_F
+hfoote@unitec.ac.nz|Hamish|Andrew|Foote|hfoote@unitec.ac.nz|01021964|32AR|1000307|STAFF_F
+ballen@unitec.ac.nz|Brian|Ross|Allen|ballen@unitec.ac.nz|06021948|31TS|1000320|STAFF_C
+mbradbur@unitec.ac.nz|Matthew||Bradbury|mbradbury@unitec.ac.nz|26071960|32AR|1000328|STAFF_F
+abrien@unitec.ac.nz|Andy|Shane|Brien|abrien@unitec.ac.nz|21041967|60IT-02|1000331|STAFF_F
+rfahey@unitec.ac.nz|Richard|James|Fahey|rfahey@unitec.ac.nz|07091963|21CI|1000356|STAFF_P
+gferguso@unitec.ac.nz|Gina|Corinne|Ferguson|gferguson@unitec.ac.nz|17091965|21CI|1000357|STAFF_F
+hgong@unitec.ac.nz|Hong-Yu||Gong|hgong@unitec.ac.nz|10121962|40LA|1000364|STAFF_F
+lkestle@unitec.ac.nz|Linda||Kestle|lkestle@unitec.ac.nz|02111949|32BC|1000384|STAFF_F
+gmcconch@unitec.ac.nz|Graeme|Stewart|McConchie|gmcconchie@unitec.ac.nz|16091947|32AR|1000400|STAFF_F
+amcdonald@unitec.ac.nz|Allan||McDonald|amcdonald@unitec.ac.nz|12091951|21CI|1000401|STAFF_P
+jmiles@unitec.ac.nz|Julie|Ann|Miles|jmiles@unitec.ac.nz|24071960|40LA|1000404|STAFF_P
+enichols@unitec.ac.nz|Liz|Ruby|Nicholson|enicholson@unitec.ac.nz|27021946|90AS_01|1000409|STAFF_C
+jphillip@unitec.ac.nz|Jillian|A|Phillips|jphillip@unitec.ac.nz|05051960|41HC|1000411|STAFF_P
+msmith@unitec.ac.nz|Mark|Kingston|Smith|msmith@unitec.ac.nz|05081962|90TL|1000425|STAFF_F
+mtan@unitec.ac.nz|May||Tan|mtan@unitec.ac.nz|05011956|90AS|1000429|STAFF_F
+lsimperi@unitec.ac.nz|Lisa||Simperingham|lsimperingham@unitec.ac.nz|14011966|90TL|1000445|STAFF_F
+ihenderson@unitec.ac.nz|Ian|Ian|Henderson|ihenderson@unitec.ac.nz|30061950|32AR|1000504|STAFF_C
+dfraser@unitec.ac.nz|Diane|Lynn|Fraser|dfraser@unitec.ac.nz|29091962|43EA|1000505|STAFF_P
+elin@unitec.ac.nz|Ed||Lin|elin@unitec.ac.nz|06101959|60IT-03|1000506|STAFF_F
+calmeida@unitec.ac.nz|Cynthia Natalia|Natalia|Almeida|calmeida@unitec.ac.nz|01121959|90TR|1000507|STAFF_F
+djames@unitec.ac.nz|Diane|Joy|James|djames@unitec.ac.nz|28121957|41CD|1000525|STAFF_P
+smataia@unitec.ac.nz|Stephen|Tavale|Matai'a|smataia@unitec.ac.nz|07101973|41SP|1000528|STAFF_C
+smarshal@unitec.ac.nz|Steve|Gregory|Marshall|smarshall@unitec.ac.nz|08111962|60AD|1000544|STAFF_F
+lkiroff@unitec.ac.nz|Lydia|Emilova Tzankova|Kiroff|lkiroff@unitec.ac.nz|05011960|32BC|1000567|STAFF_F
+apitovao@unitec.ac.nz|Annette|Margaret|Pitovao|apitovao@unitec.ac.nz|18071974|80SS|1000569|STAFF_F
+apitovao@unitec.ac.nz|Annette|Margaret|Pitovao|apitovao@unitec.ac.nz|18071974|90LS|1000569|STAFF_F
+gbridgma@unitec.ac.nz|Geoffrey|David|Bridgman|gbridgman@unitec.ac.nz|15121946|41SP|1000582|STAFF_P
+dfongsmi@unitec.ac.nz|Dianne||Fong-Smith|dfongsmith@unitec.ac.nz|04061960|80SC|1000591|STAFF_P
+hbrown@unitec.ac.nz|Hadley|Dirke|Brown|hbrown@unitec.ac.nz|22021966|90TR|1000599|STAFF_F
+swake@unitec.ac.nz|Sue|Janette|Wake|swake@unitec.ac.nz|22071960|32AR|1000653|STAFF_F
+dblancho@unitec.ac.nz|Dan|John|Blanchon|dblanchon@unitec.ac.nz|24051971|90AD|1000657|STAFF_F
+skolahi@unitec.ac.nz|Samad||Kolahi|skolahi@unitec.ac.nz|24011955|21CS|1000664|STAFF_F
+nmarsden@unitec.ac.nz|Nicholas|Richard Fernand|Marsden|nmarsden@unitec.ac.nz|17041958|32BC|1000674|STAFF_C
+nmarsden@unitec.ac.nz|Nicholas|Richard Fernand|Marsden|nmarsden@unitec.ac.nz|17041958|32CS|1000674|STAFF_C
+tsmith@unitec.ac.nz|Trina|Gaye|Smith|tsmith@unitec.ac.nz|07071970|30MA|1000679|STAFF_P
+tsmith@unitec.ac.nz|Trina|Gaye|Smith|tsmith@unitec.ac.nz|07071970|32AR|1000679|STAFF_P
+sleung@unitec.ac.nz|Sai|Yin|Leung|sleung@unitec.ac.nz|05071957|21CI|1000718|STAFF_F
+lrobert2@unitec.ac.nz|Lorne|George|Roberts|lroberts2@unitec.ac.nz|12071963|43EA|1000731|STAFF_F
+nadams@unitec.ac.nz|Nigel|John|Adams|nadams@unitec.ac.nz|03061958|43EA|1000732|STAFF_F
+bbeckman@unitec.ac.nz|Birgit|Birgit Martha|Beckmann|bbeckman@unitec.ac.nz|22111946|40LT|1000737|STAFF_C
+jrennie@unitec.ac.nz|Julian|Julian|Rennie|jrennie@unitec.ac.nz|31081959|32AR|1000748|STAFF_P
+rreid2@unitec.ac.nz|Robyn|Leslie|Reid|rreid2@unitec.ac.nz|15091952|41CD|1000793|STAFF_C
+lhart@unitec.ac.nz|Lyn|Thelma|Hart|lhart@unitec.ac.nz|07031953|60HR-02|1000806|STAFF_C
+gvanveen@unitec.ac.nz|Gail|Lorraine|van Veen|gvanveen@unitec.ac.nz|09041957|80AC|1000807|STAFF_F
+gparish@unitec.ac.nz|Geoff|William|Parish|gparish@unitec.ac.nz|29041943|32BC|1000808|STAFF_F
+ehawthor@unitec.ac.nz|Elizabeth||Hawthorne|ehawthorne@unitec.ac.nz|19061952|21CI|1000812|STAFF_P
+hpatel@unitec.ac.nz|Hemant|Ratilal|Patel|hpatel@unitec.ac.nz|26031961|80SC|1000813|STAFF_F
+jking@unitec.ac.nz|Judith|Margaret|King|jking@unitec.ac.nz|05051961|90TL|1000829|STAFF_F
+tyap@unitec.ac.nz|Teresa|Kim|Yap|tyap@unitec.ac.nz|17091958|21CS|1000902|STAFF_C
+tyap@unitec.ac.nz|Teresa|Kim|Yap|tyap@unitec.ac.nz|17091958|90AS_01|1000902|STAFF_C
+dmartin3@unitec.ac.nz|Denise||Martin|dmartin3@unitec.ac.nz|25091962|60IT-01|1000946|STAFF_F
+mschultz@unitec.ac.nz|Marianne||Schultz|mschultz@unitec.ac.nz|01012001|21CI|1000955|STAFF_C
+aclarke@unitec.ac.nz|Amos|Paul William|Clarke|aclarke@unitec.ac.nz|18111968|32BC|1000977|STAFF_F
+vgrbic@unitec.ac.nz|Victor|Allen|Grbic|vgrbic@unitec.ac.nz|12091963|60AD|1000985|STAFF_F
+imiller@unitec.ac.nz|Ian|Ian|Miller|imiller@unitec.ac.nz|28121960|60IT-03|1001007|STAFF_F
+joldfiel@unitec.ac.nz|James|David|Oldfield|joldfield@unitec.ac.nz|09081979|90AR|1001008|STAFF_F
+joldfiel@unitec.ac.nz|James|David|Oldfield|joldfield@unitec.ac.nz|09081979|90TL|1001008|STAFF_F
+rhoskins@unitec.ac.nz|Raoul||Hoskins|rhoskins@unitec.ac.nz|20041965|32AR|1001027|STAFF_P
+rhoskins@unitec.ac.nz|Raoul||Hoskins|rhoskins@unitec.ac.nz|20041965|90NW|1001027|STAFF_P
+pwoodruffe@unitec.ac.nz|Paul||Woodruffe|pwoodruffe@unitec.ac.nz|24021959|21CI|1001044|STAFF_P
+kcampbell@unitec.ac.nz|Keith||Campbell|kcampbell@unitec.ac.nz|25071971|60IT-03|1001054|STAFF_F
+pbatty@unitec.ac.nz|Pamela|Jane|Batty|pbatty@unitec.ac.nz|15031955|41HC|1001089|STAFF_C
+mfreeman@unitec.ac.nz|Michael||Freeman|mfreeman@unitec.ac.nz|07091957|42BE|1001134|STAFF_P
+mfreeman@unitec.ac.nz|Michael||Freeman|mfreeman@unitec.ac.nz|07091957|42UP|1001134|STAFF_C
+acrichton@unitec.ac.nz|Anna||Crichton|acrichton@unitec.ac.nz|25051957|21CI|1001152|STAFF_C
+sroberts@unitec.ac.nz|Stuart|John|Roberts|sroberts@unitec.ac.nz|14051948|32BC|1001193|STAFF_C
+grennie@unitec.ac.nz|Gavin|John|Rennie|grennie@unitec.ac.nz|17121940|41SP|1001205|STAFF_C
+rbirchmo@unitec.ac.nz|Roger|Clive|Birchmore|rbirchmore@unitec.ac.nz|15011960|32BC|1001215|STAFF_P
+jleaver@unitec.ac.nz|Jonathan|David|Leaver|jleaver@unitec.ac.nz|09031952|32CS|1001218|STAFF_F
+nshackleford@unitec.ac.nz|Nick|James|Shackleford|nshackleford@unitec.ac.nz|03121951|90TR|1001221|STAFF_C
+jnichols@unitec.ac.nz|Judy|Helen|Nicholson|jnicholson@unitec.ac.nz|17091943|43EA|1001231|STAFF_P
+jhurst@unitec.ac.nz|Joanna|Elizabeth|Hurst|jhurst@unitec.ac.nz|15031961|32AR|1001241|STAFF_C
+khaines@unitec.ac.nz|Karen|Joy|Haines|khaines@unitec.ac.nz|10011961|90TL|1001290|STAFF_P
+steahan@unitec.ac.nz|Simon|Peter|Teahan|steahan@unitec.ac.nz|22101972|60IT-03|1001322|STAFF_F
+wgreen@unitec.ac.nz|William||Green|wgreen@unitec.ac.nz|21111962|21CI|1001328|STAFF_C
+nsingh@unitec.ac.nz|Niranjan||Singh|nsingh@unitec.ac.nz|10091954|21EA|1001348|STAFF_F
+dkenkel@unitec.ac.nz|David|John|Kenkel|dkenkel@unitec.ac.nz|05021961|41SP|1001353|STAFF_F
+gwallace@unitec.ac.nz|Will|William|Wallace|gwallace@unitec.ac.nz|04111971|21CI|1001420|STAFF_C
+lingledew@unitec.ac.nz|Lisa|Joy|Ingledew|lingledew@unitec.ac.nz|14011959|21BP|1001625|STAFF_F
+jgoddard@unitec.ac.nz|John||Goddard|jgoddard@unitec.ac.nz|24091950|40LT|1001633|STAFF_C
+parkenst@unitec.ac.nz|Paula|Adriana|Arkensteyn|parkensteyn@unitec.ac.nz|20021966|40LA|1001636|STAFF_P
+parkenst@unitec.ac.nz|Paula|Adriana|Arkensteyn|parkensteyn@unitec.ac.nz|20021966|40LT|1001636|STAFF_C
+parkenst@unitec.ac.nz|Paula|Adriana|Arkensteyn|parkensteyn@unitec.ac.nz|20021966|40LT|1001636|STAFF_C
+cgallagher@unitec.ac.nz|Christine||Gallagher|cgallagher@unitec.ac.nz|24101960|90AS_01|1001704|STAFF_C
+lgroves@unitec.ac.nz|Lynette||Groves|lgroves@unitec.ac.nz|30101944|40LT|1001729|STAFF_C
+lblake@unitec.ac.nz|Lorna||Blake|lblake@unitec.ac.nz|02031947|40LT|1001758|STAFF_C
+nedwards@unitec.ac.nz|Noline||Edwards|nedwards@unitec.ac.nz|27081953|90AS_01|1001765|STAFF_C
+mgalbraith@unitec.ac.nz|Mel|Peter|Galbraith|mgalbraith@unitec.ac.nz|15031953|43EA|1001811|STAFF_F
+lhunt@unitec.ac.nz|Linda||Hunt|lhunt@unitec.ac.nz|09011953|21EA|1001967|STAFF_C
+bsu@unitec.ac.nz|Bin||Su|bsu@unitec.ac.nz|03061961|32AR|1002029|STAFF_F
+jkelly@unitec.ac.nz|James|Geoffrey|Kelly|jkelly@unitec.ac.nz|21071978|60IT-01|1002078|STAFF_F
+madams@unitec.ac.nz|Megan|E|Adams|madams@unitec.ac.nz|10041975|21CI|1002377|STAFF_C
+iandersen@unitec.ac.nz|Inger|Alison|Andersen|iandersen@unitec.ac.nz|27101977|31TS|1003831|STAFF_P
+iandersen@unitec.ac.nz|Inger|Alison|Andersen|iandersen@unitec.ac.nz|27101977|31VS|1003831|STAFF_P
+clobos@unitec.ac.nz|Cristobal|Cristobal|Lobos|clobos@unitec.ac.nz|10071974|21CI|1004397|STAFF_C
+cbaker@unitec.ac.nz|Chantal|Krystie|Baker|cbaker@unitec.ac.nz|02061979|41CD|1005620|STAFF_F
+cbaker@unitec.ac.nz|Chantal|Krystie|Baker|cbaker@unitec.ac.nz|02061979|42BE|1005620|STAFF_F
+kbecker@unitec.ac.nz|Kathe Ute|Ute|Becker|kbecker@unitec.ac.nz|03051956|32BC|1007093|STAFF_F
+mperich@unitec.ac.nz|Mary||Perich|mperich@unitec.ac.nz|08081966|40FS|1007216|STAFF_F
+dbluck@unitec.ac.nz|Dianna|Jane|Bluck|dbluck@unitec.ac.nz|21051970|15IW|1008862|STAFF_P
+dbrady@unitec.ac.nz|Dan|Patrick|Brady|dbrady@unitec.ac.nz|21121980|60OI|1009952|STAFF_F
+dbrady@unitec.ac.nz|Dan|Patrick|Brady|dbrady@unitec.ac.nz|21121980|90PS|1009952|STAFF_F
+abrockbank@unitec.ac.nz|Amy||Brockbank|abrockbank@unitec.ac.nz|26081981|80SD|1010543|STAFF_F
+kburton@unitec.ac.nz|Katie|Anne|Burton|kburton@unitec.ac.nz|09041981|21CI|1012127|STAFF_P
+mcairns@unitec.ac.nz|Monique|B|Cairns|monique@caribou.co.nz|17101975|10CE|1012483|STAFF_C
+rchiu@unitec.ac.nz|Raymond|Man|Chiu|rchiu@unitec.ac.nz|06021952|30MA|1015603|STAFF_F
+acooper@unitec.ac.nz|Aidan|Pagel|Cooper|acooper@unitec.ac.nz|08121978|32BC|1017995|STAFF_C
+ccorkill@unitec.ac.nz|Colin|Michael|Corkill|ccorkill@unitec.ac.nz|12011965|31TS|1018241|STAFF_F
+tfernando@unitec.ac.nz|Thushara||Fernando|tfernando@unitec.ac.nz|25041981|60IT-02|1025885|STAFF_F
+tfinlayson@unitec.ac.nz|Theresa||Finlayson|tfinlayson@unitec.ac.nz|17121967|40FS|1026131|STAFF_C
+tfinlayson@unitec.ac.nz|Theresa||Finlayson|tfinlayson@unitec.ac.nz|17121967|40FS|1026131|STAFF_C
+nfinlay@unitec.ac.nz|Neil|Murray|Finlay|nfinlay@unitec.ac.nz|25121955|21CI|1026138|STAFF_C
+nfinlay@unitec.ac.nz|Neil|Murray|Finlay|nfinlay@unitec.ac.nz|25121955|21CI|1026138|STAFF_P
+sfu2@unitec.ac.nz|Sharon|Xiao-Rong|Fu|sfu2@unitec.ac.nz|26041969|50FN|1027800|STAFF_F
+jfuemana@unitec.ac.nz|Jacob||Fuemana|jfuemana@unitec.ac.nz|07021968|42UP|1027827|STAFF_F
+rgear@unitec.ac.nz|Robyn||Gear|rgear@unitec.ac.nz|31051974|43EA|1028654|STAFF_P
+cgoodhue@unitec.ac.nz|Craig|Selwyn|Goodhue|cgoodhue@unitec.ac.nz|06091969|31TS|1029932|STAFF_F
+sgoodlud@unitec.ac.nz|Simon|Matthew|Goodlud|sgoodlud@unitec.ac.nz|12111968|31TS|1029956|STAFF_F
+tgracie@unitec.ac.nz|Tania|May|Gracie|atrium100@gmail.com|17071963|41HC|1030347|STAFF_C
+pgrogan@unitec.ac.nz|Paul|Stephen|Grogan|trades@topline.co.nz|11031966|50FM|1031329|STAFF_C
+sharrison@unitec.ac.nz|Sarah|Ellen|Harrison Heaney|sharrison@unitec.ac.nz|17111975|32AR|1033479|STAFF_C
+jholdaway@unitec.ac.nz|Jeffrey|Mark|Holdaway|jholdaway@unitec.ac.nz|25021974|21CI|1036376|STAFF_C
+nhosking@unitec.ac.nz|Neil||Hosking|nhosking@unitec.ac.nz|03121942|21BP|1037098|STAFF_C
+mjohnson@unitec.ac.nz|Michelle|Judith|Johnson|mjohnson@unitec.ac.nz|07031962|41CD|1040871|STAFF_P
+rknightbrown@unitec.ac.nz|Rowena|Angela|Knight-Brown|rknightbrown@unitec.ac.nz|06101964|21BP|1044597|STAFF_F
+@unitec.ac.nz|Paul||Ko|iampaulko@icloud.com|22091975|21BP|1044710|STAFF_C
+alewin@unitec.ac.nz|Aroha|Jane|Lewin|alewin@unitec.ac.nz|31011980|60AD|1048533|STAFF_F
+jli@unitec.ac.nz|Jun||Li|jli@unitec.ac.nz|15051966|60IT-01|1048768|STAFF_F
+alockyer@unitec.ac.nz|Alan|John|Lockyer|alockyer@unitec.ac.nz|26041953|21BP|1050394|STAFF_F
+aloots@unitec.ac.nz|Attie|Maria|Loots|aloots@unitec.ac.nz|19051980|80SD|1050671|STAFF_P
+dloveridge@unitec.ac.nz|Debbie|Caroline|Loveridge|dloveridge@unitec.ac.nz|12101958|42BE|1050840|STAFF_P
+sloveridge@unitec.ac.nz|Sam|Mackenzie|Loveridge|sloveridge@unitec.ac.nz|28121991|21EA|1050850|STAFF_C
+alowe@unitec.ac.nz|Anne||Lowe|anne.lowe@xtra.co.nz|24041954|21BP|1050897|STAFF_C
+wlu@unitec.ac.nz|William||Lu|wlu@unitec.ac.nz|12051964|90TL|1051055|STAFF_F
+mnicol@unitec.ac.nz|Michelle|Colleen|Nicol|mnicol@unitec.ac.nz|26081962|80PG|1053611|STAFF_C
+amcevoy@unitec.ac.nz|Allan|James|McEvoy|amcevoy@unitec.ac.nz|29121965|41SP|1055479|STAFF_F
+jmckane@unitec.ac.nz|Jo|Leigh|McKane|jmckane@unitec.ac.nz|29061972|90AS|1055936|STAFF_F
+pmcpherson@unitec.ac.nz|Peter|James John|McPherson|pmcpherson@unitec.ac.nz|01011980|90AD|1056759|STAFF_F
+bmolyneux@unitec.ac.nz|Taiha|Taiha|Molyneux|bmolyneux@unitec.ac.nz|21031978|80CR|1058673|STAFF_P
+bmolyneux@unitec.ac.nz|Taiha|Taiha|Molyneux|bmolyneux@unitec.ac.nz|21031978|90NW|1058673|STAFF_P
+tmullany@unitec.ac.nz|Tony|Mervyn|Mullany|tmullany@unitec.ac.nz|10091973|41CD|1059929|STAFF_C
+mnaqvi@unitec.ac.nz|Mun||Naqvi|mnaqvi@unitec.ac.nz|16101962|21BP|1060827|STAFF_F
+nnehring@unitec.ac.nz|Natalia||Nehring|nnehring@unitec.ac.nz|20011963|21CS|1061329|STAFF_F
+knewborn01@unitec.ac.nz|Karen|Margaret|Newborn|knewborn01@unitec.ac.nz|13041959|60HR-02|1061428|STAFF_C
+hngo@unitec.ac.nz|Hung|Tuan|Ngo|hngo@unitec.ac.nz|28041970|60OI|1061798|STAFF_F
+rnicolson@unitec.ac.nz|Ronnie|Margaret|Nicolson|rnicolson@unitec.ac.nz|12081947|42BE|1062044|STAFF_C
+borams@unitec.ac.nz|Brett|Graeme|Orams|borams@unitec.ac.nz|20101965|30MA|1063635|STAFF_F
+oormsby@unitec.ac.nz|Owen|James Pouwhero|Ormsby|oormsby@unitec.ac.nz|28101947|42BE|1063704|STAFF_C
+oormsby@unitec.ac.nz|Owen|James Pouwhero|Ormsby|oormsby@unitec.ac.nz|28101947|42BE|1063704|STAFF_P
+oormsby@unitec.ac.nz|Owen|James Pouwhero|Ormsby|oormsby@unitec.ac.nz|28101947|80MA|1063704|STAFF_P
+lorr@unitec.ac.nz|Lesley|Elizabeth|Orr|lorr@unitec.ac.nz|16101969|41HC|1063737|STAFF_C
+kparr@unitec.ac.nz|Kaylene|June|Parr|kparr@unitec.ac.nz|11061958|41SP|1065097|STAFF_P
+kpenetito@unitec.ac.nz|Kim|Himoana|Penetito|kpenetito@unitec.ac.nz|19111964|90NW|1066245|STAFF_C
+fhukui@unitec.ac.nz|Fi|Elisa|Hukui|fhukui@unitec.ac.nz|17031966|41SP|1067237|STAFF_P
+spotauaine@unitec.ac.nz|Semisi|Fetokai|Potauaine|semisi.aadconsultants@gmail.com|13031975|32AR|1068020|STAFF_C
+fpurdon@unitec.ac.nz|Fern|Maree|Purdon|fpurdon@unitec.ac.nz|31011978|40LA|1068997|STAFF_F
+arahman@unitec.ac.nz|Md.||Rahman|arahman@unitec.ac.nz|30091985|32BC|1069461|STAFF_F
+sram@unitec.ac.nz|Shiu||Ram|sram@unitec.ac.nz|02091948|21CS|1069623|STAFF_F
+krodger@unitec.ac.nz|Kate||Rodger|krodger@unitec.ac.nz|07091979|90NW|1072096|STAFF_P
+trussell@unitec.ac.nz|Tamsin|Larainne|Russell|trussell@unitec.ac.nz|29041981|21CI|1073100|STAFF_P
+dryan@unitec.ac.nz|David|Francis|Ryan|dryan@unitec.ac.nz|17041967|31TS|1073200|STAFF_F
+rsigglekow@unitec.ac.nz|Ruben|Christopher|Sigglekow|rubensigglekow@gmail.com|01101975|31TS|1076544|STAFF_F
+esmith@unitec.ac.nz|Emma|Josephine|Smith|esmith@unitec.ac.nz|21121975|21CI|1077933|STAFF_F
+msmith8@unitec.ac.nz|Michelle|Jayne|Watson|msmith8@unitec.ac.nz|01101981|80SS|1078200|STAFF_P
+ttatt@unitec.ac.nz|Tineke|Lauren|Smith|ttatt@unitec.ac.nz|10111976|32BC|1078406|STAFF_C
+astills@unitec.ac.nz|Andrea|Camilla|Stills|astills@unitec.ac.nz|06011978|80AD|1080127|STAFF_P
+msun@unitec.ac.nz|Michelle||Sun|msun@unitec.ac.nz|07101978|90AS|1081075|STAFF_F
+ssweet@unitec.ac.nz|Shaun|Rodney|Sweet|ssweet@unitec.ac.nz|08051970|32BC|1081422|STAFF_F
+hsyrett@unitec.ac.nz|Hamish|John Lachlan|Syrett|hsyrett@unitec.ac.nz|02021978|41CD|1081543|STAFF_C
+dtamati@unitec.ac.nz|Diane|Alicia|Tamati|dtamati@unitec.ac.nz|08071961|80MA|1082002|STAFF_F
+etaylor@unitec.ac.nz|Elizabeth|Esther Maud|Taylor|etaylor@unitec.ac.nz|31121959|80MA|1082849|STAFF_C
+cthatcher@unitec.ac.nz|Campbell|Patrick|Thatcher|cthatcher@unitec.ac.nz|16071967|32BC|1083552|STAFF_C
+gthatcher@unitec.ac.nz|Glenys|Lynne|Thatcher|gthatcher@unitec.ac.nz|26011956|90AS_01|1083554|STAFF_C
+jthorne@unitec.ac.nz|Jo||Thorne|jthorne@unitec.ac.nz|24061978|43EA|1084194|STAFF_F
+rtian@unitec.ac.nz|Chris||Tian|rtian@unitec.ac.nz|10041957|31TS|1084324|STAFF_F
+dtollestrup@unitec.ac.nz|Deirdre|Anne|Tollestrup|dtollestrup@unitec.ac.nz|01041958|80SD|1084919|STAFF_C
+stsai@unitec.ac.nz|Steve||Tsai|stsai@unitec.ac.nz|17061977|32BC|1085683|STAFF_F
+twaddell@unitec.ac.nz|Timothy|Graham|Waddell|twaddell@hotmail.com|29041972|50FM|1088222|STAFF_C
+mwhite@unitec.ac.nz|Marlene|Gordon|White|mwhite@unitec.ac.nz|24071967|40LA|1091161|STAFF_P
+twhite2@unitec.ac.nz|Tanya|Victoria|White|twhite2@unitec.ac.nz|22051965|21CI|1091234|STAFF_C
+twhite2@unitec.ac.nz|Tanya|Victoria|White|twhite2@unitec.ac.nz|22051965|80MA|1091234|STAFF_P
+twhite2@unitec.ac.nz|Tanya|Victoria|White|twhite2@unitec.ac.nz|22051965|80MA|1091234|STAFF_P
+kperez@unitec.ac.nz|Kim|Marina|Perez|kperez@unitec.ac.nz|03101974|41CD|1091270|STAFF_C
+cwong@unitec.ac.nz|Caleb|Caleb|Wong|cwong@unitec.ac.nz|17101984|31VS|1093226|STAFF_F
+rwood@unitec.ac.nz|Becca|Marlene|Wood|becca@beccawood.co.nz|23111971|21CI|1093666|STAFF_F
+zworkneh@unitec.ac.nz|Zelalem|Sileshi|Workneh|zworkneh@unitec.ac.nz|09121970|30MA|1093939|STAFF_F
+lzellman@unitec.ac.nz|Liz||Zellman|lzellman@unitec.ac.nz|16051957|21BP|1096037|STAFF_C
+gzhang@unitec.ac.nz|Grace||Zhang|gzhang@unitec.ac.nz|14101961|80AD|1096325|STAFF_F
+gzhang@unitec.ac.nz|Grace||Zhang|gzhang@unitec.ac.nz|14101961|80SS|1096325|STAFF_F
+bmahmood@unitec.ac.nz|Babar||Mahmood|bmahmood@unitec.ac.nz|18091967|32CS|1096780|STAFF_F
+vyang@unitec.ac.nz|Vincent|Vincent|Yang|vyang@unitec.ac.nz|09091978|60IT-01|1097576|STAFF_F
+mtreadaway@unitec.ac.nz|Maria|Christine|Treadaway|mtreadaway@unitec.ac.nz|04081969|40LA|1098920|STAFF_C
+czhang@unitec.ac.nz|Carol|Yan Carol|Zhang|czhang@unitec.ac.nz|03121978|90TT|1099032|STAFF_F
+yhetalen@unitec.ac.nz|Yo|Lillian Theresa|Heta-Lensen|yhetalensen@unitec.ac.nz|26121960|41CD|1099673|STAFF_C
+enehring@unitec.ac.nz|Eugene|Daniel|Nehring|enehring@unitec.ac.nz|04121976|31TS|1099678|STAFF_F
+vtaumoepeau@unitec.ac.nz|Venusi|Anson|Taumoepeau|vtaumoepeau@unitec.ac.nz|09091982|80PI|1099875|STAFF_F
+lsawyer@unitec.ac.nz|Laura|Latorre|Sawyer|lsawyer@unitec.ac.nz|28081980|80AC|1100451|STAFF_P
+cjenner@unitec.ac.nz|Christopher|Kenneth|Jenner|cjenner@unitec.ac.nz|11041969|60HR-02|1100516|STAFF_C
+pyoung@unitec.ac.nz|Paul|Lee|Young|pyoung@unitec.ac.nz|04081978|21CI|1100624|STAFF_F
+jbudgett@unitec.ac.nz|Jeanette|Anne|Budgett|jbudgett@unitec.ac.nz|12031958|32AR|1101015|STAFF_P
+munderwood@unitec.ac.nz|Maadi|Sashi|Underwood|munderwood@unitec.ac.nz|17121983|43EA|1101550|STAFF_C
+idhanaraj@unitec.ac.nz|Indra|Devi|Dhanaraj|idhanaraj@unitec.ac.nz|12031958|40LA|1101563|STAFF_P
+sconway@unitec.ac.nz|Sally|Rowan|Conway|sconway@unitec.ac.nz|08031963|40LA|1101734|STAFF_F
+sconway@unitec.ac.nz|Sally|Rowan|Conway|sconway@unitec.ac.nz|08031963|40LT|1101734|STAFF_C
+kmcilwain@unitec.ac.nz|Kathy|Katherine|Mcilwain|kmcilwain@unitec.ac.nz|15091959|80SD|1102227|STAFF_F
+ahunt@unitec.ac.nz|Angela||Hunt|ahunt@unitec.ac.nz|13051979|21CS|1102531|STAFF_F
+ahunt@unitec.ac.nz|Angela||Hunt|ahunt@unitec.ac.nz|13051979|21EA|1102531|STAFF_F
+dchaplin@unitec.ac.nz|David|Adrian|Chaplin|dchaplin@unitec.ac.nz|11051946|32AR|1102741|STAFF_F
+ltoki@unitec.ac.nz|Lynda|Tui|Toki|ltoki@unitec.ac.nz|12111950|80MA|1102851|STAFF_F
+rwaters@unitec.ac.nz|Ricky|Keith|Waters|rwaters@unitec.ac.nz|09041955|80SD|1103294|STAFF_P
+mkelderman@unitec.ac.nz|Maurits|Willem|Kelderman|mkelderman@unitec.ac.nz|28121968|32AR|1103384|STAFF_C
+semerson@unitec.ac.nz|Sue|Lynette|Emerson|semerson@unitec.ac.nz|18081956|41CD|1103509|STAFF_F
+semerson@unitec.ac.nz|Sue|Lynette|Emerson|semerson@unitec.ac.nz|18081956|90AD|1103509|STAFF_F
+lhill@unitec.ac.nz|Lynn-Elisabeth||Hill|lhill@unitec.ac.nz|30071958|40LA|1103549|STAFF_P
+rsegedin@unitec.ac.nz|Richard|James|Segedin|rsegedin@unitec.ac.nz|04081953|42BE|1103665|STAFF_C
+rsegedin@unitec.ac.nz|Richard|James|Segedin|rsegedin@unitec.ac.nz|04081953|80AC|1103665|STAFF_C
+mevans@unitec.ac.nz|Margaret|Anne|Evans|mevans@unitec.ac.nz|12021957|80AC|1104099|STAFF_F
+rmoran@unitec.ac.nz|Robert|Wilson|Moran|rmoran@unitec.ac.nz|13021973|41CD|1104224|STAFF_C
+cho@unitec.ac.nz|Celine|Yue Celine|Ho|cho@unitec.ac.nz|09081958|90AS_01|1104394|STAFF_C
+wdassanayake@unitec.ac.nz|Wajira|Kumara|Dassanayake|wdassanayake@unitec.ac.nz|16041964|21BP|1105493|STAFF_F
+kpearce@unitec.ac.nz|Ken|John|Pearce|kpearce@unitec.ac.nz|24011952|40LT|1105504|STAFF_C
+nsheppard@unitec.ac.nz|Nick|Eion|Sheppard|nsheppard@unitec.ac.nz|09011968|60AD|1105583|STAFF_F
+hmehta2@unitec.ac.nz|Hansa||Mehta|hmehta2@unitec.ac.nz|13121954|60HR-02|1105663|STAFF_C
+pclague@unitec.ac.nz|Philip|Marshal|Clague|pclague@unitec.ac.nz|24111956|21EA|1105916|STAFF_F
+mthornton@unitec.ac.nz|Melanie|Jane|Thornton|mthornton@unitec.ac.nz|02061977|41HC|1106015|STAFF_C
+spotier@unitec.ac.nz|Sandra|Clarice|Potier|spotier@unitec.ac.nz|13101952|32AR|1106248|STAFF_F
+apivac@unitec.ac.nz|Andy|Andrew|Pivac|apivac@unitec.ac.nz|19011952|31TS|1106275|STAFF_F
+kmiller@unitec.ac.nz|Karen|Lee|Miller|kmiller@unitec.ac.nz|07071961|90AS|1106878|STAFF_F
+kmcclymo@unitec.ac.nz|Keith|John|McClymont|kmcclymont@unitec.ac.nz|08041960|60HR-02|1106916|STAFF_C
+cmahoney@unitec.ac.nz|Catherine||Mahoney|cmahoney@unitec.ac.nz|01012001|90AS_01|1107505|STAFF_C
+glovell@unitec.ac.nz|Gerard|Vincent|Lovell|glovell@unitec.ac.nz|29031955|21CS|1107530|STAFF_F
+dayling@unitec.ac.nz|Diana|Nadine|Ayling|dayling@unitec.ac.nz|20101959|90TL|1107584|STAFF_P
+gulibas@unitec.ac.nz|Grace|Rimando|Ulibas|gulibas@unitec.ac.nz|17121957|80SR|1108047|STAFF_F
+rnaylor@unitec.ac.nz|Richard|Paul|Naylor|rnaylor@unitec.ac.nz|02061960|40LT|1108269|STAFF_C
+mlim@unitec.ac.nz|Mary|Noella Pui-Ling|Lim|mlim@unitec.ac.nz|31121954|21BP|1108934|STAFF_C
+ddempsey@unitec.ac.nz|Dennis|Grant|Dempsey|ddempsey@unitec.ac.nz|22031945|21EA|1109516|STAFF_C
+alino@unitec.ac.nz|Aulola|Fuka|Lino|alino@unitec.ac.nz|23071978|41SP|1109859|STAFF_F
+amcmanus@unitec.ac.nz|Avian|Coral Makiri|McManus|amcmanus@unitec.ac.nz|02091953|42BE|1110050|STAFF_P
+hwrightson@unitec.ac.nz|Helen|Rae|Wrightson|hwrightson@unitec.ac.nz|28091954|41CD|1110345|STAFF_F
+astubbin@unitec.ac.nz|Anne|Elizabeth|Stubbings|astubbings@unitec.ac.nz|25121961|40LA|1110713|STAFF_C
+astubbin@unitec.ac.nz|Anne|Elizabeth|Stubbings|astubbings@unitec.ac.nz|25121961|40LT|1110713|STAFF_C
+fkey@unitec.ac.nz|Feleti||Key|fkey@unitec.ac.nz|06121960|31TS|1110878|STAFF_F
+rngaro@unitec.ac.nz|Rocxie|Rocxie|Ngaro|rngaro@unitec.ac.nz|16021979|42UP|1111138|STAFF_F
+mperkins2@unitec.ac.nz|Maureen|Charlotte|Perkins|mperkins2@unitec.ac.nz|23051958|90TL|1111177|STAFF_F
+mgarrish@unitec.ac.nz|Melanie||Garrish|mgarrish@unitec.ac.nz|28051963|40LT|1111692|STAFF_C
+mlarge@unitec.ac.nz|Mark|Frederick|Large|mlarge@unitec.ac.nz|31031959|43EA|1112068|STAFF_P
+kpati@unitec.ac.nz|Kamuka||Pati|kpati@unitec.ac.nz|24031981|32BC|1112296|STAFF_F
+lfifita@unitec.ac.nz|Lenisiloti|Sosiua Samiu|Fifita|lfifita@unitec.ac.nz|24091978|31TS|1112650|STAFF_F
+mstewart3@unitec.ac.nz|Matthew|Donald|Stewart|mstewart3@unitec.ac.nz|16071972|41CD|1112702|STAFF_C
+mobrien@unitec.ac.nz|Maureen|Delia|O'Brien|mobrien@unitec.ac.nz|27121957|40LA|1113780|STAFF_C
+jmacdonald@unitec.ac.nz|Janine||MacDonald|jmacdonald@unitec.ac.nz|08051966|90AS_01|1114056|STAFF_C
+rarcher2@unitec.ac.nz|Russell|William|Archer|rarcher2@unitec.ac.nz|09081955|21CS|1115851|STAFF_F
+kdavies@unitec.ac.nz|Kath|Joy|Davies|kdavies@unitec.ac.nz|17061967|32BC|1116708|STAFF_F
+mzhong@unitec.ac.nz|Dr. Qunyan ( Maggie)|Maggie|Zhong|mzhong@unitec.ac.nz|13031963|40LA|1117552|STAFF_P
+dmcintyre@unitec.ac.nz|Denise|Susan|McIntyre|dmcintyre@unitec.ac.nz|03021961|80AC|1117568|STAFF_F
+kcrisp@unitec.ac.nz|Karen|Shirley|Crisp|kcrisp@unitec.ac.nz|18091965|21CI|1117642|STAFF_P
+slatu@unitec.ac.nz|Savae|Savae|Latu|slatu@unitec.ac.nz|30121954|32CS|1117651|STAFF_F
+sdacey@unitec.ac.nz|Simon|George|Dacey|sdacey@unitec.ac.nz|21061959|21CS|1117754|STAFF_F
+gzhang2@unitec.ac.nz|George||Zhang|gzhang2@unitec.ac.nz|26051958|40LT|1118143|STAFF_C
+azhang@unitec.ac.nz|Ally||Zhang|azhang@unitec.ac.nz|09031962|40LT|1118145|STAFF_F
+kiuli@unitec.ac.nz|Kristina||Iuli|kiuli@unitec.ac.nz|18111961|80AC|1118262|STAFF_C
+hzinck@unitec.ac.nz|Hector|Frederick|Zinck|hzinck@unitec.ac.nz|16091953|31VS|1118342|STAFF_F
+jdownie@unitec.ac.nz|Julie|Elizabeth|Downie|jdownie@unitec.ac.nz|09031959|21CI|1118981|STAFF_C
+jdownie@unitec.ac.nz|Julie|Elizabeth|Downie|jdownie@unitec.ac.nz|09031959|21CI|1118981|STAFF_C
+tlomashe@unitec.ac.nz|Tracey|Ann|Lomas-Heavey|tlomasheavey@unitec.ac.nz|30011968|90TT|1119527|STAFF_F
+mmcewen@unitec.ac.nz|Miyuki||McEwen|mmcewen@unitec.ac.nz|29061963|80SR|1120564|STAFF_P
+kschwart@unitec.ac.nz|Kevin|Alexander|Schwartzel|kschwartzel@unitec.ac.nz|15041961|60IT-01|1120584|STAFF_F
+jcullen@unitec.ac.nz|John|Anthony|Cullen|jcullen@unitec.ac.nz|27081954|41CD|1120646|STAFF_C
+isauvari@unitec.ac.nz|Ian|Thomas|Sauvarin|isauvarin@unitec.ac.nz|13011965|42BE|1120660|STAFF_C
+isauvari@unitec.ac.nz|Ian|Thomas|Sauvarin|isauvarin@unitec.ac.nz|13011965|42BE|1120660|STAFF_F
+amunir@unitec.ac.nz|Asma||Munir|amunir@unitec.ac.nz|17111975|90TR|1121005|STAFF_F
+idoyle@unitec.ac.nz|Irene|April|Doyle|idoyle@unitec.ac.nz|08041974|41HC|1121421|STAFF_C
+skumar2@unitec.ac.nz|Nanda|Nandni Devi|Kumar|skumar2@unitec.ac.nz|02011968|80SR|1122368|STAFF_F
+shudson@unitec.ac.nz|Susan|Mary|Hudson|shudson@unitec.ac.nz|21111958|32AR|1123047|STAFF_F
+hhodge@unitec.ac.nz|Hiroko||Hodge|hhodge@unitec.ac.nz|18081971|90AS|1123740|STAFF_F
+troberts@unitec.ac.nz|Tara|Leslie|Roberts|troberts@unitec.ac.nz|29111978|80SL|1123787|STAFF_C
+troberts@unitec.ac.nz|Tara|Leslie|Roberts|troberts@unitec.ac.nz|29111978|80SR|1123787|STAFF_F
+dsmith4@unitec.ac.nz|David|Philip Carleton|Smith|dsmith4@unitec.ac.nz|19051960|40LT|1123942|STAFF_C
+jbrodie@unitec.ac.nz|Jacqueline|Fay|Brodie|jbrodie@unitec.ac.nz|09081961|80SL|1124489|STAFF_F
+saumua@unitec.ac.nz|Sharnell|Kariz Peaario|Aumua|saumua@unitec.ac.nz|07021987|42UP|1124576|STAFF_C
+ngoundar@unitec.ac.nz|Nadesa||Goundar|ngoundar@unitec.ac.nz|27021969|21BP|1124972|STAFF_F
+aheble@unitec.ac.nz|Ayesha||Heble|aheble@unitec.ac.nz|03081951|40LT|1126558|STAFF_C
+pplunkett@unitec.ac.nz|Phil|Benjamin|Plunkett|pplunkett@unitec.ac.nz|13091966|21EA|1126718|STAFF_F
+ksanfordclark@unitec.ac.nz|Kella|Skye|Sanford-Clark|ksanfordclark@unitec.ac.nz|04081984|41HC|1126863|STAFF_C
+sberger@unitec.ac.nz|Sacha|Lois|Berger|sberger@unitec.ac.nz|25011972|43EA|1126982|STAFF_P
+llaulala@unitec.ac.nz|Lance||Laulala|llaulala@unitec.ac.nz|01101956|80AC|1127003|STAFF_P
+pchand@unitec.ac.nz|Prabhat||Chand|pchand@unitec.ac.nz|04081961|31VS|1127171|STAFF_F
+flee@unitec.ac.nz|Frank||Lee|flee@unitec.ac.nz|31101958|32BC|1127923|STAFF_C
+tfriedlander@unitec.ac.nz|Tim|Owen|Friedlander|tfriedlander@unitec.ac.nz|14021980|41CD|1128465|STAFF_P
+hjiang@unitec.ac.nz|Hong||Jiang|hjiang@unitec.ac.nz|20091956|50GT|1128911|STAFF_F
+mkambalapuram@unitec.ac.nz|Manjula||Kambalapuram|mkambalapuram@unitec.ac.nz|13061973|90AS|1129036|STAFF_F
+ishalley@unitec.ac.nz|Ivan|Tony|Shalley|ishalley@unitec.ac.nz|23121959|50FM-04|1129966|STAFF_F
+myan@unitec.ac.nz|Mary|Rong|Yan|myan@unitec.ac.nz|20051965|41HC|1130205|STAFF_P
+mlenehan@unitec.ac.nz|Margaret|Jean|Lenehan|mlenehan@unitec.ac.nz|30081964|32AR|1131922|STAFF_P
+dgarner@unitec.ac.nz|Diane||Garner|dgarner@unitec.ac.nz|24051944|90AS_01|1132524|STAFF_C
+irobertson@unitec.ac.nz|Ian|Stuart|Robertson|irobertson@unitec.ac.nz|08031961|21EA|1132796|STAFF_C
+rgibb@unitec.ac.nz|Rodger|Allan|Gibb|rgibb@unitec.ac.nz|26021961|32CS|1133423|STAFF_F
+jtawaketini2@unitec.ac.nz|Janet|Berenia Christopher|Tawaketini|jtawaketini2@unitec.ac.nz|04011963|80AC|1133605|STAFF_P
+vpratt@unitec.ac.nz|Vicki|Anne|Pratt|v.pratt@ucol.ac.nz|01031968|41HC|1134626|STAFF_C
+ssequeira3@unitec.ac.nz|Sundeep|Peter|Sequeira|ssequeira3@unitec.ac.nz|19101970|41HC|1134883|STAFF_C
+ltuleasc@unitec.ac.nz|Lusa||Tuleasca|ltuleasc@unitec.ac.nz|09081959|32CS|1135097|STAFF_F
+cwells@unitec.ac.nz|Cres||Wells|cwells@unitec.ac.nz|28011960|60HR|1135112|STAFF_F
+igreen@unitec.ac.nz|Ian|Roger|Green|Igreen@unitec.ac.nz|02051984|31VS|1140889|STAFF_F
+jgill@unitec.ac.nz|Julie|Clare|Gill|jgill@unitec.ac.nz|12111965|40LA|1141601|STAFF_P
+asaba@unitec.ac.nz|Ajmal||Saba|asaba@unitec.ac.nz|05081981|21EA|1141737|STAFF_F
+awright@unitec.ac.nz|Angelina|Selestina|Wright|awright@unitec.ac.nz|19051985|40FS|1142095|STAFF_F
+hnorton@unitec.ac.nz|Howard|John|Norton|hnorton@unitec.ac.nz|09061965|90TL|1142098|STAFF_F
+rfuluifa@unitec.ac.nz|Aanoalii Rowena||Fuluifaga|rfuluifaga@unitec.ac.nz|30081976|80SS|1142348|STAFF_F
+dcurtis@unitec.ac.nz|Diana|Peggy|Curtis|dcurtis@unitec.ac.nz|05011954|32AR|1142673|STAFF_P
+cking2@unitec.ac.nz|Chris|James|King|cking2@unitec.ac.nz|02121973|90AD|1143461|STAFF_F
+cking2@unitec.ac.nz|Chris|James|King|cking2@unitec.ac.nz|02121973|90AR|1143461|STAFF_F
+rkelly@unitec.ac.nz|Richard|John|Kelly|rkelly@unitec.ac.nz|22111959|32BC|1143726|STAFF_C
+jtims@unitec.ac.nz|Jackie|Marylyn|Tims|jtims@unitec.ac.nz|13091960|90AS|1143748|STAFF_F
+@unitec.ac.nz|Raewyn|Joy|Knowles|raewyn.knowles@gmail.com|16121966|80SD|1145798|STAFF_C
+tchurch@unitec.ac.nz|Terry|John|Church|tchurch@unitec.ac.nz|05031957|31TS|1147407|STAFF_F
+dyue@unitec.ac.nz|Dennis||Yue|dyue@unitec.ac.nz|07051982|90AS_01|1148169|STAFF_C
+iwardak@unitec.ac.nz|Ismail|Rahimy|Wardak|iwardak@unitec.ac.nz|01011986|32CS|1148336|STAFF_C
+rharvey@unitec.ac.nz|Rod|James|Harvey|rharvey@unitec.ac.nz|09101949|32BC|1152218|STAFF_F
+mgrey2@unitec.ac.nz|Michael|John|Grey|mgrey2@unitec.ac.nz|11051984|32BC|1152535|STAFF_F
+smarshall2@unitec.ac.nz|Stuart|David|Marshall|smarshall2@unitec.ac.nz|30031966|31TS|1152851|STAFF_F
+nasar@unitec.ac.nz|Nitin||Asar|nasar@unitec.ac.nz|12041970|60HR-02|1153857|STAFF_C
+cboswell@unitec.ac.nz|Carron|Lesley|Boswell|cboswell@unitec.ac.nz|15101954|40FS|1154672|STAFF_P
+yshaw@unitec.ac.nz|Yvonne|Louise|Shaw|yshaw@unitec.ac.nz|11061971|21CI|1154831|STAFF_C
+ljacobsen@unitec.ac.nz|Lynne|Joan|Jacobsen|ljacobsen@unitec.ac.nz|18071958|90AS_01|1154940|STAFF_C
+mmulholland@unitec.ac.nz|Maureen|Joy|Mulholland|mmulholland@unitec.ac.nz|06071947|90AS_01|1154948|STAFF_C
+dsalmon@unitec.ac.nz|Donna|Christine|Salmon|dsalmon@unitec.ac.nz|16031963|80AC|1155690|STAFF_F
+kpenney@unitec.ac.nz|Karen|Elizabeth|Penney|kpenney@unitec.ac.nz|14041957|32BC|1156348|STAFF_C
+sverma@unitec.ac.nz|Shiu||Verma|sverma@unitec.ac.nz|16021963|50FM|1159402|STAFF_C
+lturton@unitec.ac.nz|Lee-Anne|Michelle|Turton|lturton@unitec.ac.nz|09021972|41CD|1162106|STAFF_F
+rgreaves@unitec.ac.nz|Rodney|Barry|Greaves|rgreaves@unitec.ac.nz|28011968|80SD|1163791|STAFF_P
+spenchev@unitec.ac.nz|Svetlana|Nikolova|Pencheva|spencheva@unitec.ac.nz|09051959|31VS|1167378|STAFF_F
+twihongi@unitec.ac.nz|Tanya|Maree|Wihongi|twihongi@unitec.ac.nz|30061965|50FM|1168308|STAFF_C
+glokes@unitec.ac.nz|Gregory|Martin|Lokes|glokes@unitec.ac.nz|12111962|50FM-04|1168674|STAFF_F
+mkessner@unitec.ac.nz|Mark|Alexander|Kessner|mark@e3bw.co.nz|09111962|32AR|1172733|STAFF_C
+jmane@unitec.ac.nz|Jo|Patricia|Mane|jmane@unitec.ac.nz|16121958|90NW|1174684|STAFF_C
+jgregory@unitec.ac.nz|June|Mary|Gregory|jgregory@unitec.ac.nz|13011939|90AS_01|1174946|STAFF_C
+akleinbaum@unitec.ac.nz|Andre|Brent|Kleinbaum|akleinbaum@unitec.ac.nz|24111985|41CD|1176097|STAFF_C
+dmurphy@unitec.ac.nz|Denis|John|Murphy|dmurphy@unitec.ac.nz|16081953|50FM-04|1176730|STAFF_F
+kgorman@unitec.ac.nz|Kristy|Louise|Gorman|kgorman@unitec.ac.nz|09081969|21CI|1178572|STAFF_C
+mlawson@unitec.ac.nz|Mark|Adam|Lawson|mlawson@unitec.ac.nz|20011964|31TS|1179206|STAFF_F
+biosia@unitec.ac.nz|Byron||Iosia|biosia@unitec.ac.nz|08071985|80AD|1182023|STAFF_F
+dwalker@unitec.ac.nz|Damian|Leigh|Walker|dwalker@unitec.ac.nz|24111985|32BC|1183173|STAFF_C
+jcrawford@unitec.ac.nz|Joanna||Crawford|joandju@xtra.co.nz|08081969|40LT|1183286|STAFF_C
+jcrawford@unitec.ac.nz|Joanna||Crawford|joandju@xtra.co.nz|08081969|40LT|1183286|STAFF_C
+testlec1@unitec.ac.nz|Test1||Lecturer||15121955|10ZX|1184609|STAFF_C
+@unitec.ac.nz|Eva|Anna Maria|Morris|morrisannamaria@gmail.com|27031961|32AR|1187867|STAFF_C
+cdegroot@unitec.ac.nz|Cristiaan|Hugo|de Groot|cdegroot@unitec.ac.nz|03051970|21CI|1192581|STAFF_F
+jchalmers@unitec.ac.nz|Joseph|William|Chalmers|jchalmers@unitec.ac.nz|03021983|32BC|1193110|STAFF_C
+jvanwesten@unitec.ac.nz|Johan|Everhardus Alida|van Westen|jvanwesten@unitec.ac.nz|15091959|31VS|1193438|STAFF_F
+asajwan@unitec.ac.nz|Anand|Singh|Sajwan|asajwan@unitec.ac.nz|22101972|32BC|1193850|STAFF_P
+asajwan@unitec.ac.nz|Anand|Singh|Sajwan|asajwan@unitec.ac.nz|22101972|80PG|1193850|STAFF_F
+wverhoeff@unitec.ac.nz|Wesley|James|Verhoeff|wverhoeff@unitec.ac.nz|07081984|41CD|1194050|STAFF_F
+aparangi@unitec.ac.nz|Anaru|Paora|Parangi|aparangi@unitec.ac.nz|30091985|42SR|1194716|STAFF_C
+npopov@unitec.ac.nz|Nikolay|Nikolov|Popov|npopov@unitec.ac.nz|25061971|32AR|1194939|STAFF_F
+cwagner@unitec.ac.nz|Cesar|Bernardes|Wagner|cwagner@unitec.ac.nz|17021967|32AR|1195100|STAFF_F
+mszekely@unitec.ac.nz|Mirela||Szekely|mszekely@unitec.ac.nz|24091973|60LD|1195461|STAFF_F
+rcoveny@unitec.ac.nz|Rose||Coveny|rcoveny@unitec.ac.nz|06101948|21BP|1195816|STAFF_C
+aoconnel@unitec.ac.nz|Ainsley|Mary|O'Connell|aoconnell@unitec.ac.nz|27121954|32AR|1196883|STAFF_P
+hkumar@unitec.ac.nz|Hirendra||Kumar|hkumar@unitec.ac.nz|11021973|31VS|1197037|STAFF_F
+mparmenter@unitec.ac.nz|Michael|Earl|Parmenter|mparmenter@unitec.ac.nz|23121954|21CI|1198037|STAFF_C
+swilson2@unitec.ac.nz|Scott|Alexander|Wilson|swilson2@unitec.ac.nz|28021968|21CI|1199804|STAFF_C
+rtenana@unitec.ac.nz|Rihi|Rihi|Tenana|rtenana@unitec.ac.nz|04021960|90NW|1200043|STAFF_C
+snarain@unitec.ac.nz|Surya||Narain|snarain@unitec.ac.nz|10101947|30MA|1201450|STAFF_F
+ssaeed@unitec.ac.nz|Shazneen||Saeed|ssaeed@unitec.ac.nz|29121981|60IT-02|1201672|STAFF_F
+smoriari@unitec.ac.nz|Shane|Robert|Moriarity|smoriarity@unitec.ac.nz|29081944|90RP|1201883|STAFF_C
+apickeri@unitec.ac.nz|Ana||Pickering|apickering@unitec.ac.nz|21121972|42UP|1202178|STAFF_F
+bandreassen@unitec.ac.nz|Brett|David|Andreassen|bandreassen@unitec.ac.nz|10071965|30MA|1202387|STAFF_F
+msharif@unitec.ac.nz|Mohammed|Omar|Sharif|msharif@unitec.ac.nz|05031974|21EA|1202593|STAFF_C
+kkok@unitec.ac.nz|Kham|Hong|Kok|kkok@unitec.ac.nz|17051957|21EA|1203342|STAFF_F
+nyee@unitec.ac.nz|Nigel|George|Yee|nyee@unitec.ac.nz|19111972|21EA|1203471|STAFF_F
+cmorris@unitec.ac.nz|Cherie|Elizabeth|Morris|cmorris@unitec.ac.nz|09101956|90AS_01|1206425|STAFF_C
+smanin@unitec.ac.nz|Sergio||Manin|smanin@unitec.ac.nz|05081957|21EA|1207181|STAFF_C
+spalapati@unitec.ac.nz|Suresh|Kumar|Palapati|spalapati@unitec.ac.nz|11101976|21EA|1207418|STAFF_F
+cschnoor@unitec.ac.nz|Christoph||Schnoor|cschnoor@unitec.ac.nz|23041968|32AR|1207423|STAFF_F
+jsandiego@unitec.ac.nz|Jojo|Santos|San Diego|jsandiego@unitec.ac.nz|02021964|80PG|1207652|STAFF_F
+shosking@unitec.ac.nz|Sandra|Alice|Hosking|shosking@unitec.ac.nz|28111964|41SP|1208598|STAFF_P
+bstock@unitec.ac.nz|Bruce||Stock|bstock@unitec.ac.nz|11111918|60IT|1209778|STAFF_C
+tnimmo@unitec.ac.nz|Tom|Rapson|Nimmo|tnimmo@unitec.ac.nz|06061958|60IT-01|1210086|STAFF_F
+ljustice@unitec.ac.nz|Larry|Ray|Justice|ljustice@unitec.ac.nz|21041956|21CI|1210205|STAFF_F
+jhirzel@unitec.ac.nz|Jurgen|Thomas Kurt|Hirzel|jhirzel@unitec.ac.nz|24021972|60IT|1211201|STAFF_C
+jgu@unitec.ac.nz|Julia||Gu|jgu@unitec.ac.nz|10111975|90AS|1211567|STAFF_F
+rsharma@unitec.ac.nz|Rashika||Sharma|rsharma@unitec.ac.nz|31011980|32BC|1213539|STAFF_F
+mgulley@unitec.ac.nz|Martin|Martin|Gulley|mgulley@unitec.ac.nz|18061966|21EA|1215425|STAFF_F
+atreacher@unitec.ac.nz|Alastair|Graeme|Treacher|atreacher@unitec.ac.nz|27041978|41CD|1217643|STAFF_C
+tnightingalepene@unitec.ac.nz|Tuatahi|Nunkeri Nunga|Nightingale-Pene|tnightingalepene@unitec.ac.nz|29011987|80MA|1218113|STAFF_C
+vperera@unitec.ac.nz|Asela|Asela Dylshan|Perera|vperera@unitec.ac.nz|08081976|31VS|1220542|STAFF_F
+gdougherty@unitec.ac.nz|Gary|Francis|Dougherty|gdougherty@unitec.ac.nz|18051960|21EA|1221865|STAFF_C
+mcraven@unitec.ac.nz|Michael|Howard|Craven|mcraven@unitec.ac.nz|25101985|21CI|1227041|STAFF_F
+ssnedden@unitec.ac.nz|Sam|Edward|Snedden|ssnedden@unitec.ac.nz|23061979|21CI|1229479|STAFF_C
+wloo@unitec.ac.nz|Wei|Yuen|Loo|wloo@unitec.ac.nz|01071966|32CS|1231173|STAFF_F
+rbahmanzad@unitec.ac.nz|Reza|Reza|Bahmanzad|rbahmanzad@unitec.ac.nz|08021968|80PG|1231207|STAFF_F
+dwagner2@unitec.ac.nz|Daniel|Lincoln|Wagner|dwagner2@unitec.ac.nz|12021956|21CI|1231419|STAFF_F
+swang@unitec.ac.nz|Sara||Wang|swang@unitec.ac.nz|01071981|80SC|1231534|STAFF_F
+gdillon@unitec.ac.nz|Grant|Timothy|Dillon|grantdillon@xtra.co.nz|29011957|80SD|1231636|STAFF_C
+kfrancis@unitec.ac.nz|Kerry|Stuart|Francis|kfrancis@unitec.ac.nz|17101949|32AR|1231691|STAFF_F
+tcowie@unitec.ac.nz|Te Mamaeroa||Cowie|tcowie@unitec.ac.nz|21071948|80MA|1232236|STAFF_C
+alenton@unitec.ac.nz|Andrew|Edward Philip|Lenton|alenton@unitec.ac.nz|18121981|41CD|1233004|STAFF_C
+alenton@unitec.ac.nz|Andrew|Edward Philip|Lenton|alenton@unitec.ac.nz|18121981|41CD|1233004|STAFF_F
+lrana@unitec.ac.nz|Lata||Rana|lrana@unitec.ac.nz|28091962|41CD|1233467|STAFF_F
+wolds@unitec.ac.nz|Warren|John|Olds|info@studioahoy.com|04081973|90TR|1233938|STAFF_C
+msaifoloi@unitec.ac.nz|Malama||Saifoloi|msaifoloi@unitec.ac.nz|07031962|21BP|1234167|STAFF_F
+bfellowes@unitec.ac.nz|Belinda||Fellowes|bfellowes@unitec.ac.nz|18041961|41CD|1234363|STAFF_C
+ftominiko@unitec.ac.nz|Falaniko||Tominiko|ftominiko@unitec.ac.nz|04081977|80PI|1234474|STAFF_F
+ftominiko@unitec.ac.nz|Falaniko||Tominiko|ftominiko@unitec.ac.nz|04081977|90PS|1234474|STAFF_F
+snaqama@unitec.ac.nz|Sefanaia||Naqama|snaqama@unitec.ac.nz|25101963|31VS|1234781|STAFF_F
+szeb@unitec.ac.nz|Sophia||Zeb|szeb@unitec.ac.nz|08101968|60HR-02|1235573|STAFF_C
+szeb@unitec.ac.nz|Sophia||Zeb|szeb@unitec.ac.nz|08101968|90AS_01|1235573|STAFF_C
+ghenderson@unitec.ac.nz|Gary|Mitchell|Henderson|ghenderson@unitec.ac.nz|14041955|21CI|1235799|STAFF_C
+skavaliku@unitec.ac.nz|Sione|Levaleti|Kavaliku|skavaliku@unitec.ac.nz|10121964|31VS|1236690|STAFF_F
+bbrown@unitec.ac.nz|Bevan|Miles|Brown|bbrown@unitec.ac.nz|21011978|60IT-03|1237954|STAFF_F
+jkessner@unitec.ac.nz|Jill|Pamela|Kessner|jkessner@unitec.ac.nz|29071964|32BC|1240247|STAFF_C
+tgibson@unitec.ac.nz|Theo|Barrett|Gibson|tgibson@unitec.ac.nz|05081982|21CI|1241279|STAFF_C
+saminian@unitec.ac.nz|Saeideh||Aminian|saeideh_612@yahoo.com|25061972|41CD|1242077|STAFF_F
+vnaidu@unitec.ac.nz|Vijay|Krsna|Naidu|vnaidu@unitec.ac.nz|25071984|21EA|1242715|STAFF_C
+swirjawan@unitec.ac.nz|Silvia|Liestianty|Wirjawan|swirjawan@unitec.ac.nz|25061969|80PG|1243359|STAFF_F
+hyan@unitec.ac.nz|Ashley||Yan|hyan@unitec.ac.nz|17121984|21EA|1243792|STAFF_F
+rboynton@unitec.ac.nz|Richard|John|Boynton|rboynton@unitec.ac.nz|12031957|31TS|1245854|STAFF_F
+tscottnicholson@unitec.ac.nz|Tracey|Anne|Scott-Nicholson|tscottnicholson@unitec.ac.nz|04081966|60HR-02|1247440|STAFF_C
+rpatel@unitec.ac.nz|Rakesh||Patel|rpatel@unitec.ac.nz|20101972|50FN|1248106|STAFF_F
+larcus@unitec.ac.nz|Laurence||Arcus|larcus@unitec.ac.nz|30011950|21EA|1251611|STAFF_C
+bdobbin@unitec.ac.nz|Bill|David|Dobbin|bdobbin@unitec.ac.nz|05111960|50FM|1253463|STAFF_F
+dhebblethwaite@unitec.ac.nz|Denisa|Edith|Hebblethwaite|dhebblethwaite@unitec.ac.nz|09021964|21BP|1259711|STAFF_F
+idexter@unitec.ac.nz|Iain|Jon|Dexter|idexter@unitec.ac.nz|22031973|41CD|1260481|STAFF_C
+cmoore@unitec.ac.nz|Cameron|Stanley|Moore|cmoore@unitec.ac.nz|07101976|32AR|1261643|STAFF_P
+jcurran@unitec.ac.nz|Jake|Kevin|Curran|jcurran@unitec.ac.nz|02101984|31TS|1263403|STAFF_F
+schambers@unitec.ac.nz|Sofia|Pearl|Chambers|schambers@unitec.ac.nz|02121965|43EA|1263830|STAFF_F
+jmacfarlane@unitec.ac.nz|John|Douglas|MacFarlane|jmacfarlane@unitec.ac.nz|13091965|41CD|1265364|STAFF_P
+mzidov@unitec.ac.nz|Maja||Zidov|mzidov@unitec.ac.nz|12071987|60HR|1266026|STAFF_F
+slewin@unitec.ac.nz|Shar|Marie|Lewin|slewin@unitec.ac.nz|08111976|50FM|1268695|STAFF_F
+llovo@unitec.ac.nz|Lisiate||Lovo|llovo@unitec.ac.nz|27091963|50FM-04|1270695|STAFF_F
+whung@unitec.ac.nz|Wing-Tai (Bobby)||Hung|whung@unitec.ac.nz|10101985|21CI|1271149|STAFF_F
+cmitchell@unitec.ac.nz|Cat|Frances|Mitchell|cmitchell@unitec.ac.nz|24051972|90NW|1271300|STAFF_F
+plamwilai@unitec.ac.nz|Peeti||Lamwilai|plamwilai@unitec.ac.nz|07081985|21CI|1271729|STAFF_F
+rgambolati@unitec.ac.nz|Rob|Alan|Gambolati|rgambolati@unitec.ac.nz|10021976|41CD|1271792|STAFF_F
+cwatson2@unitec.ac.nz|Colin|Colin|Watson|collie.watson@gmail.com|11121950|21EA|1272787|STAFF_C
+vfissenden@unitec.ac.nz|Vicki|Joy|Fissenden|vfissenden@unitec.ac.nz|08071954|40LT|1272971|STAFF_C
+aprasad@unitec.ac.nz|Arbin||Prasad|aprasad@unitec.ac.nz|05061973|42UP|1273202|STAFF_F
+lferdinands@unitec.ac.nz|Liz||Ferdinands|lferdinands@unitec.ac.nz|22051953|90AS_01|1273721|STAFF_C
+rmaskell@unitec.ac.nz|Ross|Gordon|Maskell|rmaskell@unitec.ac.nz|05101956|31TS|1274102|STAFF_F
+gsidhu@unitec.ac.nz|Geraldine|Philomena|Sidhu|gsidhu@unitec.ac.nz|27051954|90LY|1274208|STAFF_F
+sbowyer@unitec.ac.nz|Simon|Philip|Bowyer|sbowyer@unitec.ac.nz|27091973|90LY|1274216|STAFF_F
+droberts@unitec.ac.nz|Debbie|Joan|Roberts|droberts@unitec.ac.nz|06061963|42BE|1274228|STAFF_F
+pilgenfritz@unitec.ac.nz|Pedro|Ramos Ilgenfritz|Ilgenfritz|pilgenfritz@unitec.ac.nz|19081972|21CI|1274491|STAFF_F
+jpusateri@unitec.ac.nz|John|Thomas|Pusateri|jpusateri@unitec.ac.nz|03111978|32AR|1274646|STAFF_F
+abakmeedeniya@unitec.ac.nz|Anura|Lakshman|Bakmeedeniya|abakmeedeniya@unitec.ac.nz|10111959|21EA|1274975|STAFF_F
+pchandra@unitec.ac.nz|Prem|Chandra|Samujh|pchandra@unitec.ac.nz|07081962|31VS|1275646|STAFF_F
+apowdrell@unitec.ac.nz|Andrew|Vaughan|Powdrell|apowdrell@unitec.ac.nz|15011972|60IT-02|1276215|STAFF_F
+etan@unitec.ac.nz|Evangeline|Gek-Kin|Tan|etan@unitec.ac.nz|30061960|41CD|1276231|STAFF_P
+bkuhlmann@unitec.ac.nz|Bianca||Kuhlmann|bkuhlmann@unitec.ac.nz|28021971|43EA|1278870|STAFF_F
+sravi@unitec.ac.nz|Shanti|Vaidyanathan|Ravi|sravi@unitec.ac.nz|02081969|60IT-01|1282405|STAFF_F
+sgray2@unitec.ac.nz|Stefan|John|Gray|sgray2@unitec.ac.nz|30051974|60IT|1282762|STAFF_C
+tvinkenvleugel@unitec.ac.nz|Trudy|Ann|Vinkenvleugel|tvinkenvleugel@unitec.ac.nz|11021962|32BC|1283364|STAFF_F
+tvinkenvleugel@unitec.ac.nz|Trudy|Ann|Vinkenvleugel|tvinkenvleugel@unitec.ac.nz|11021962|32CS|1283364|STAFF_F
+jwu@unitec.ac.nz|Jeffrey|Jeffrey|Wu|jwu@unitec.ac.nz|28021980|80SS|1283811|STAFF_F
+zhamid@unitec.ac.nz|Zahid||Hamid|zhamid@unitec.ac.nz|05121981|32CS|1286401|STAFF_C
+akar@unitec.ac.nz|Amruta|Kumar|Kar|akar@unitec.ac.nz|02041953|21EA|1287763|STAFF_F
+tnansen@unitec.ac.nz|Tash|Natasha|Nansen|tnansen@unitec.ac.nz|28081987|32BC|1290335|STAFF_C
+vshukla@unitec.ac.nz|Vimlesh|Narayan|Shukla|vshukla@unitec.ac.nz|20091980|41HC|1292592|STAFF_F
+smcafee@unitec.ac.nz|Steven|Arthur|McAfee|smcafee@unitec.ac.nz|04111949|31VS|1293429|STAFF_P
+aguo@unitec.ac.nz|Anna||Guo|aguo@unitec.ac.nz|01011968|40LA|1293504|STAFF_F
+epapoutsaki@unitec.ac.nz|Evangelia||Papoutsaki|epapoutsaki@unitec.ac.nz|31071969|90TR|1294388|STAFF_C
+epapoutsaki@unitec.ac.nz|Evangelia||Papoutsaki|epapoutsaki@unitec.ac.nz|31071969|90TR|1294388|STAFF_P
+hdai@unitec.ac.nz|Hua||Dai|hdai@unitec.ac.nz|24051966|80AC|1296111|STAFF_P
+eprakash@unitec.ac.nz|Ernest|Shubendra|Prakash|eprakash@unitec.ac.nz|23061958|32BC|1297665|STAFF_F
+reriksen@unitec.ac.nz|Richard|Alfred|Eriksen|reriksen@unitec.ac.nz|01041977|32BC|1298513|STAFF_C
+reriksen@unitec.ac.nz|Richard|Alfred|Eriksen|reriksen@unitec.ac.nz|01041977|32BC|1298513|STAFF_F
+jsaifoloi@unitec.ac.nz|Jarryd|Fa'aete'ete|Saifoloi|jsaifoloi@unitec.ac.nz|06071988|80MK|1300616|STAFF_C
+gsaxby@unitec.ac.nz|Graeme|Michael|Saxby|gsaxby@unitec.ac.nz|04021964|41CD|1301930|STAFF_C
+hmorgan@unitec.ac.nz|Harley|James|Morgan|hmorgan@unitec.ac.nz|11121977|60IT|1302367|STAFF_C
+dmayne@unitec.ac.nz|Derryn|Sharlene|Mayne|dmayne@unitec.ac.nz|17041972|21BP|1302610|STAFF_C
+pbishop@unitec.ac.nz|Pauline|Barbara|Bishop|pbishop@unitec.ac.nz|19111957|41CD|1302785|STAFF_F
+kneho@unitec.ac.nz|Kiri|Jeanette|Neho|kneho@unitec.ac.nz|20041989|80MA|1303063|STAFF_F
+gborich@unitec.ac.nz|George|Peter|Borich|gborich@unitec.ac.nz|15101954|50FM-04|1304313|STAFF_P
+knepe@unitec.ac.nz|Te Korowhati|Wita|Nepe|knepe@unitec.ac.nz|15051986|80MA|1304524|STAFF_C
+awalsh@unitec.ac.nz|Anne|Patricia|Walsh|awalsh@unitec.ac.nz|28091955|41SP|1304655|STAFF_P
+dko@unitec.ac.nz|David||Ko|dko@unitec.ac.nz|17031979|80SD|1304700|STAFF_C
+cnepe@unitec.ac.nz|Chevy|Hone Teina|Nepe|cnepe@unitec.ac.nz|15051986|80MA|1305373|STAFF_C
+lli@unitec.ac.nz|Louise||Li|lli@unitec.ac.nz|24051984|32BC|1305388|STAFF_C
+json@unitec.ac.nz|Jung|Bum|Son|json@unitec.ac.nz|21091979|21CS|1305545|STAFF_C
+testlec2@unitec.ac.nz|Test2||Lecturer||10021988|10ZX|1306419|STAFF_C
+sbampton@unitec.ac.nz|Sarah|Judith|Bampton|sbampton@unitec.ac.nz|01021967|40LA|1306994|STAFF_F
+mshannon@unitec.ac.nz|Marie|Barbara|Shannon|mshannon@unitec.ac.nz|27011960|90RP|1307118|STAFF_C
+mshannon@unitec.ac.nz|Marie|Barbara|Shannon|mshannon@unitec.ac.nz|27011960|90TR|1307118|STAFF_P
+cwee@unitec.ac.nz|Cindy||Wee|cwee@unitec.ac.nz|28091957|80AC|1307122|STAFF_F
+sllavizher@unitec.ac.nz|Sueana|Goan|Llavizher|sllavizher@unitec.ac.nz|22061967|40LT|1307788|STAFF_P
+snand@unitec.ac.nz|Saleshni|Mala|Nand|snand@unitec.ac.nz|12011977|41HC|1307836|STAFF_F
+kdibble@unitec.ac.nz|Kathryn|Eleta|Dibble|kdibble@unitec.ac.nz|14021953|90AS|1307846|STAFF_F
+rmall@unitec.ac.nz|Robina|Shereen|Mall|rmall@unitec.ac.nz|14071959|41HC|1307847|STAFF_F
+rmario@unitec.ac.nz|Rudolph|Johanns|Mario|rmario@unitec.ac.nz|05061967|31VS|1307904|STAFF_F
+dsolomon@unitec.ac.nz|Derrick|Richard|Solomon|dsolomon@unitec.ac.nz|16061958|31VS|1308097|STAFF_F
+jyoon@unitec.ac.nz|Johnnie||Yoon|jyoon@unitec.ac.nz|07111976|50FM|1308858|STAFF_F
+chenderson2@unitec.ac.nz|Cheryl|Linda|Henderson|chenderson2@unitec.ac.nz|03101962|42BE|1309690|STAFF_P
+thanifin@unitec.ac.nz|Trisha|Mary|Hanifin|thanifin@unitec.ac.nz|27091955|42BE|1310291|STAFF_P
+spalfreyman@unitec.ac.nz|Sue||Palfreyman|spalfreyman@unitec.ac.nz|01031964|41CD|1312684|STAFF_F
+schishti@unitec.ac.nz|Shafquat|Ali|Chishti|schishti@unitec.ac.nz|17031961|21CS|1314497|STAFF_C
+asamad@unitec.ac.nz|Aznain|Shalmeen|Samad|asamad@unitec.ac.nz|14021984|32BC|1314612|STAFF_C
+lgaston@unitec.ac.nz|Mila|Georgievna|Gaston|lgaston@unitec.ac.nz|07021963|90AS_01|1314980|STAFF_C
+jrichards@unitec.ac.nz|Julie|Julie|Richards|jrichards@unitec.ac.nz|20041966|50CC|1317705|STAFF_P
+gdavenport@unitec.ac.nz|Gary|Llyod|Davenport|gdavenport@unitec.ac.nz|04061966|32BC|1317774|STAFF_C
+afrancis@unitec.ac.nz|Alfred||Francis|afrancis@unitec.ac.nz|28041952|30MA|1320875|STAFF_F
+ctalamaivao@unitec.ac.nz|Sailauama Cheryl||Talamaivao|ctalamaivao@unitec.ac.nz|13071960|41SP|1322340|STAFF_F
+pdeamer@unitec.ac.nz|Peggy||Deamer|pdeamer@unitec.ac.nz|15021950|32AR|1325030|STAFF_C
+ypatel@unitec.ac.nz|Yusef||Patel|ypatel@unitec.ac.nz|25111989|32AR|1326405|STAFF_F
+tmartin2@unitec.ac.nz|Tina|Carol|Martin|tmartin2@unitec.ac.nz|17111989|32BC|1326550|STAFF_F
+jpepere@unitec.ac.nz|John||Pepere|jpepere@unitec.ac.nz|02111966|31TS|1329094|STAFF_F
+cholt@unitec.ac.nz|Colin|Stuart|Holt|cholt@unitec.ac.nz|17111961|50GT|1330935|STAFF_F
+kcollins@unitec.ac.nz|Kathryn|Sophie|Collins|kcollins@unitec.ac.nz|09061987|32AR|1331725|STAFF_C
+scooper@unitec.ac.nz|Shelley|Anne|Cooper|scooper@unitec.ac.nz|11071961|32AR|1333244|STAFF_P
+iatvars@unitec.ac.nz|Ingrid||Atvars|iatvars@unitec.ac.nz|01081962|32CS|1334204|STAFF_F
+mcarter@unitec.ac.nz|Mathew|James|Carter|mcarter@unitec.ac.nz|24011961|21CI|1334509|STAFF_C
+ndeo@unitec.ac.nz|Noel|Navin|Deo|ingoods@unitec.ac.nz|24051973|50GT|1336286|STAFF_F
+djong@unitec.ac.nz|Deborah||Jong|djong@unitec.ac.nz|20051956|80SD|1336392|STAFF_C
+ygreenfield@unitec.ac.nz|Yvonne||Greenfield|ygreenfield@unitec.ac.nz|11111918|80SD|1336911|STAFF_C
+svanrossum@unitec.ac.nz|Susan|Margaret|Van Rossum|svanrossum@unitec.ac.nz|17101948|40FS|1337595|STAFF_C
+alamont@unitec.ac.nz|Andrea|Kim|Lamont|alamont@unitec.ac.nz|04041969|50FM-01|1338018|STAFF_F
+jtawaketini@unitec.ac.nz|Jone|Valevou|Tawaketini|jtawaketini@unitec.ac.nz|13101960|21EA|1338159|STAFF_F
+elloyd@unitec.ac.nz|Estelle|Mary|Lloyd|elloyd@unitec.ac.nz|17111960|80SD|1338695|STAFF_P
+cgoodwin@unitec.ac.nz|Clare||Goodwin|cgoodwin@unitec.ac.nz|24091965|42BE|1339028|STAFF_F
+sbrebner@unitec.ac.nz|Stephen|Anthony|Brebner|sbrebner@unitec.ac.nz|26091962|90LY|1339513|STAFF_P
+jcorrell@unitec.ac.nz|John|Michael|Correll|jcorrell@unitec.ac.nz|28081961|60IT-02|1339642|STAFF_F
+jpitovao@unitec.ac.nz|Joseph|Evander|Pitovao|jpitovao@unitec.ac.nz|11081973|31TS|1340467|STAFF_F
+dandrews3@unitec.ac.nz|Deacon|Jori|Andrews|dandrews3@unitec.ac.nz|29111990|80MA|1340651|STAFF_C
+adeo@unitec.ac.nz|Arun||Deo|adeo@unitec.ac.nz|12111977|90TR|1340736|STAFF_F
+mkosenko@unitec.ac.nz|Marina||Kosenko|mkosenko@unitec.ac.nz|28071974|60HR-02|1340824|STAFF_C
+awheeler@unitec.ac.nz|Anna|Christine|Wheeler|awheeler@unitec.ac.nz|22121964|80SS|1341535|STAFF_F
+rmcmullan@unitec.ac.nz|Randall||McMullan|rmcmullan@unitec.ac.nz|06091944|32BC|1341573|STAFF_P
+rmcmullan@unitec.ac.nz|Randall||McMullan|rmcmullan@unitec.ac.nz|06091944|32CS|1341573|STAFF_P
+ndussart@unitec.ac.nz|Nathalie|Helene Samantha|Dussart|ndussart@unitec.ac.nz|09061984|41CD|1342044|STAFF_P
+hgremillion@unitec.ac.nz|Helen|Claudia|Gremillion|hgremillion@unitec.ac.nz|20031965|41SP|1342166|STAFF_F
+@unitec.ac.nz|Julienna||Preston|j.preston@massey.ac.nz|11111918|21CI|1342421|STAFF_C
+jiwan@unitec.ac.nz|Joshua|Charles|Iwan|jiwan@unitec.ac.nz|11011988|31VS|1342805|STAFF_F
+jvalentine@unitec.ac.nz|Jonty|Paul|Valentine|jvalentine@unitec.ac.nz|05081970|21CI|1342827|STAFF_F
+aansell@unitec.ac.nz|Abigail||Ansell|aansell@unitec.ac.nz|05081952|60HR-02|1342869|STAFF_C
+aansell@unitec.ac.nz|Abigail||Ansell|aansell@unitec.ac.nz|05081952|90AS_01|1342869|STAFF_C
+dirving@unitec.ac.nz|Daniel|John|Irving|dirving@unitec.ac.nz|23011979|32AR|1343904|STAFF_C
+dirving@unitec.ac.nz|Daniel|John|Irving|dirving@unitec.ac.nz|23011979|32AR|1343904|STAFF_F
+jhuri@unitec.ac.nz|Jennifer|Joy|Huri|jhuri@unitec.ac.nz|21061951|41HC|1343936|STAFF_C
+vroux@unitec.ac.nz|Victor||Roux|vroux@unitec.ac.nz|17031976|41HC|1344051|STAFF_C
+briis@unitec.ac.nz|Bode||Riis|briis@unitec.ac.nz|24021991|21CI|1344210|STAFF_C
+wnightingalepene@unitec.ac.nz|Weka|Julian|Nightingale-Pene|wnightingalepene@unitec.ac.nz|17071991|80MA|1345504|STAFF_C
+gdeshmukh@unitec.ac.nz|Gajanan|Madhav|Deshmukh|gdeshmukh@unitec.ac.nz|19081967|41CD|1345570|STAFF_C
+erandles@unitec.ac.nz|Elaine||Randles|erandles@unitec.ac.nz|11061963|41HC|1346846|STAFF_P
+jbaptist@unitec.ac.nz|Janelle|Louise|Baptist|jbaptist@unitec.ac.nz|22121990|90AS|1346967|STAFF_C
+jbaptist@unitec.ac.nz|Janelle|Louise|Baptist|jbaptist@unitec.ac.nz|22121990|90AS_01|1346967|STAFF_C
+ctunnicliffe@unitec.ac.nz|Craig|Edward|Tunnicliffe|ctunnicliffe@unitec.ac.nz|08011973|41SP|1348752|STAFF_F
+ktoto@unitec.ac.nz|Kevin|John Simpson|Toto|ktoto@unitec.ac.nz|14061979|41CD|1349447|STAFF_C
+ktoto@unitec.ac.nz|Kevin|John Simpson|Toto|ktoto@unitec.ac.nz|14061979|80SP|1349447|STAFF_P
+swallbank@unitec.ac.nz|Sue|Lillian|Wallbank|swallbank@unitec.ac.nz|27121959|80SD|1350204|STAFF_F
+hluka@unitec.ac.nz|Helen||Luka|hluka@unitec.ac.nz|06071955|80AD|1350512|STAFF_P
+hluka@unitec.ac.nz|Helen||Luka|hluka@unitec.ac.nz|06071955|80SS|1350512|STAFF_P
+rnajm@unitec.ac.nz|Rafat||Najm|r_najm@hotmail.com|29091971|80SD|1350689|STAFF_C
+nmoroz@unitec.ac.nz|Natalia||Moroz|nmoroz@unitec.ac.nz|15061966|50FN|1350830|STAFF_F
+srajput@unitec.ac.nz|Sita|Nainsingh|Rajput|srajput@unitec.ac.nz|04101984|42BE|1351886|STAFF_C
+cvanwinkel@unitec.ac.nz|Carly||Van Winkel|cvanwinkel@unitec.ac.nz|27091987|42BE|1352098|STAFF_F
+shangartner@unitec.ac.nz|Sarah|Margaret|Hangartner|shangartner@unitec.ac.nz|27041967|42BE|1352160|STAFF_P
+mhall2@unitec.ac.nz|Min||Hall|mhall2@unitec.ac.nz|20121956|32AR|1352348|STAFF_P
+lheaps@unitec.ac.nz|Louise|Helen|Heaps|lheaps@unitec.ac.nz|26061964|32BC|1352797|STAFF_C
+bpatel@unitec.ac.nz|Bhavin|Rameshlal|Patel|bpatel@unitec.ac.nz|18121990|60IT-02|1353042|STAFF_F
+lkistan@unitec.ac.nz|Leslie||Kistan|lkistan@unitec.ac.nz|06101971|41HC|1353052|STAFF_F
+glolohea@unitec.ac.nz|Giovanni|Tevita Moengangongo|Lolohea|glolohea@unitec.ac.nz|24071990|41HC|1353136|STAFF_C
+lcarter@unitec.ac.nz|Lindy|Joy|Carter|lcarter@unitec.ac.nz|03111955|42BE|1353850|STAFF_P
+rgandell@unitec.ac.nz|Robyn|Lesley|Gandell|rgandell@unitec.ac.nz|18081959|42BE|1353938|STAFF_P
+jtautuhi@unitec.ac.nz|Joy|Aroha Katene|Tautuhi|jtautuhi@unitec.ac.nz|28061987|80SD|1353967|STAFF_P
+dnicol@unitec.ac.nz|David||Nicol|dnicol@unitec.ac.nz|11011961|30MA|1354059|STAFF_F
+cking3@unitec.ac.nz|Carolyn||King|cking3@unitec.ac.nz|12101958|80AC|1354694|STAFF_C
+dvora@unitec.ac.nz|Dipti||Vora|dvora@unitec.ac.nz|05101968|80AC|1354717|STAFF_F
+ajenkins@unitec.ac.nz|Adrian||Jenkins|ajenkins@unitec.ac.nz|16031972|80AC|1354719|STAFF_F
+dzhao@unitec.ac.nz|Dan||Zhao|dzhao@unitec.ac.nz|01011964|40LA|1354819|STAFF_F
+dzhao@unitec.ac.nz|Dan||Zhao|dzhao@unitec.ac.nz|01011964|40LT|1354819|STAFF_C
+dzhao@unitec.ac.nz|Dan||Zhao|dzhao@unitec.ac.nz|01011964|40LT|1354819|STAFF_F
+emontano@unitec.ac.nz|Antonio|Antonio Machuca|Machuca Montano|emontano@unitec.ac.nz|10071988|80BR|1354881|STAFF_C
+ckristensen@unitec.ac.nz|Connie||Kristensen|ckristensen@unitec.ac.nz|01021957|80AC|1354888|STAFF_C
+nwilkinson@unitec.ac.nz|Natalie|Jacqueline Chislett|Wilkinson|nwilkinson@unitec.ac.nz|29101960|80AC|1355161|STAFF_C
+scrossan@unitec.ac.nz|Sue|Margaret|Crossan|scrossan@unitec.ac.nz|07121963|90AS|1355280|STAFF_F
+lsolomon@unitec.ac.nz|Lynette|Ann|Solomon|lsolomon@unitec.ac.nz|01121962|40FS|1355917|STAFF_P
+pkoren@unitec.ac.nz|Peter|John|Koren|pkoren@unitec.ac.nz|31011958|80AC|1355949|STAFF_C
+hrenata@unitec.ac.nz|Hohepa|William|Renata|hrenata@unitec.ac.nz|28061970|80MA|1355950|STAFF_F
+nsullivan@unitec.ac.nz|Nikki|Anne|Sullivan|nsullivan@unitec.ac.nz|15061972|21CS|1356364|STAFF_P
+pfaumuina@unitec.ac.nz|Polisi||Faumuina|pfaumuina@unitec.ac.nz|16121956|32BC|1356870|STAFF_F
+jgallagher@unitec.ac.nz|Joanne|Hepi|Gallagher|jgallagher@unitec.ac.nz|30011993|90NW|1357364|STAFF_F
+radhanom@unitec.ac.nz|Rahwa|Kahasay|Adhanom|radhanom@unitec.ac.nz|04061988|80AD|1359136|STAFF_F
+alai@unitec.ac.nz|Anthony|Kee Huong|Lai|alai@unitec.ac.nz|27011970|21EA|1359332|STAFF_F
+cmeng@unitec.ac.nz|Cici||Meng|cmeng@unitec.ac.nz|03011986|80PG|1360804|STAFF_F
+lhelmling@unitec.ac.nz|Lisa|Sheridan|Helmling|lhelmling@unitec.ac.nz|27101984|41CD|1360830|STAFF_C
+tberry@unitec.ac.nz|Terri-Ann||Berry|tberry@unitec.ac.nz|12091972|32CS|1362423|STAFF_F
+kguy@unitec.ac.nz|Katy|Leigh Bethell|Guy|kguy@unitec.ac.nz|06041960|80AC|1362917|STAFF_C
+rdrewling@unitec.ac.nz|Regina|Gerda Maria|Drewling|rdrewling@unitec.ac.nz|10081965|80SL|1362951|STAFF_F
+afrecklington@unitec.ac.nz|Adam|James|Frecklington|afrecklington@unitec.ac.nz|25061994|32BC|1365659|STAFF_C
+wpinto@unitec.ac.nz|Wilma|Stephanie|Pinto|wpinto@unitec.ac.nz|08021974|80AD|1365779|STAFF_F
+mratana@unitec.ac.nz|Maia|Una Te Aomihia|Ratana|mratana@unitec.ac.nz|15071989|32AR|1366183|STAFF_P
+mratana@unitec.ac.nz|Maia|Una Te Aomihia|Ratana|mratana@unitec.ac.nz|15071989|90NW|1366183|STAFF_P
+chome2@unitec.ac.nz|Carol|Ann|Home|chome2@unitec.ac.nz|24121962|21CS|1366425|STAFF_C
+cbrown@unitec.ac.nz|Christine|Joyce|Brown|cbrown@unitec.ac.nz|26031964|90AS_01|1367233|STAFF_C
+snash@unitec.ac.nz|Simon|Joseph|Nash|snash@unitec.ac.nz|05081965|10CE|1367247|STAFF_F
+dlorigan@unitec.ac.nz|Diane|Elizabeth|Lorigan|dlorigan@unitec.ac.nz|10011959|60HS|1367629|STAFF_F
+rlaing@unitec.ac.nz|Ruth|Anne|Laing|rlaing@unitec.ac.nz|12011961|80AC|1368093|STAFF_F
+jmcwatters@unitec.ac.nz|John|Kenneth|McWatters||23011947|90AS_01|1368157|STAFF_C
+awessels@unitec.ac.nz|Antoinette||Wessels|awessels@unitec.ac.nz|18031962|21BP|1368672|STAFF_F
+nkearns@unitec.ac.nz|Nick|Bernard Francis|Kearns|nkearns@unitec.ac.nz|21091958|21BP|1369539|STAFF_F
+dmcnabb@unitec.ac.nz|David|John|McNabb|dmcnabb@unitec.ac.nz|13031960|41SP|1370088|STAFF_P
+rmoasegi@unitec.ac.nz|Rolani||Moasegi|rmoasegi@unitec.ac.nz|28041988|80AD|1370123|STAFF_F
+rmoasegi@unitec.ac.nz|Rolani||Moasegi|rmoasegi@unitec.ac.nz|28041988|80SS|1370123|STAFF_F
+abulkeley@unitec.ac.nz|Anna||Bulkeley|abulkeley@unitec.ac.nz|12111975|32AR|1370216|STAFF_C
+dpoyner@unitec.ac.nz|David|William|Poyner|dpoyner@unitec.ac.nz|05031963|32CS|1370668|STAFF_F
+achitalia@unitec.ac.nz|Abha|Kartik|Chitalia|achitalia@unitec.ac.nz|30111979|90TL|1370835|STAFF_F
+bmaru@unitec.ac.nz|Brian|Charles Ngariki|Maru|bmaru@unitec.ac.nz|19111986|21CI|1371526|STAFF_C
+rpaenga@unitec.ac.nz|Rongomai|Waikahua|Paenga|rpaenga@unitec.ac.nz|22101986|80MA|1371715|STAFF_C
+prees@unitec.ac.nz|Peter|Julian|Rees|prees@unitec.ac.nz|02081974|21CI|1372209|STAFF_F
+agheitasi@unitec.ac.nz|Alireza||Gheitasi|agheitasi@unitec.ac.nz|18061980|21EA|1372267|STAFF_C
+dsidhu@unitec.ac.nz|Deepinder||Sidhu|dsidhu@unitec.ac.nz|12101979|21EA|1372271|STAFF_F
+asimmons2@unitec.ac.nz|Andrea|Clare|Simmons|asimmons2@unitec.ac.nz|26071964|80AC|1372501|STAFF_C
+lbaglow@unitec.ac.nz|Lee|Lenard|Baglow|lbaglow@unitec.ac.nz|14111969|90AD|1372696|STAFF_F
+apinto@unitec.ac.nz|Astrid|Mathilda Venetina|Pinto|apinto@unitec.ac.nz|17041991|80PG|1372900|STAFF_F
+bmassey@unitec.ac.nz|Brenda|Jane|Massey|bmassey@unitec.ac.nz|01051976|90TR|1372923|STAFF_F
+pjefferies@unitec.ac.nz|Peter||Jefferies|pjefferies@unitec.ac.nz|18061966|40LA|1373046|STAFF_C
+aantonio@unitec.ac.nz|Abraham|Joshua Torrente|Antonio|aantonio@unitec.ac.nz|07041991|32BC|1373129|STAFF_C
+spowell2@unitec.ac.nz|Susan|Frances|Powell|spowell2@unitec.ac.nz|13111949|42BE|1373165|STAFF_C
+jjansen@unitec.ac.nz|Jacqui|Maria|Jansen|jjansen@unitec.ac.nz|05041961|41HC|1373261|STAFF_F
+ocenan@unitec.ac.nz|Otilia||Cenan|ocenan@unitec.ac.nz|12121964|43EA|1373531|STAFF_F
+rwilkinson@unitec.ac.nz|Renee|Lisa Reremoana|Wilkinson|rwilkinson@unitec.ac.nz|08111985|42UP|1373556|STAFF_F
+ysang@unitec.ac.nz|Yvonne|Josee|Sang|ysang@unitec.ac.nz|13021960|90LY|1374258|STAFF_P
+rmcnamara@unitec.ac.nz|Rhiannon|Marie|McNamara|rmcnamara@unitec.ac.nz|23031970|90TL|1374800|STAFF_F
+ystewart@unitec.ac.nz|Yvonne|Christine|Stewart|ystewart@unitec.ac.nz|03101950|90AS_01|1375435|STAFF_C
+hwilson@unitec.ac.nz|Hugh|Bracken|Wilson|hwilson@unitec.ac.nz|10021962|32CS|1375490|STAFF_F
+psaifoloi@unitec.ac.nz|Pava T|Talouli|Saifoloi|psaifoloi@unitec.ac.nz|09021957|80PI|1375661|STAFF_F
+rmarsters@unitec.ac.nz|Ruth|Tarita|Marsters|rmarsters@unitec.ac.nz|18021979|80SS|1375782|STAFF_F
+freinhold@unitec.ac.nz|Frank||Reinhold|freinhold@unitec.ac.nz|02041969|50FM-04|1376293|STAFF_F
+gaguilar@unitec.ac.nz|Glenn||Aguilar|gaguilar@unitec.ac.nz|23121963|43EA|1377318|STAFF_F
+wholmes@unitec.ac.nz|Wayne|Stephen|Holmes|wholmes@unitec.ac.nz|12061964|21EA|1377579|STAFF_F
+wholmes@unitec.ac.nz|Wayne|Stephen|Holmes|wholmes@unitec.ac.nz|12061964|42UP|1377579|STAFF_F
+kbruffy@unitec.ac.nz|Katherine|Conner|Bruffy|kbruffy@unitec.ac.nz|21061982|90AD|1377721|STAFF_F
+pmatthewson@unitec.ac.nz|Peter|James|Matthewson|pmatthewson@unitec.ac.nz|30121955|41SP|1378115|STAFF_F
+kmittra@unitec.ac.nz|Kaberi||Mittra|kmittra@unitec.ac.nz|03071959|90AS|1378553|STAFF_F
+mpaki2@unitec.ac.nz|Michelle|Joy|Paki|mpaki2@unitec.ac.nz|16031966|80SC|1378631|STAFF_F
+lmismash@unitec.ac.nz|Lester|Marlene|Mismash|lmismash@unitec.ac.nz|03021967|32AR|1378865|STAFF_P
+ssubramanian@unitec.ac.nz|Shankar||Subramanian|ssubramanian@unitec.ac.nz|01111954|21CS|1378928|STAFF_C
+tlelaulu@unitec.ac.nz|Tuputau|Sione|Lelaulu|tlelaulu@unitec.ac.nz|07021993|32AR|1380331|STAFF_C
+mbhatia@unitec.ac.nz|Manali|Chetan|Bhatia|mbhatia@unitec.ac.nz|22101992|21CI|1381633|STAFF_C
+jaley@unitec.ac.nz|Joanne|Patricia|Aley|jaley@unitec.ac.nz|22101971|43EA|1381717|STAFF_C
+esu@unitec.ac.nz|Eileen||Su|esu@unitec.ac.nz|08121979|80IN|1381945|STAFF_F
+iscott@unitec.ac.nz|Ian||Scott|iscott@unitec.ac.nz|20011961|50FN|1382690|STAFF_C
+ddcruz@unitec.ac.nz|Daniel|Keith|D'Cruz|ddcruz@unitec.ac.nz|25101993|32BC|1384151|STAFF_C
+kpetanaioka@unitec.ac.nz|Karen|Maree|Petana-Ioka|kpetanaioka@unitec.ac.nz|29081962|42BE|1384296|STAFF_F
+csalas@unitec.ac.nz|Carl|Von Louie Pandusulan|Salas|csalas@unitec.ac.nz|01091992|32AR|1384864|STAFF_F
+mhainestewhare@unitec.ac.nz|Marama|Marama|Haines-Te Whare|mhainestewhare@unitec.ac.nz|03101993|80MA|1385128|STAFF_F
+kdealwis@unitec.ac.nz|Kasun|Chamikara|De Alwis|kdealwis@unitec.ac.nz|23051990|31VS|1385372|STAFF_F
+pdoggett@unitec.ac.nz|Peter|Benjamin|Doggett|pdoggett@unitec.ac.nz|29041953|50FN|1385482|STAFF_C
+dbrown3@unitec.ac.nz|Dana|Roharia|Brown|dbrown3@unitec.ac.nz|19091992|41HC|1385562|STAFF_C
+dbrown3@unitec.ac.nz|Dana|Roharia|Brown|dbrown3@unitec.ac.nz|19091992|80SP|1385562|STAFF_C
+lsong@unitec.ac.nz|Lei||Song|lsong@unitec.ac.nz|10081979|21CS|1386694|STAFF_F
+muthumalebbe@unitec.ac.nz|Mohamed|Nusky|Uthumalebbe|muthumalebbe@unitec.ac.nz|26051990|60HR-02|1387178|STAFF_C
+kharder@unitec.ac.nz|Kate|Philippa|Harder|kharder@unitec.ac.nz|02041984|43EA|1387709|STAFF_F
+flilian@unitec.ac.nz|Fay||Lilian|fay.lil@xtra.co.nz|14041948|80SD|1388125|STAFF_C
+amckay@unitec.ac.nz|Anne|Catherine|McKay|amckay@unitec.ac.nz|06091959|90TL|1388404|STAFF_F
+raguilar@unitec.ac.nz|Riza||Aguilar|raguilar@unitec.ac.nz|30121960|90AS|1388672|STAFF_F
+jthorogood@unitec.ac.nz|Joanna||Thorogood|jthorogood@unitec.ac.nz|30121958|41HC|1388722|STAFF_F
+doleary@unitec.ac.nz|Dustyn|Haley|O'Leary|doleary@unitec.ac.nz|07091989|32AR|1388919|STAFF_C
+ushinde@unitec.ac.nz|Urvashi|Ramchandra|Shinde|ushinde@unitec.ac.nz|27021985|80PG|1389092|STAFF_F
+athumath@unitec.ac.nz|Andrea|Faye|Thumath|athumath@unitec.ac.nz|10111975|42UP|1389127|STAFF_F
+athumath@unitec.ac.nz|Andrea|Faye|Thumath|athumath@unitec.ac.nz|10111975|90LS|1389127|STAFF_F
+echai@unitec.ac.nz|Ted|Khin|Chai|echai@unitec.ac.nz|01101960|32CS|1390961|STAFF_F
+friches@unitec.ac.nz|Fiona||Riches|friches@unitec.ac.nz|17091965|90AS|1391398|STAFF_F
+pthomson@unitec.ac.nz|Penny|Lovell|Thomson|pthomson@unitec.ac.nz|03061970|90TR|1391518|STAFF_P
+mmcgarrigle@unitec.ac.nz|Malachy|Joseph|McGarrigle|mmcgarrigle@unitec.ac.nz|02061964|32BC|1391738|STAFF_P
+abasnyat@unitec.ac.nz|Ashutosh||Basnyat|abasnyat@unitec.ac.nz|01031982|80AC|1391754|STAFF_F
+tlove@unitec.ac.nz|Trish|Mary|Love|tlove@unitec.ac.nz|19031970|32AR|1392450|STAFF_C
+fmehmood@unitec.ac.nz|Fatima||Mehmood|fmehmood@unitec.ac.nz|04011990|80SR|1392509|STAFF_F
+kgeldard@unitec.ac.nz|Kristine|Louise|Geldard|kgeldard@unitec.ac.nz|10111957|40LT|1392889|STAFF_C
+rdewerse@unitec.ac.nz|Rosemary|Bell|Dewerse|rdewerse@unitec.ac.nz|11081971|41CD|1393044|STAFF_C
+mrathod@unitec.ac.nz|Manali|Pranav|Rathod|mrathod@unitec.ac.nz|14111979|80PG|1393150|STAFF_F
+arobertson2@unitec.ac.nz|Angus|Anstruther|Robertson|arobertson2@unitec.ac.nz|02051958|31TS|1393640|STAFF_F
+mlook@unitec.ac.nz|Morgan||Look|mlook@unitec.ac.nz|22121975|21EA|1393884|STAFF_F
+ehenry2@unitec.ac.nz|Erica|Frances|Henry|henrytribe@hotmail.com|06091953|90AS_01|1393932|STAFF_C
+iardekani@unitec.ac.nz|Iman|Tabatabaei|Ardekani|iardekani@unitec.ac.nz|19091978|21CS|1394129|STAFF_F
+smarley@unitec.ac.nz|Samuel||Marley|smarley@unitec.ac.nz|12031989|21BP|1394219|STAFF_C
+trajkotwala@unitec.ac.nz|Tasneem|Shabbir|Rajkotwala|trajkotwala@unitec.ac.nz|04101974|80PG|1394656|STAFF_F
+lwesterlund@unitec.ac.nz|Lisa||Westerlund|lwesterlund@unitec.ac.nz|08121989|30MA|1394750|STAFF_F
+ychen3@unitec.ac.nz|Yiling||Chen|ychen3@unitec.ac.nz|27051992|21CI|1394820|STAFF_C
+sgardiner@unitec.ac.nz|Shirley|Helen|Gardiner|sgardiner@unitec.ac.nz|06031948|90AS_01|1395824|STAFF_C
+lspears@unitec.ac.nz|Louise||Spears|lspears@unitec.ac.nz|25061969|50FN|1396715|STAFF_C
+bhilliard@unitec.ac.nz|Bruce|Anthony|Hilliard|bhilliard@unitec.ac.nz|17071970|30MA|1396773|STAFF_F
+dhoughton@unitec.ac.nz|Donald|Graham|Houghton|dhoughton@unitec.ac.nz|15081948|32CS|1396782|STAFF_C
+bsarrafpour@unitec.ac.nz|Bahman||Sarrafpour|bsarrafpour@unitec.ac.nz|21091959|21CS|1397681|STAFF_F
+aking2@unitec.ac.nz|Andrea|Sisk|King|aking2@unitec.ac.nz|30071953|90AS_01|1398140|STAFF_C
+jpaul@unitec.ac.nz|Jacqueline|Claudia|Paul|jpaul@unitec.ac.nz|06121993|32AR|1398849|STAFF_C
+jpaul@unitec.ac.nz|Jacqueline|Claudia|Paul|jpaul@unitec.ac.nz|06121993|90NW|1398849|STAFF_F
+npizzini@unitec.ac.nz|Nigel||Pizzini|npizzini@unitec.ac.nz|10081965|41SP|1399260|STAFF_P
+npizzini@unitec.ac.nz|Nigel||Pizzini|npizzini@unitec.ac.nz|10081965|80SD|1399260|STAFF_C
+athomas@unitec.ac.nz|Adriana|Louise|Thomas|athomas@unitec.ac.nz|31101979|40LT|1399853|STAFF_C
+cwang4@unitec.ac.nz|Crystal|Lu|Wang|cwang4@unitec.ac.nz|22061991|80MK|1401110|STAFF_F
+ochristos@unitec.ac.nz|Oliver|George|Christos|ochristos@unitec.ac.nz|05111984|60HR-02|1401121|STAFF_C
+shenderson@unitec.ac.nz|Suzanne|Christine|Henderson|shenderson@unitec.ac.nz|19101949|80SD|1401202|STAFF_C
+ftonga@unitec.ac.nz|Laki|Kafovalu|Tonga|ftonga@unitec.ac.nz|17021990|80PG|1401592|STAFF_F
+myurak@unitec.ac.nz|Malcolm|Vincent|Yurak|myurak@unitec.ac.nz|12111961|50GT|1401915|STAFF_F
+jmcculloch@unitec.ac.nz|Jane|Mary|McCulloch|jmcculloch@unitec.ac.nz|21101976|41CD|1402200|STAFF_C
+rcaddy@unitec.ac.nz|Rachel|Lauren|Caddy|rcaddy@unitec.ac.nz|08101992|50CC|1403220|STAFF_F
+svelloreranganathan@unitec.ac.nz|Sanjeev|Kumar|Vellore Ranganathan|svelloreranganathan@unitec.ac.nz|31051974|21BP|1403722|STAFF_F
+adavid@unitec.ac.nz|Andrew||David|adavid@unitec.ac.nz|14031983|21CS|1404063|STAFF_F
+amarshall2@unitec.ac.nz|Andrew|James|Marshall|amarshall2@unitec.ac.nz|25051984|90RP|1404104|STAFF_P
+amarshall2@unitec.ac.nz|Andrew|James|Marshall|amarshall2@unitec.ac.nz|25051984|90TR|1404104|STAFF_P
+hfinauhakalo@unitec.ac.nz|Helena||Finau-Hakalo|hfinauhakalo@unitec.ac.nz|30081989|80SS|1405684|STAFF_F
+ahope@unitec.ac.nz|Angel-Rose|Davina Macleod|Hope|ahope@unitec.ac.nz|23111994|80BR|1405969|STAFF_C
+arahimi@unitec.ac.nz|Asra|Majed|Rahimi|arahimi@unitec.ac.nz|05041984|21CS|1406192|STAFF_C
+awhitham@unitec.ac.nz|Alexandra|Catherine|Whitham|awhitham@unitec.ac.nz|18071976|21CI|1406260|STAFF_F
+handerson@unitec.ac.nz|Helen||Anderson|handerson@unitec.ac.nz|11111918|41CD|1406493|STAFF_F
+bsingh2@unitec.ac.nz|Bal||Singh|bsingh2@unitec.ac.nz|08091980|60HR-02|1407693|STAFF_C
+rharford@unitec.ac.nz|Richard|John|Harford|rharford@unitec.ac.nz|09031952|21BP|1408045|STAFF_C
+bstevens@unitec.ac.nz|Brian|William Cyril|Stevens|bstevens@unitec.ac.nz|25021962|32BC|1408539|STAFF_C
+hwimalachandra@unitec.ac.nz|Hasita||Wimalachandra|hwimalachandra@unitec.ac.nz|15051957|50FN|1408803|STAFF_C
+cstoddard@unitec.ac.nz|Christopher|Paul|Stoddard|cstoddard@unitec.ac.nz|02051967|31TS|1409349|STAFF_F
+amariemarsh@unitec.ac.nz|Anne-Marie||Marsh|ammarsh@xtra.co.nz|05041966|41HC|1409404|STAFF_C
+djung@unitec.ac.nz|Ducksoo||Jung|djung@unitec.ac.nz|12041972|30MA|1409832|STAFF_F
+sgregory@unitec.ac.nz|Susan|Kathleen|Gregory|sgregory@unitec.ac.nz|17031950|90AS_01|1410276|STAFF_C
+dmenzies@unitec.ac.nz|Diane|Helen|Menzies|dmenzies@unitec.ac.nz|28041946|32AR|1410653|STAFF_C
+ryu@unitec.ac.nz|Fengfei||Yu|ryu@unitec.ac.nz|16081978|31TS|1411289|STAFF_F
+kparkar@unitec.ac.nz|Khalid|Ibrahim|Parkar|kparkar@unitec.ac.nz|17121993|21CI|1411656|STAFF_C
+@unitec.ac.nz|Jacqueline|Helen|Thorley|jthornley@unitec.ac.nz|01111948|90AS_01|1411761|STAFF_C
+dparish@unitec.ac.nz|Deirdre|Anne|Parish|dparish@unitec.ac.nz|10121951|90AS_01|1411763|STAFF_C
+dfutter@unitec.ac.nz|Douglas|Charles|Futter|dfutter@unitec.ac.nz|04111951|21BP|1412202|STAFF_C
+mfok@unitec.ac.nz|Michael|Siu Kin|Fok|mfok@unitec.ac.nz|02091978|80SR|1412314|STAFF_F
+hmartin2@unitec.ac.nz|Hamish|Andrew|Martin|hmartin2@unitec.ac.nz|14051970|60IT|1412421|STAFF_F
+hmartin2@unitec.ac.nz|Hamish|Andrew|Martin|hmartin2@unitec.ac.nz|14051970|90OP|1412421|STAFF_F
+madams2@unitec.ac.nz|Mathew|Thomas|Adams|madams2@unitec.ac.nz|01041978|60IT-03|1412629|STAFF_F
+pkuku@unitec.ac.nz|Pasawhtee||Kuku|pkuku@unitec.ac.nz|29121994|32AR|1412847|STAFF_C
+rkudin@unitec.ac.nz|Roman||Kudin|rkudin@unitec.ac.nz|13031975|21EA|1413026|STAFF_F
+cpirika@unitec.ac.nz|Camelia|Ann|Pirika|cpirika@unitec.ac.nz|25021982|80MA|1413377|STAFF_F
+cpirika@unitec.ac.nz|Camelia|Ann|Pirika|cpirika@unitec.ac.nz|25021982|80SD|1413377|STAFF_F
+eburden@unitec.ac.nz|Emily||Burden|emilyy.b@hotmail.co.nz|13021996|43EA|1413570|STAFF_C
+eburden@unitec.ac.nz|Emily||Burden|emilyy.b@hotmail.co.nz|13021996|43EA|1413570|STAFF_P
+emotu@unitec.ac.nz|Elizabeth|Rose April|Motu|emotu@unitec.ac.nz|26081985|80MA|1414163|STAFF_C
+mbogosanovic@unitec.ac.nz|Mirjana||Bogosanovic|mbogosanovic@unitec.ac.nz|14071965|21EA|1414165|STAFF_F
+dleyland@unitec.ac.nz|Dale|Heather|Leyland|dleyland@unitec.ac.nz|29051962|21CI|1414556|STAFF_F
+jrata@unitec.ac.nz|John|Philippe|Rata|jrata@unitec.ac.nz|20071994|21CI|1415344|STAFF_C
+jkaur@unitec.ac.nz|Jaspreet||Kaur|jkaur@unitec.ac.nz|13031994|32AR|1415823|STAFF_C
+lprior@unitec.ac.nz|Lauren||Prior|lprior@unitec.ac.nz|26031991|43EA|1416007|STAFF_F
+sferguson2@unitec.ac.nz|Stacey|Miriam|Ferguson|sferguson2@unitec.ac.nz|09121995|40FS|1416008|STAFF_C
+jschollitt@unitec.ac.nz|Jesse|Ethan|Schollitt|jschollitt@unitec.ac.nz|17101995|21CS|1416244|STAFF_C
+skraay@unitec.ac.nz|Sau||Kraay|skraay@unitec.ac.nz|27041973|80PG|1416276|STAFF_F
+dlaurie@unitec.ac.nz|Denise|Denise|Laurie|denise.laurie@vsnz.co.nz|31031973|43EA|1416788|STAFF_C
+ltaikato@unitec.ac.nz|Teish|Teiaro|Taikato|ltaikato@unitec.ac.nz|10121994|21CI|1417233|STAFF_C
+dcairnswallace@unitec.ac.nz|Diane||Wallace|dcairnswallace@unitec.ac.nz|05121946|80SD|1417821|STAFF_P
+szheng@unitec.ac.nz|Shirley||Zheng|szheng@unitec.ac.nz|12041993|32BC|1417852|STAFF_C
+lharvey@unitec.ac.nz|Laura||Harvey|lharvey@unitec.ac.nz|12061984|43EA|1418304|STAFF_F
+iborota@unitec.ac.nz|Ivan|Angelich|Borota|iborota@unitec.ac.nz|13061976|60IT-03|1419010|STAFF_F
+vmerito@unitec.ac.nz|Vivienne|Mae|Merito|vmerito@unitec.ac.nz|05031970|80MK|1419714|STAFF_F
+vmerito@unitec.ac.nz|Vivienne|Mae|Merito|vmerito@unitec.ac.nz|05031970|90PS|1419714|STAFF_F
+cmcleod2@unitec.ac.nz|Cameron|John|McLeod|cmcleod2@unitec.ac.nz|12071994|32AR|1419757|STAFF_C
+swallis@unitec.ac.nz|Shannon|Lee|Wallis|swallis@unitec.ac.nz|14111994|90RP|1420296|STAFF_F
+swallis@unitec.ac.nz|Shannon|Lee|Wallis|swallis@unitec.ac.nz|14111994|90TR|1420296|STAFF_F
+rchandra@unitec.ac.nz|Raynal|Vishaal|Chandra|rchandra@unitec.ac.nz|12051995|80BR|1422013|STAFF_C
+jrudman@unitec.ac.nz|Jessica|Mary|Machuca Rudman|jrudman@unitec.ac.nz|23101990|80AD|1422034|STAFF_F
+jrudman@unitec.ac.nz|Jessica|Mary|Machuca Rudman|jrudman@unitec.ac.nz|23101990|80IN|1422034|STAFF_F
+hhakaraia@unitec.ac.nz|Hohaia||Hakaraia|hhakaraia@unitec.ac.nz|20041995|80MA|1422130|STAFF_C
+amasih@unitec.ac.nz|Abhishek||Masih|amasih@unitec.ac.nz|14101978|50FN|1422487|STAFF_F
+dbentleygray@unitec.ac.nz|Daisy|Gertrude|Bentley-Gray|dbentleygray@unitec.ac.nz|28071977|80PI|1423402|STAFF_F
+jdyer@unitec.ac.nz|Jesse||Dyer|jdyer@unitec.ac.nz|11111918|40FR|1423608|STAFF_C
+jmcgregor2@unitec.ac.nz|Julie|Ann|McGregor|jmcgregor2@unitec.ac.nz|24071971|60LD|1424085|STAFF_P
+hwihongi@unitec.ac.nz|Hema||Wihongi|hwihongi@unitec.ac.nz|22091961|43EA|1424329|STAFF_C
+hwihongi@unitec.ac.nz|Hema||Wihongi|hwihongi@unitec.ac.nz|22091961|90RP|1424329|STAFF_C
+aarachchige@unitec.ac.nz|Amanda||Kananke Arachchige|aarachchige@unitec.ac.nz|18071993|32CS|1425195|STAFF_C
+schurchward@unitec.ac.nz|Sharleen|Sala Maria|Churchward|schurchward@unitec.ac.nz|15101986|60AD|1425645|STAFF_F
+skershaw@unitec.ac.nz|Sally|Louise|Kershaw|skershaw@unitec.ac.nz|23011972|80SD|1425822|STAFF_P
+pdelange@unitec.ac.nz|Peter|j|de Lange|pdelange@unitec.ac.nz|28071966|43EA|1425867|STAFF_F
+mstewart4@unitec.ac.nz|Mairi||Stewart|mairi.stewart@agresearch.co.nz|01012001|43EA|1425870|STAFF_C
+syongchareon@unitec.ac.nz|Dr. Sira||Yongchareon|syongchareon@unitec.ac.nz|14061978|21CS|1426127|STAFF_C
+njamieson@unitec.ac.nz|Nicholas||Jamieson|njamieson@unitec.ac.nz|03111972|50GT|1426170|STAFF_F
+achen4@unitec.ac.nz|Aurora||Chen|achen4@unitec.ac.nz|13081972|32BC|1426220|STAFF_C
+achen4@unitec.ac.nz|Aurora||Chen|achen4@unitec.ac.nz|13081972|32BC|1426220|STAFF_F
+ghobbs@unitec.ac.nz|Gloria|Wynsome|Hobbs|gjhobbs@xtra.co.nz|17091937|90AS_01|1426751|STAFF_C
+bsmith6@unitec.ac.nz|Barbara|Jacquiline|Smith|bandbsmith@outlook.com|02041940|90AS_01|1426806|STAFF_C
+amulitalo@unitec.ac.nz|Aneta|Ariana Itagia|Mulitalo|amulitalo@unitec.ac.nz|31031995|43EA|1427718|STAFF_C
+bsorensen@unitec.ac.nz|Blair|Andrew|Sorensen|bsorensen@unitec.ac.nz|19111977|42SR|1427940|STAFF_F
+ewhitworth@unitec.ac.nz|Elaine|Edith|Whitworth|ewhitworth@unitec.ac.nz|05061980|42BE|1428119|STAFF_F
+cchadha@unitec.ac.nz|Cherry||Chadha|cchadha@unitec.ac.nz|03061993|32CS|1428400|STAFF_C
+cyim@unitec.ac.nz|Kit||Yim|cyim@unitec.ac.nz|22121982|15IW|1428683|STAFF_C
+ssen@unitec.ac.nz|Sachin|Kumar|Sen|ssen@unitec.ac.nz|05101959|21CS|1428999|STAFF_P
+psmeets@unitec.ac.nz|Peter|Harold|Smeets|psmeets@unitec.ac.nz|02101964|30MA|1429447|STAFF_F
+eroberts2@unitec.ac.nz|Ellie|Catherine|Roberts|eroberts2@unitec.ac.nz|04031998|40LT|1429761|STAFF_C
+eroberts2@unitec.ac.nz|Ellie|Catherine|Roberts|eroberts2@unitec.ac.nz|04031998|42BE|1429761|STAFF_C
+gcray@unitec.ac.nz|Georgia|Sarah|Cray|gcray@unitec.ac.nz|22021996|41HC|1430034|STAFF_P
+nchristina@unitec.ac.nz|Nina||Christina|nchristina@unitec.ac.nz|05071990|41CD|1430114|STAFF_P
+xwang3@unitec.ac.nz|Xinxin||Wang|xwang3@unitec.ac.nz|27101974|32AR|1430460|STAFF_P
+minfante@unitec.ac.nz|Marianne|Therese Nunag|Infante|minfante@unitec.ac.nz|10081995|21CI|1431388|STAFF_C
+mcameron@unitec.ac.nz|Melissa|Kaye|Cameron|mcameron@unitec.ac.nz|05011995|21CI|1431445|STAFF_C
+hmonga@unitec.ac.nz|Hanna|Tumai|Monga|ha18064@outlook.co.nz|24071995|90NW|1431573|STAFF_P
+mjenkins@unitec.ac.nz|Melinda|Lee|Jenkins|mjenkins@unitec.ac.nz|16121974|80SS|1432188|STAFF_F
+kbrothers@unitec.ac.nz|Kristine|Beverley|Brothers|kbrothers@unitec.ac.nz|14121973|50FN|1432272|STAFF_C
+kbrothers@unitec.ac.nz|Kristine|Beverley|Brothers|kbrothers@unitec.ac.nz|14121973|60AD|1432272|STAFF_F
+jjones3@unitec.ac.nz|Joanne|Louise|Jones|jjones3@unitec.ac.nz|13081988|43EA|1432309|STAFF_F
+gpaki@unitec.ac.nz|Gabby|Hiria|Paki|gpaki@unitec.ac.nz|18071995|42UP|1432709|STAFF_F
+cryan@unitec.ac.nz|Christopher||Ryan|cryan@unitec.ac.nz|11111918|50UV|1432953|STAFF_C
+dsharma2@unitec.ac.nz|Divya||Sharma|dsharma2@unitec.ac.nz|31101982|80PG|1433381|STAFF_F
+dlavrov@unitec.ac.nz|Denis||Lavrov|dlavrov@unitec.ac.nz|14041996|90RP|1434001|STAFF_F
+dlavrov@unitec.ac.nz|Denis||Lavrov|dlavrov@unitec.ac.nz|14041996|90TR|1434001|STAFF_F
+tnguyen@unitec.ac.nz|Thi|Minh Hien|Nguyen|tnguyen@unitec.ac.nz|01081986|50FN|1434832|STAFF_F
+abassett@unitec.ac.nz|Anna||Bassett|abassett@unitec.ac.nz|25121965|41CD|1434884|STAFF_C
+kkhare@unitec.ac.nz|Ketaki|Hemant|Khare|kkhare@unitec.ac.nz|16091988|80AD|1435050|STAFF_F
+zcai@unitec.ac.nz|Untaka||Cai|zcai@unitec.ac.nz|16071989|50FM|1435357|STAFF_F
+stulett@unitec.ac.nz|Sue|Raewyn|Tulett|stulett@unitec.ac.nz|13031960|42BE|1436419|STAFF_F
+ddsouza@unitec.ac.nz|Dean|Eric|D'souza|ddsouza@unitec.ac.nz|28081990|31TS|1436982|STAFF_F
+lwaite@unitec.ac.nz|Lewis||Waite|lwaite@unitec.ac.nz|01012000|50UV|1437068|STAFF_C
+kkanaris@unitec.ac.nz|Katrina|Sarah|Kanaris|kkanaris@unitec.ac.nz|06101990|90TT|1437230|STAFF_F
+shach@unitec.ac.nz|Sylvia||Hach|shach@unitec.ac.nz|05011977|41CD|1437392|STAFF_P
+snathan@unitec.ac.nz|Siobhan|Kahuwhero|Nathan|snathan@unitec.ac.nz|22081988|41CD|1437428|STAFF_C
+iayallo@unitec.ac.nz|Irene|Akinyi|Ayallo|iayallo@unitec.ac.nz|07121980|41SP|1437451|STAFF_F
+hrajpal@unitec.ac.nz|Harinder||Rajpal|hrajpal@unitec.ac.nz|16021978|41CD|1437502|STAFF_F
+hsharifzadeh@unitec.ac.nz|Hamid||Sharifzadeh|hsharifzadeh@unitec.ac.nz|11091982|21CS|1437658|STAFF_F
+cfu@unitec.ac.nz|Ching-Ting||Fu|cfu@unitec.ac.nz|13081988|80MK|1438021|STAFF_F
+ssaleem@unitec.ac.nz|Sana||Saleem|ssaleem@unitec.ac.nz|26081987|80AC|1438097|STAFF_F
+thsieh@unitec.ac.nz|Tina||Hsieh|thsieh@unitec.ac.nz|07031985|80IN|1438099|STAFF_F
+rswan@unitec.ac.nz|Rebecca|Louise|Swan|rswan@unitec.ac.nz|01091968|21CI|1438618|STAFF_C
+vtaiepa@unitec.ac.nz|Veraneeca|Pareturanga Una|Taiepa|vtaiepa@unitec.ac.nz|03091975|80MA|1438743|STAFF_F
+lscott3@unitec.ac.nz|Lauren||Scott|lscott3@unitec.ac.nz|14031986|32AR|1439031|STAFF_C
+chuckerby@unitec.ac.nz|Catherine|Margaret|Huckerby|chuckerby@unitec.ac.nz|07071962|32AR|1439038|STAFF_P
+dlong@unitec.ac.nz|Duncan|Robert|Long|dlong@unitec.ac.nz|31011978|32AR|1439173|STAFF_P
+lwu@unitec.ac.nz|Lian||Wu|lwu@unitec.ac.nz|13061970|41HC|1439214|STAFF_F
+vrussell@unitec.ac.nz|Victoria|Jane|Russell|vrussell@unitec.ac.nz|01081985|60HR|1439272|STAFF_F
+kchanchui@unitec.ac.nz|Keith|Kee Sung|Chan Chui|kchanchui@unitec.ac.nz|14021968|50FM-01|1439510|STAFF_F
+coneil@unitec.ac.nz|Claire|Margaret|O'Neil|coneil@unitec.ac.nz|26031971|21CI|1441030|STAFF_P
+tnightingalepene2@unitec.ac.nz|Tama|Jon|Pene|tnightingalepene2@unitec.ac.nz|30031988|80MA|1441231|STAFF_C
+jdimyadi@unitec.ac.nz|Johannes||Dimyadi|jdimyadi@unitec.ac.nz|11111911|50FM|1441627|STAFF_C
+mvajje@unitec.ac.nz|Mani||Vajje|mvajje@unitec.ac.nz|02081990|60IT|1441647|STAFF_F
+dripley@unitec.ac.nz|Danae|Joan|Ripley|dripley@unitec.ac.nz|24041995|21CI|1441975|STAFF_C
+dripley@unitec.ac.nz|Danae|Joan|Ripley|dripley@unitec.ac.nz|24041995|90TR|1441975|STAFF_C
+@unitec.ac.nz|Doris|Anna|Kraus|dc.mcb@xtra.co.nz|03061960|41HC|1442142|STAFF_C
+acrosby2@unitec.ac.nz|Andrew|John|Crosby|acrosby2@unitec.ac.nz|11111911|32BC|1442169|STAFF_C
+spour@unitec.ac.nz|Soheil||Varastehpour|spour@unitec.ac.nz|02011987|21CS|1442474|STAFF_F
+kvainikolo@unitec.ac.nz|Kakala||Vainikolo|kvainikolo@unitec.ac.nz|26071991|90AS|1442513|STAFF_F
+ococker@unitec.ac.nz|Ofa|Malia Haitelenisia|Cocker|ococker@unitec.ac.nz|04081995|32AR|1442782|STAFF_C
+cwebster@unitec.ac.nz|Clive|John|Webster|cwebster@unitec.ac.nz|19071960|50FM-01|1443502|STAFF_F
+jlong@unitec.ac.nz|Joanne||Long|jlong@unitec.ac.nz|11111911|21BP|1443817|STAFF_C
+ltan@unitec.ac.nz|Leon|Joel|Tan|ltan@unitec.ac.nz|04061974|21CI|1443911|STAFF_F
+asanches@unitec.ac.nz|Agnes||Sanches|asanches@unitec.ac.nz|01051951|40LT|1444012|STAFF_C
+gsiemsen@unitec.ac.nz|Gina|Elizabeth|Siemsen|gsiemsen@unitec.ac.nz|05091996|90AS|1444845|STAFF_C
+jfraser@unitec.ac.nz|Jessamine|Alana|Fraser|jfraser@unitec.ac.nz|10091976|32AR|1445287|STAFF_C
+vmataia@unitec.ac.nz|Venus|Sooletala|Mataia|vmataia@unitec.ac.nz|24071996|32AR|1445739|STAFF_C
+jtran@unitec.ac.nz|Jenny|Gia|Tran|jtran@unitec.ac.nz|24051988|90TT|1445753|STAFF_F
+mgoodwin@unitec.ac.nz|Michael|Lawrence|Goodwin|mgoodwin@unitec.ac.nz|19121996|21CI|1445982|STAFF_C
+ntaufoou@unitec.ac.nz|Naomi|Naomi|Taufoou|ntaufoou@unitec.ac.nz|18101980|80PG|1446116|STAFF_F
+hwilkins@unitec.ac.nz|Heather||Wilkins|heatherw@contextarchitects.co.nz|20101977|32AR|1446405|STAFF_C
+rbernard@unitec.ac.nz|Rebecca|Grace|Bernard|rbernard@unitec.ac.nz|08031994|21CI|1446509|STAFF_C
+rbernard@unitec.ac.nz|Rebecca|Grace|Bernard|rbernard@unitec.ac.nz|08031994|21CI|1446509|STAFF_C
+igunadjaja@unitec.ac.nz|Isabella|Carissa|Gunadjaja|isabellacarissa@ymail.com|11101996|80SC|1446549|STAFF_F
+sprescott@unitec.ac.nz|James|Manisela|Prescott|sprescott@unitec.ac.nz|09031966|21BP|1447291|STAFF_F
+tlawrencesolomon@unitec.ac.nz|Tamsyn||Lawrence-Solomon|tlawrencesolomon@unitec.ac.nz|03121991|40FS|1447539|STAFF_C
+njayatilaka@unitec.ac.nz|Niranjali|Renuka|Jayatilaka|njayatilaka@unitec.ac.nz|23081966|50CC|1448286|STAFF_C
+ljoe@unitec.ac.nz|Lisa|Marie Wei Min|Joe|ljoe@unitec.ac.nz|24111996|21CI|1448322|STAFF_C
+adale3@unitec.ac.nz|Alastair|Colin|Dale|adale3@unitec.ac.nz|28091974|31TS|1448492|STAFF_P
+rwright@unitec.ac.nz|Rebecca||Wright|rwright@unitec.ac.nz|15101981|21CI|1448991|STAFF_C
+anamjou@unitec.ac.nz|Anahita||Namjou|anamjou@unitec.ac.nz|09081973|60HR-02|1449543|STAFF_C
+jveber@unitec.ac.nz|Juliette||Veber|jveber@unitec.ac.nz|30091973|21CI|1450163|STAFF_C
+jcheng@unitec.ac.nz|Judy||Cheng|jcheng@unitec.ac.nz|24041979|80PG|1450210|STAFF_F
+kcameron@unitec.ac.nz|Kristie|Elizabeth|Cameron|kcameron@unitec.ac.nz|12051985|43EA|1451781|STAFF_F
+dmcglone@unitec.ac.nz|Dawn|Vanessa|McGlone|dmcglone@unitec.ac.nz|05121937|90AS_01|1451937|STAFF_C
+jdaunakamakama@unitec.ac.nz|Janette|Ethel|Kora|jdaunakamakama@unitec.ac.nz|17111995|42UP|1452321|STAFF_F
+slee2@unitec.ac.nz|Sharon||Lee|sdlee@xtra.co.nz|11111911|21BP|1452526|STAFF_C
+sgavin@unitec.ac.nz|Sonia||Gavin|soniajgavin@gmail.com|26021982|60HR|1453026|STAFF_P
+dyi@unitec.ac.nz|Dandan||Yi|dyi@unitec.ac.nz|14041972|50CC|1453943|STAFF_F
+lskyner@unitec.ac.nz|Lindsay|Jane|Skyner|lskyner@unitec.ac.nz|01021980|43EA|1454367|STAFF_C
+jbarnes@unitec.ac.nz|Jo|Kim|Schwenke|jbarnes@unitec.ac.nz|12051973|90LY|1454427|STAFF_F
+tkhan@unitec.ac.nz|Tariq|Tariq Ali|Khan|tkhan@unitec.ac.nz|04041981|21CS|1454486|STAFF_C
+lfisher@unitec.ac.nz|Lilith|Kate Mabel|Fisher|lfisher@unitec.ac.nz|04061997|90RP|1454681|STAFF_C
+dduncan2@unitec.ac.nz|Donny|Andrew|Duncan|dduncan2@unitec.ac.nz|12101958|21CI|1454692|STAFF_C
+bbarmada@unitec.ac.nz|Bashar||Barmada|bbarmada@unitec.ac.nz|26031973|21CS|1454712|STAFF_F
+rnathan@unitec.ac.nz|Rangi|Kiriwaitai|Nathan|rnathan@unitec.ac.nz|31051951|41CD|1455268|STAFF_C
+prood@unitec.ac.nz|Patricia|Theodora Gertruida|Rood|prood@unitec.ac.nz|08071957|80PG|1456159|STAFF_F
+pniutua@unitec.ac.nz|Paul|Kurt Michael|Niutua|pniutua@unitec.ac.nz|10101989|42UP|1456174|STAFF_F
+gryan@unitec.ac.nz|Gerald|Koszegi|Ryan|gryan@unitec.ac.nz|10081962|31VS|1456223|STAFF_F
+mdennison@unitec.ac.nz|Michael|John|Dennison|mdennison@unitec.ac.nz|25121965|50FM-01|1456268|STAFF_F
+vbyrnes@unitec.ac.nz|Vanessa|Kathryn|Byrnes|vbyrnes@unitec.ac.nz|08111969|90AD|1456423|STAFF_F
+anadarajan@unitec.ac.nz|Amu||Nadarajan|anadarajan@unitec.ac.nz|29121979|60IT|1456583|STAFF_F
+gfrederikse@unitec.ac.nz|Gabriel||Frederikse|gfrederikse@unitec.ac.nz|02081978|31TS|1456791|STAFF_F
+@unitec.ac.nz|Jonathan|Jonathan|Zou|jonathan.yuchenzou@gmail.com|24042000|60HR-02|1457766|STAFF_C
+namin@unitec.ac.nz|Norasieh|Binti|Md Amin|namin@unitec.ac.nz|24101974|80AC|1457817|STAFF_F
+cardern@unitec.ac.nz|Christine|Suzanne|Ardern-Roumagere|cardern@unitec.ac.nz|21071960|41HC|1457820|STAFF_P
+mbaillie@unitec.ac.nz|Maria|Teresa|Baillie|maria@prestigerealtyhbc.co.nz|11111918|21BP|1458043|STAFF_C
+rconnor@unitec.ac.nz|Rebecca||Connor|rconnor@unitec.ac.nz|28031985|43EA|1458401|STAFF_C
+mhay2@unitec.ac.nz|Malcolm|John|Hay|mhay2@unitec.ac.nz|18091961|60IT|1458422|STAFF_C
+mhay2@unitec.ac.nz|Malcolm|John|Hay|mhay2@unitec.ac.nz|18091961|60LD|1458422|STAFF_C
+mhay2@unitec.ac.nz|Malcolm|John|Hay|mhay2@unitec.ac.nz|18091961|90TL|1458422|STAFF_C
+rmorrison@unitec.ac.nz|Rokosiga|Keasi|Morrison|rmorrison@unitec.ac.nz|07091955|80PI|1458437|STAFF_F
+mreilly@unitec.ac.nz|Margaret||Reilly|mreilly@unitec.ac.nz|11111918|42BE|1458477|STAFF_C
+gwiltshire@unitec.ac.nz|Gill|Patricia|Wiltshire|gwiltshire@unitec.ac.nz|17031954|41CD|1459891|STAFF_C
+fmehr@unitec.ac.nz|Farnaz|Rajabi|Mehr|fmehr@unitec.ac.nz|20091979|21CS|1460555|STAFF_F
+gprado@unitec.ac.nz|Guillermo||Ramirez Prado|gprado@unitec.ac.nz|20051975|21CS|1460803|STAFF_F
+dsmith3@unitec.ac.nz|Dianne|Suzanne|Smith|dsmith3@unitec.ac.nz|29051957|90AS_01|1460925|STAFF_C
+dcrossan@unitec.ac.nz|Deb|Dorothy|Crossan|dcrossan@unitec.ac.nz|12081963|15DS|1461641|STAFF_P
+dcrossan@unitec.ac.nz|Deb|Dorothy|Crossan|dcrossan@unitec.ac.nz|12081963|15IW|1461641|STAFF_P
+dcrossan@unitec.ac.nz|Deb|Dorothy|Crossan|dcrossan@unitec.ac.nz|12081963|15IW|1461641|STAFF_P
+vxian@unitec.ac.nz|Vivian||Xian|vxian@unitec.ac.nz|24091990|32BC|1462278|STAFF_C
+treutlinger@unitec.ac.nz|Thomas|Peter|Reutlinger|treutlinger@unitec.ac.nz|03071995|32AR|1462584|STAFF_C
+treutlinger@unitec.ac.nz|Thomas|Peter|Reutlinger|treutlinger@unitec.ac.nz|03071995|90TR|1462584|STAFF_C
+merfanian@unitec.ac.nz|Maryam||Erfanian Sabaee|merfanian@unitec.ac.nz|30031973|21CS|1463145|STAFF_F
+tlin@unitec.ac.nz|Tim||Lin|tlin@unitec.ac.nz|04081997|32BC|1463752|STAFF_C
+rjadresinmilic@unitec.ac.nz|Renata||Jadresin-Milic|rjadresinmilic@unitec.ac.nz|13041970|32AR|1464495|STAFF_F
+achang2@unitec.ac.nz|Aaron|Samuels|Chang|achang2@unitec.ac.nz|17061981|43EA|1466392|STAFF_C
+sjeswani@unitec.ac.nz|Swati||Jeswani|sjeswani@unitec.ac.nz|13061990|32BC|1466846|STAFF_F
+mkhatkul@unitec.ac.nz|Manasi|Prasad|Khatkul|mkhatkul@unitec.ac.nz|03021981|50FN|1466888|STAFF_F
+mkhatkul@unitec.ac.nz|Manasi|Prasad|Khatkul|mkhatkul@unitec.ac.nz|03021981|90OP|1466888|STAFF_F
+kkalesh@unitec.ac.nz|Karun||Kalesh|kkalesh@unitec.ac.nz|29031993|32BC|1466959|STAFF_C
+ewu@unitec.ac.nz|Emma||Wu|croxon_emma@hotmail.com|18111982|32BC|1467110|STAFF_C
+hhirschfeld@unitec.ac.nz|Hayley|Kim|Hirschfeld|hhirschfeld@unitec.ac.nz|06011978|32AR|1467288|STAFF_C
+zzhao@unitec.ac.nz|Zeng||Zhao|zzhao@unitec.ac.nz|25011983|32CS|1468410|STAFF_C
+cdecosta2@unitec.ac.nz|Chamika||De Costa|cdecosta2@unitec.ac.nz|24091989|32CS|1469273|STAFF_C
+kvengesayi@unitec.ac.nz|Kudzanayi||Vengesayi|kvengesayi@unitec.ac.nz|02021983|32BC|1469278|STAFF_C
+ktran@unitec.ac.nz|Kinson||Tran|ktran@unitec.ac.nz|09011992|90TT|1469607|STAFF_F
+@unitec.ac.nz|Jen||Martin|jen.martin@paetultd.com|03071985|90NW|1469658|STAFF_C
+ttewaa@unitec.ac.nz|Tyrone||Te Waa|ttewaa@unitec.ac.nz|29071992|21CI|1469755|STAFF_C
+akimaro@unitec.ac.nz|Anna|Anael|Kimaro|akimaro@unitec.ac.nz|02021981|32BC|1470108|STAFF_F
+ymiao@unitec.ac.nz|Yang||Miao|ymiao@unitec.ac.nz|20051984|31TS|1470142|STAFF_F
+awhaanga@unitec.ac.nz|Arapeta||Whaanga|awhaanga@unitec.ac.nz|28061988|80MA|1470170|STAFF_C
+malama@unitec.ac.nz|Molia|Lyn|Alama|malama@unitec.ac.nz|15031979|21BP|1470686|STAFF_P
+dmungo@unitec.ac.nz|Diane||Mungo|dmungo@unitec.ac.nz|17081959|41HC|1471393|STAFF_C
+fvillegas@unitec.ac.nz|Faye||Villegas|fvillegas@unitec.ac.nz|07091991|80PG|1471424|STAFF_F
+hzarreh@unitec.ac.nz|Hooman||Zarreh|hzarreh@unitec.ac.nz|25061970|21EA|1471510|STAFF_F
+afakhruddin@unitec.ac.nz|Asif||Fakhruddin|afakhruddin@unitec.ac.nz|29061985|60IT-02|1471524|STAFF_F
+hnguyen@unitec.ac.nz|Hoa|Thi|Nguyen|hnguyen@unitec.ac.nz|14111983|41SP|1471746|STAFF_F
+gsteinhorn@unitec.ac.nz|Gregor|Aaron|Steinhorn|gsteinhorn@unitec.ac.nz|07061980|90TR|1471748|STAFF_F
+ikereamaroyal@unitec.ac.nz|Irene|Rangianewa|Kereama-Royal|ikereamaroyal@unitec.ac.nz|15071962|90NW|1472011|STAFF_P
+kkirkland@unitec.ac.nz|Kerry|Frances|Kirkland|kkirkland@unitec.ac.nz|19051967|90AD|1472598|STAFF_F
+kmorrow@unitec.ac.nz|Kelsi|Anne|Morrow|kmorrow@unitec.ac.nz|18121992|80BR|1473133|STAFF_C
+ilee2@unitec.ac.nz|Irene|Ling|Lee|ilee2@unitec.ac.nz|26071964|50FN|1473419|STAFF_F
+lchan@unitec.ac.nz|Luban||Chan|lchan@unitec.ac.nz|22091988|32BC|1473529|STAFF_F
+lmelchiors@unitec.ac.nz|Lucia|Camargos|Melchiors|lmelchiors@unitec.ac.nz|18121978|32AR|1473532|STAFF_P
+hbyrd@unitec.ac.nz|Hugh|Hugh|Byrd|hbyrd@unitec.ac.nz|25051954|32AR|1473932|STAFF_C
+cmachado@unitec.ac.nz|Clatton|Sebastian|Machado|cmachado@unitec.ac.nz|04041994|80PG|1474062|STAFF_F
+bkarki@unitec.ac.nz|Biren||Karki|bkarki@unitec.ac.nz|20121989|15IW|1474874|STAFF_C
+dwu3@unitec.ac.nz|Dengting||Wu|dwu3@unitec.ac.nz|07051981|32CS|1474903|STAFF_C
+jsimpson2@unitec.ac.nz|Jean||Simpson|jsimpson2@unitec.ac.nz|15041972|90AS|1475188|STAFF_F
+pjaspal@unitec.ac.nz|Parul||Jaspal|pjaspal@unitec.ac.nz|10111979|90AS|1475239|STAFF_F
+mvalaboju@unitec.ac.nz|Murali||Valaboju|mvalaboju@unitec.ac.nz|15011982|90AS|1475243|STAFF_F
+jesau@unitec.ac.nz|Jenny|Mary|Esau|jesau@unitec.ac.nz|21111959|41HC|1475664|STAFF_C
+dding@unitec.ac.nz|Doris||Ding|dding@unitec.ac.nz|22091987|40LT|1475747|STAFF_C
+dding@unitec.ac.nz|Doris||Ding|dding@unitec.ac.nz|22091987|80MK|1475747|STAFF_F
+kboruvkova@unitec.ac.nz|Kveta||Boruvkova|kboruvkova@unitec.ac.nz|25051976|80PG|1475984|STAFF_F
+ssitters@unitec.ac.nz|Sharon|Evelyn|Sitters|ssitters@unitec.ac.nz|19031990|41HC|1476073|STAFF_P
+hsimetin@unitec.ac.nz|Hilda||Simetin|hsimetin@unitec.ac.nz|06071958|90AS_01|1476588|STAFF_C
+kvitali@unitec.ac.nz|Kevin|Mark|Vitali|kvitali@unitec.ac.nz|01021962|60IT-01|1476621|STAFF_F
+ichukwudumogu@unitec.ac.nz|Ikenna|Cosmos|Chukwudumogu|ichukwudumogu@unitec.ac.nz|26091986|32BC|1476677|STAFF_C
+krice@unitec.ac.nz|Karl||Rice||03021985|03TF|1477481|STAFF_C
+mwalker@unitec.ac.nz|Matthew|Garry William|Walker||11101978|03TF|1477490|STAFF_C
+apoon@unitec.ac.nz|Ada|Tak Sum|Poon|apoon@unitec.ac.nz|08081983|60HR|1477762|STAFF_F
+gnicholson@unitec.ac.nz|Glenn|Cyril|Nicholson|gnicholson@unitec.ac.nz|23051963|21EA|1477825|STAFF_F
+amemon@unitec.ac.nz|Abdul||Memon|amemon@unitec.ac.nz|25031980|90AS_01|1477875|STAFF_C
+lalach@unitec.ac.nz|Lulu|Maria|Alach|lalach@unitec.ac.nz|19101972|32AR|1478420|STAFF_C
+monduna@unitec.ac.nz|Mary Ann|Gonzales|Onduna|monduna@unitec.ac.nz|30051980|60IT-01|1478427|STAFF_F
+charris@unitec.ac.nz|Chris||Harris|chris@ptviewresidential.co.nz|11111918|32BC|1478611|STAFF_C
+tyin@unitec.ac.nz|Toby||Yin|tyin@unitec.ac.nz|23021984|80MK|1478670|STAFF_F
+swang3@unitec.ac.nz|Sue-ann||Wang|swang3@unitec.ac.nz|15071982|15IW|1478747|STAFF_F
+ksutherland@unitec.ac.nz|Kosi|Bidemi Catherine|Sutherland|ksutherland@unitec.ac.nz|15081986|40LT|1478790|STAFF_C
+fxiong@unitec.ac.nz|Fiona||Xiong|fxiong@unitec.ac.nz|15081999|32BC|1480123|STAFF_C
+aboase@unitec.ac.nz|Anna|Frances|Boase|aboase@unitec.ac.nz|13111983|41HC|1480287|STAFF_P
+bkruger@unitec.ac.nz|Brad|Graham|Kruger|bkruger@unitec.ac.nz|26061968|60IT-02|1480365|STAFF_F
+capikolo@unitec.ac.nz|Chardanay|Liah Nita|Apikolo|capikolo@unitec.ac.nz|12031999|90LY|1480916|STAFF_C
+ktaite@unitec.ac.nz|Raina|Te Aroha|Taite|ktaite@unitec.ac.nz|10121993|80SE|1482279|STAFF_F
+jteo@unitec.ac.nz|Jesse||Teo|jteo@unitec.ac.nz|16121998|32BC|1483389|STAFF_C
+staulilomakaea@unitec.ac.nz|Glenna|Glenna|Taulilo-Makaea|staulilomakaea@unitec.ac.nz|21011969|30MA|1483547|STAFF_F
+jtung@unitec.ac.nz|Jenny|Hui-Chi|Ingram-Tung|jtung@unitec.ac.nz|04101981|60OI|1483659|STAFF_F
+akuan@unitec.ac.nz|Andrew||Kuan|akuan@unitec.ac.nz|05051995|32CS|1483945|STAFF_C
+srohde@unitec.ac.nz|Stacey|Marie|Rohde|srohde@unitec.ac.nz|06121978|32BC|1484047|STAFF_C
+dion@unitec.ac.nz|Derek|Peter|Ion|dion@unitec.ac.nz|20121951|90AS_01|1484179|STAFF_C
+hhernandez@unitec.ac.nz|Herman|Alberto|Hernandez Herrera|hhernandez@unitec.ac.nz|13031982|32CS|1484426|STAFF_P
+hhernandez@unitec.ac.nz|Herman|Alberto|Hernandez Herrera|hhernandez@unitec.ac.nz|13031982|42BE|1484426|STAFF_P
+hhernandez@unitec.ac.nz|Herman|Alberto|Hernandez Herrera|hhernandez@unitec.ac.nz|13031982|90TR|1484426|STAFF_P
+jwang@unitec.ac.nz|Joe||Wang|jwang@unitec.ac.nz|16111990|80SC|1484447|STAFF_F
+ssingh4@unitec.ac.nz|Sian||Singh|ssingh4@unitec.ac.nz|19021999|32AR|1484901|STAFF_C
+ssingh4@unitec.ac.nz|Sian||Singh|ssingh4@unitec.ac.nz|19021999|90TR|1484901|STAFF_C
+ssteed@unitec.ac.nz|Sharon|Rosemary|Steed|ssteed@unitec.ac.nz|09091965|21CI|1485061|STAFF_C
+nwaipara@unitec.ac.nz|Nick||Waipara|nwaipara@unitec.ac.nz|14071972|43EA|1485384|STAFF_C
+jaziz@unitec.ac.nz|Dr. Joseph|Naiem Sabet|Aziz|jaziz@unitec.ac.nz|22071970|41HC|1485767|STAFF_F
+abradley@unitec.ac.nz|Ann||Bradley|abradley@unitec.ac.nz|29061966|90AS_01|1485800|STAFF_C
+dsirimanne@unitec.ac.nz|Don|Damith Ishan Udayanga|Sirimanne|dsirimanne@unitec.ac.nz|20101991|80MK|1485913|STAFF_F
+kdobbin@unitec.ac.nz|Kate||Dobbin|kdobbin@unitec.ac.nz|11111918|80MK|1485946|STAFF_C
+lpitt@unitec.ac.nz|Loren-Crystal|Rosemarie|Pitt|lpitt@unitec.ac.nz|08031998|80SP|1486030|STAFF_C
+kloeffen@unitec.ac.nz|Kimberley (Kimmie)|Margaret Francisca|Loeffen|kloeffen@unitec.ac.nz|29091993|80MK|1486258|STAFF_F
+kwilliams2@unitec.ac.nz|Kauri|Jack Iwikau|Williams|kwilliams2@unitec.ac.nz|18011997|21CI|1486259|STAFF_C
+mhenderson2@unitec.ac.nz|Mik|Catherine|Henderson|mhenderson2@unitec.ac.nz|08101997|43EA|1486297|STAFF_C
+dhicks@unitec.ac.nz|Dave|Roberts|Hicks|dhicks@unitec.ac.nz|26081976|40FS|1486430|STAFF_F
+rjackson@unitec.ac.nz|Ruth||Jackson|rjackson@unitec.ac.nz|21111981|41HC|1486693|STAFF_C
+rjauny@unitec.ac.nz|Ray||Jauny|rjauny@unitec.ac.nz|05021965|41HC|1486694|STAFF_C
+xwu@unitec.ac.nz|Xingxing||Wu|xwu@unitec.ac.nz|21121984|32CS|1487678|STAFF_C
+yoneill@unitec.ac.nz|Yoshie||O'Neill|yoneill@unitec.ac.nz|11081968|40LA|1488493|STAFF_P
+yoneill@unitec.ac.nz|Yoshie||O'Neill|yoneill@unitec.ac.nz|11081968|80AD|1488493|STAFF_P
+yoneill@unitec.ac.nz|Yoshie||O'Neill|yoneill@unitec.ac.nz|11081968|80SS|1488493|STAFF_P
+ysun@unitec.ac.nz|Yue||Sun|ysun@unitec.ac.nz|19031994|32AR|1488937|STAFF_C
+cmckay@unitec.ac.nz|Calum|Isaac|McKay|cmckay@unitec.ac.nz|22101995|32BC|1489151|STAFF_C
+emorris@unitec.ac.nz|Elizabeth|Charlotte|Morris|emorris@unitec.ac.nz|13081973|15IW|1489207|STAFF_F
+adiaz@unitec.ac.nz|Jacky|Jacqulin|Diaz|adiaz@unitec.ac.nz|26031988|80PG|1489351|STAFF_F
+gsimmons@unitec.ac.nz|Glenn||Simmons|gsimmons@unitec.ac.nz|11111918|21BP|1489656|STAFF_C
+jkomene@unitec.ac.nz|Jonyne|Aroha|Mariu-Komene|jkomene@unitec.ac.nz|16101965|80MA|1489809|STAFF_F
+yculbreath@unitec.ac.nz|Yvonne|Marie|Culbreath|yculbreath@unitec.ac.nz|24051959|41CD|1490059|STAFF_F
+kocallahan@unitec.ac.nz|Kait|Aleesha|O'Callahan|kocallahan@unitec.ac.nz|15081987|41HC|1490175|STAFF_F
+tschaaffhausen@unitec.ac.nz|Taj|Anna Jacqueline|Schaaffhausen|tschaaffhausen@unitec.ac.nz|12021980|90LY|1490779|STAFF_F
+bhamblin@unitec.ac.nz|Ben|Francis|Hamblin|bhamblin@unitec.ac.nz|27091978|80AC|1490880|STAFF_C
+hchifamba@unitec.ac.nz|Happy||Chifamba|hchifamba@unitec.ac.nz|21041980|32BC|1490936|STAFF_C
+smartinwelsh@unitec.ac.nz|Sophie|Maree|Martin-Welsh|smartinwelsh@unitec.ac.nz|29121987|80AD|1491081|STAFF_P
+clui@unitec.ac.nz|Connie|Yuk Ying|Lui|clui@unitec.ac.nz|29081987|21BP|1491108|STAFF_C
+pclarke@unitec.ac.nz|Paul||Clarke|paul.clarke@presenceofit.com.au|29091965|60IT|1491528|STAFF_C
+rahuriri@unitec.ac.nz|Tereina|Ana|Peke|rahuriri@unitec.ac.nz|11021990|80MA|1491598|STAFF_C
+dwu2@unitec.ac.nz|Woody||Wu|dwu2@unitec.ac.nz|17051988|32CS|1491639|STAFF_C
+phanlon@unitec.ac.nz|Patrick||Hanlon|phanlon@unitec.ac.nz|11111918|32BC|1492021|STAFF_C
+dcavell@unitec.ac.nz|Donna||Cavell|dcavell@unitec.ac.nz|09071962|80AC|1492639|STAFF_F
+jxu@unitec.ac.nz|Josette|Chi|Xu|jxu@unitec.ac.nz|24022000|32BC|1492748|STAFF_C
+mstar@unitec.ac.nz|Mary||Star|mstar@unitec.ac.nz|31101977|32BC|1493104|STAFF_C
+clyall@unitec.ac.nz|Calum|Willlett|Lyall|clyall@unitec.ac.nz|02091999|21CI|1493216|STAFF_C
+teveriss@unitec.ac.nz|Tamara|Ashleigh Joyce|Everiss|teveriss@unitec.ac.nz|25111998|43EA|1493580|STAFF_C
+teveriss@unitec.ac.nz|Tamara|Ashleigh Joyce|Everiss|teveriss@unitec.ac.nz|25111998|43EA|1493580|STAFF_P
+akomene@unitec.ac.nz|Arihia|Ngaamo|Komene|akomene@unitec.ac.nz|19082000|80MA|1493668|STAFF_C
+pnewman@unitec.ac.nz|Pip|Jane|Newman|pnewman@unitec.ac.nz|29101962|32AR|1493718|STAFF_C
+pnewman@unitec.ac.nz|Pip|Jane|Newman|pnewman@unitec.ac.nz|29101962|32AR|1493718|STAFF_P
+mmanning@unitec.ac.nz|Michael|John|Manning|mmanning@unitec.ac.nz|25011999|60ES|1493734|STAFF_C
+jjackson@unitec.ac.nz|Joseph|Edward|Jackson|jjackson@unitec.ac.nz|13121998|60ES|1493993|STAFF_C
+ayan@unitec.ac.nz|Ashley|Lee Anne|Yan|ayan@unitec.ac.nz|29041998|60ES|1494082|STAFF_C
+sjohnson3@unitec.ac.nz|Shobha||Johnson|sjohnson3@unitec.ac.nz|07051984|41HC|1494312|STAFF_F
+hsmith2@unitec.ac.nz|Hinekura||Smith|hlj.smith@auckland.ac.nz|14051976|90NW|1494504|STAFF_F
+hsmith2@unitec.ac.nz|Hinekura||Smith|hlj.smith@auckland.ac.nz|14051976|90TR|1494504|STAFF_F
+psethi@unitec.ac.nz|Poonam||Sethi|psethi@unitec.ac.nz|10111970|43EA|1494618|STAFF_C
+mblundell@unitec.ac.nz|Marion|Linda|Blundell|mblundell@unitec.ac.nz|25081971|80SS|1494995|STAFF_F
+mbell@unitec.ac.nz|Monique|Dana|Bell|mbell@unitec.ac.nz|31081985|80SS|1495033|STAFF_P
+preutlinger@unitec.ac.nz|Peter||Reutlinger|sogehts.nz@gmail.com|15041956|60IT|1495123|STAFF_C
+edoyle@unitec.ac.nz|Erin|Jane|Doyle|edoyle@unitec.ac.nz|30011984|90TR|1495334|STAFF_F
+rgarad@unitec.ac.nz|Rahul|Ashok|Garad|rgarad@unitec.ac.nz|27011981|32BC|1495491|STAFF_C
+rgarad@unitec.ac.nz|Rahul|Ashok|Garad|rgarad@unitec.ac.nz|27011981|80AC|1495491|STAFF_C
+ndonnelly@unitec.ac.nz|Nathan|Milligan|Donnelly|ndonnelly@unitec.ac.nz|09101998|30MA|1495669|STAFF_F
+ikorolyev@unitec.ac.nz|Inna||Korolyev|ikorolyev@unitec.ac.nz|15071974|32BC|1496088|STAFF_C
+treihana@unitec.ac.nz|Tia|Louise|Reihana|treihana@unitec.ac.nz|25011974|90NW|1496248|STAFF_C
+jharrison@unitec.ac.nz|Jane|Lorraine|Harrison|jharrison@unitec.ac.nz|06021953|80PG|1496388|STAFF_F
+ydong@unitec.ac.nz|Sasha||Dong|ydong@unitec.ac.nz|28031984|21EA|1496654|STAFF_C
+saliakbarlou@unitec.ac.nz|Sadegh||Aliakbarlou|saliakbarlou@unitec.ac.nz|13061980|32BC|1497146|STAFF_F
+rshaheed@unitec.ac.nz|Riffat||Shaheed|rshaheed@unitec.ac.nz|02061969|32BC|1497153|STAFF_F
+sfeng@unitec.ac.nz|Song-Yi||Feng|sfeng@unitec.ac.nz|21071983|32BC|1497592|STAFF_C
+ahaley@unitec.ac.nz|Alyssa|Louise|Haley|ahaley@unitec.ac.nz|26041999|32AR|1497823|STAFF_C
+mbahadornejad@unitec.ac.nz|Momen||Bahadornejad|mbahadornejad@unitec.ac.nz|31101957|21EA|1497876|STAFF_F
+dalshadli@unitec.ac.nz|Duaa||Alshadli|dalshadli@unitec.ac.nz|21081986|32CS|1497877|STAFF_F
+@unitec.ac.nz|Callum|John|Caughey|callumcaughey@gmail.com|25041999|41CD|1497900|STAFF_C
+ssafavi@unitec.ac.nz|Shadi||Sadat Safavi|ssafavi@unitec.ac.nz|21031975|41HC|1497974|STAFF_F
+vrath@unitec.ac.nz|Vijaya||Rath|vrath@unitec.ac.nz|09101962|50FN|1498215|STAFF_F
+byu@unitec.ac.nz|Bill||Yu|byu@unitec.ac.nz|26111981|60IT|1498317|STAFF_C
+jcoughlan@unitec.ac.nz|Jane|Elizabeth|Coughlan|jcoughlan@unitec.ac.nz|15041968|40LA|1498497|STAFF_C
+spatelisio@unitec.ac.nz|Sosefo||Patelisio|spatelisio@unitec.ac.nz|06031998|32CS|1498769|STAFF_C
+rsunny@unitec.ac.nz|Romy||Sunny|rsunny@unitec.ac.nz|13111995|80CR|1499231|STAFF_F
+@unitec.ac.nz|Michaela|Holly|van der Laan|michaelaholly@yahoo.co.nz|25121992|21CI|1499309|STAFF_C
+azoellner@unitec.ac.nz|Anja|Carina|Zoellner|azoellner@unitec.ac.nz|09061990|41CD|1499619|STAFF_C
+azoellner@unitec.ac.nz|Anja|Carina|Zoellner|azoellner@unitec.ac.nz|09061990|41CD|1499619|STAFF_C
+azoellner@unitec.ac.nz|Anja|Carina|Zoellner|azoellner@unitec.ac.nz|09061990|42BE|1499619|STAFF_C
+acleland@unitec.ac.nz|Andra||Cleland|acleland@unitec.ac.nz|11111911|80SD|1499649|STAFF_C
+rgrayruru@unitec.ac.nz|Riria|Eileen - Piti Nancy Merania|gray-ruru|rgrayruru@unitec.ac.nz|02052000|80MA|1499824|STAFF_C
+mmanthei@unitec.ac.nz|Marjorie||Manthei|mantheim@xtra.co.nz|08121946|01AC|1500033|STAFF_C
+nfraser@unitec.ac.nz|Nicola|Ellen Louisa|Fraser|nfraser@unitec.ac.nz|27011990|21CI|1500918|STAFF_C
+nfraser@unitec.ac.nz|Nicola|Ellen Louisa|Fraser|nfraser@unitec.ac.nz|27011990|80SP|1500918|STAFF_C
+ateevale@unitec.ac.nz|Aki|'A Kakau|Te'evale|ateevale@unitec.ac.nz|07011981|80AD|1501291|STAFF_F
+ateevale@unitec.ac.nz|Aki|'A Kakau|Te'evale|ateevale@unitec.ac.nz|07011981|80SS|1501291|STAFF_F
+mvyas2@unitec.ac.nz|Madhusudan||Vyas|mvyas2@unitec.ac.nz|15081980|41HC|1501697|STAFF_P
+krawiri@unitec.ac.nz|Keisha|Lika|Rawiri|krawiri@unitec.ac.nz|28041989|32AR|1501714|STAFF_C
+msarker@unitec.ac.nz|Mohammad|Mahin|Sarker|msarker@unitec.ac.nz|01011990|80PG|1502590|STAFF_F
+rribechini@unitec.ac.nz|Rimo||Ribechini|rribechini@unitec.ac.nz|23031972|32AR|1502651|STAFF_C
+soledan@unitec.ac.nz|Samuel|Ignacio|Oledan|soledan@unitec.ac.nz|24111999|32AR|1502817|STAFF_C
+svittal@unitec.ac.nz|Shiva||Vittal|svittal@unitec.ac.nz|27011986|80PG|1502912|STAFF_F
+gkhoo@unitec.ac.nz|Gina||Fish|gkhoo@unitec.ac.nz|18021956|90AS_01|1502958|STAFF_C
+tcameron@unitec.ac.nz|Trude|Anne|Cameron|tcameron@unitec.ac.nz|25061954|60AD|1502965|STAFF_F
+vtran@unitec.ac.nz|Viet Huu||Tran|vtran@unitec.ac.nz|28091990|32CS|1503021|STAFF_C
+clador@unitec.ac.nz|Cesar||Lador|clador@unitec.ac.nz|27051980|32CS|1503630|STAFF_F
+hhorua@unitec.ac.nz|Hiria|Hokowaka|Horua|hhorua@unitec.ac.nz|01071999|21CI|1503811|STAFF_C
+hhorua@unitec.ac.nz|Hiria|Hokowaka|Horua|hhorua@unitec.ac.nz|01071999|80MA|1503811|STAFF_C
+mhao@unitec.ac.nz|Melody||Hao|mhao@unitec.ac.nz|11011989|80IN|1503952|STAFF_F
+rreyes@unitec.ac.nz|Rossana|Villapando|Reyes|reyesr05@myunitec.ac.nz|04091958|80IN|1504421|STAFF_P
+nbulanova@unitec.ac.nz|Nadia||Bulanova|nbulanova@unitec.ac.nz|28021988|80IN|1504928|STAFF_F
+atankard@unitec.ac.nz|Amy||Tankard|atankard@unitec.ac.nz|16101980|10CE|1505016|STAFF_P
+slad@unitec.ac.nz|Shaan||Lad|slad@unitec.ac.nz|04121983|90TT|1505065|STAFF_F
+aparkinson@unitec.ac.nz|Adam|Anthony|Parkinson|aparkinson@unitec.ac.nz|14041986|42UP|1505235|STAFF_F
+aparkinson@unitec.ac.nz|Adam|Anthony|Parkinson|aparkinson@unitec.ac.nz|14041986|43EA|1505235|STAFF_F
+cprobst@unitec.ac.nz|Christian|W|Probst|cprobst@unitec.ac.nz|28011968|90RP|1505241|STAFF_C
+nkelland@unitec.ac.nz|Nicola||Kelland|nicola@nicolakelland.co.nz|15111958|21BP|1505405|STAFF_C
+rcraigie@unitec.ac.nz|Royce|Victor John|Craigie|rcraigie@unitec.ac.nz|10111999|21BP|1505993|STAFF_C
+sheath@unitec.ac.nz|Samantha|Jane|Heath|sheath@unitec.ac.nz|27011967|41HC|1506221|STAFF_F
+sheath@unitec.ac.nz|Samantha|Jane|Heath|sheath@unitec.ac.nz|27011967|90RP|1506221|STAFF_F
+kvenegas@unitec.ac.nz|Kristie|Elizabeth|Venegas|kvenegas@unitec.ac.nz|14081986|60HR|1506342|STAFF_F
+rhavell@unitec.ac.nz|Robert|John|Havell|robert.havell@yahoo.com|01091984|32AR|1506535|STAFF_C
+erowland@unitec.ac.nz|Edgar|Henry|Rowland|erowland@unitec.ac.nz|07121963|80PG|1506559|STAFF_F
+bwishart@unitec.ac.nz|Bruce|Bruce|Wishart|bwishart@unitec.ac.nz|03071958|60IT|1506884|STAFF_C
+ajohar@unitec.ac.nz|Ali||Johar|ajohar@unitec.ac.nz|28051979|80SP|1507025|STAFF_C
+@unitec.ac.nz|Te|Maire|Hoskins|te.maire@hotmail.com|21051998|90NW|1507508|STAFF_C
+dcameron@unitec.ac.nz|Darlene|Darlene|Cameron|dcameron@unitec.ac.nz|12051967|80MA|1507734|STAFF_F
+vhe@unitec.ac.nz|Vicky||He|vhe@unitec.ac.nz|21081982|60IT|1507910|STAFF_C
+mhumphrieskil@unitec.ac.nz|Maria||Humphries-Kil|mhumphrieskil@unitec.ac.nz|29051953|90RP|1507996|STAFF_C
+kpillay2@unitec.ac.nz|Kubashni||Pillay|kpillay2@unitec.ac.nz|22071980|80PG|1508380|STAFF_F
+keriagama@unitec.ac.nz|Kusal|Sanjaya Octavius|Eriagama|keriagama@unitec.ac.nz|05081964|60HR|1508620|STAFF_F
+xpaguia@unitec.ac.nz|Xyruz||Paguia|xpaguia@unitec.ac.nz|22091983|60IT-01|1509629|STAFF_F
+pwilliams@unitec.ac.nz|Pam||Williams|pwilliams@unitec.ac.nz|04081954|41HC|1509832|STAFF_C
+kbriden@unitec.ac.nz|Kayla|Anne|Briden|kbriden@unitec.ac.nz|25061996|90TR|1510033|STAFF_C
+smishra@unitec.ac.nz|Sapna||Mishra|smishra@unitec.ac.nz|09121964|80SD|1510134|STAFF_P
+@unitec.ac.nz|Shane||Bosher|shanejbosher@gmail.com|21081976|21CI|1510204|STAFF_C
+jbennett3@unitec.ac.nz|Jody|Robyn|Bennett|jbennett3@unitec.ac.nz|11071977|80CR|1510242|STAFF_C
+jhoney@unitec.ac.nz|Jeff|Peter|Honey|jhoney@unitec.ac.nz|12011975|90AS|1510710|STAFF_F
+htuakimoanapotae@unitec.ac.nz|Harmony|Fatafehi|Tuakimoana - Potae|htuakimoanapotae@unitec.ac.nz|16072001|80MA|1510724|STAFF_C
+jadlam@unitec.ac.nz|Jo|Rose|Adlam|jadlam@unitec.ac.nz|15071969|60HR|1510850|STAFF_C
+jadlam@unitec.ac.nz|Jo|Rose|Adlam|jadlam@unitec.ac.nz|15071969|60HR|1510850|STAFF_F
+jadlam@unitec.ac.nz|Jo|Rose|Adlam|jadlam@unitec.ac.nz|15071969|60HS|1510850|STAFF_F
+stries@unitec.ac.nz|Simon|Andrew|Tries|stries@unitec.ac.nz|27051975|90AR|1510922|STAFF_F
+stries@unitec.ac.nz|Simon|Andrew|Tries|stries@unitec.ac.nz|27051975|90AS|1510922|STAFF_F
+dachonwa@unitec.ac.nz|Daniel||Achonwa|dachonwa@unitec.ac.nz|30111985|80MK|1511018|STAFF_F
+rpereira@unitec.ac.nz|Rafael|Goncalves De Oliveira|Pereira|rpereira@unitec.ac.nz|31121989|80PG|1511031|STAFF_F
+sdmello@unitec.ac.nz|Sonia|Lenora|D'Mello|sdmello@unitec.ac.nz|18101985|60HR|1511101|STAFF_F
+kandru@unitec.ac.nz|Karthikreddy||Andru|kandru@unitec.ac.nz|03071989|21CI|1511115|STAFF_C
+lyang@unitec.ac.nz|Lee||Yang|lyang@unitec.ac.nz|08061966|41HC|1511297|STAFF_P
+sbegum2@unitec.ac.nz|Suriyya||Begum|sbegum2@unitec.ac.nz|07061967|90AS_01|1511418|STAFF_C
+@unitec.ac.nz|Linda|Tuhiwai|Smith|research@waikato.ac.nz|11111911|90NW|1511445|STAFF_C
+fzeng@unitec.ac.nz|FuXing||Zeng|fzeng@unitec.ac.nz|28041986|32BC|1511634|STAFF_C
+bstewardson@unitec.ac.nz|Bob||Stewardson|bstewardson@unitec.ac.nz|04071990|80MK|1511643|STAFF_F
+phays@unitec.ac.nz|Paul|Walton|Hays|phays@unitec.ac.nz|18031984|80CR|1512131|STAFF_F
+tkumbas@unitec.ac.nz|Tamay||Kumbas|tkumbas@unitec.ac.nz|13061982|80PG|1512184|STAFF_F
+jzhou@unitec.ac.nz|Jingjing||Zhou|jzhou@unitec.ac.nz|04071993|32BC|1512186|STAFF_C
+kakuthota@unitec.ac.nz|Kaavya||Akuthota|kakuthota@unitec.ac.nz|17101989|32BC|1512199|STAFF_C
+ehughes@unitec.ac.nz|Erin|Elizabeth|Hughes|ehughes@unitec.ac.nz|11071991|60HS|1512239|STAFF_C
+ehughes@unitec.ac.nz|Erin|Elizabeth|Hughes|ehughes@unitec.ac.nz|11071991|60HS|1512239|STAFF_C
+crobertson@unitec.ac.nz|Craig|Shaw|Robertson|crobertson@unitec.ac.nz|03041959|21BP|1512344|STAFF_F
+ppatel@unitec.ac.nz|Priyam|Surendrakumar|Patel|ppatel@unitec.ac.nz|05052001|21CS|1512428|STAFF_C
+hqazi@unitec.ac.nz|Hamza|Ahmed|Qazi|hqazi@unitec.ac.nz|21121987|90AS|1512630|STAFF_C
+hqazi@unitec.ac.nz|Hamza|Ahmed|Qazi|hqazi@unitec.ac.nz|21121987|90TR|1512630|STAFF_F
+lstokes@unitec.ac.nz|Lee||Stokes|lstokes@unitec.ac.nz|30111976|50FM-01|1513435|STAFF_F
+tvaughan@unitec.ac.nz|Toni||Vaughan|tvaughan@unitec.ac.nz|07061973|80MA|1513527|STAFF_F
+tvaughan@unitec.ac.nz|Toni||Vaughan|tvaughan@unitec.ac.nz|07061973|90LS|1513527|STAFF_F
+bpenegestro@unitec.ac.nz|Barry|Rangimarie|Pene-Gestro|bpenegestro@unitec.ac.nz|15021990|80MA|1513947|STAFF_C
+dbreetvelt@unitec.ac.nz|Donna|Beatrice Lillian|Breetvelt|dbreetvelt@unitec.ac.nz|31071959|90AS_01|1514034|STAFF_C
+ajesensek@unitec.ac.nz|Amy|Toni|Jesensek|ajesensek@unitec.ac.nz|16061993|80AD|1514763|STAFF_F
+ajesensek@unitec.ac.nz|Amy|Toni|Jesensek|ajesensek@unitec.ac.nz|16061993|80SS|1514763|STAFF_F
+rmatafeo@unitec.ac.nz|Ronnie||Matafeo|rmatafeo@unitec.ac.nz|15011961|32BC|1514832|STAFF_F
+aking3@unitec.ac.nz|Alicia|Natalie|King|aking@northtec.ac.nz|12101983|43EA|1515201|STAFF_C
+athangavel@unitec.ac.nz|Abilash||Thangavel|athangavel@unitec.ac.nz|06041990|80MK|1515203|STAFF_F
+adhadwal@unitec.ac.nz|Anna||Dhadwal|adhadwal@unitec.ac.nz|19011962|80PG|1515275|STAFF_F
+amullion@unitec.ac.nz|Anton||Mullion||12031975|60IT|1515378|STAFF_C
+@unitec.ac.nz|Eruera|Lance|Lee-Morgan|eruera@rautaki.co.nz|17021977|90NW|1515442|STAFF_P
+azafe@unitec.ac.nz|Adrian|Espiritu|Zafe|azafe@unitec.ac.nz|01102000|21EA|1516156|STAFF_C
+shart@unitec.ac.nz|Sinead|Maura|Hart|shart@unitec.ac.nz|08011976|50FN|1516331|STAFF_C
+csheppard@unitec.ac.nz|Cyclone||Sheppard|Services@cyclone.co.nz|01012001|60IT|1516858|STAFF_C
+lly@unitec.ac.nz|Lesley||Ly|lly@unitec.ac.nz|11042001|32BC|1516998|STAFF_C
+ycui@unitec.ac.nz|Yong||Cui|ycui@unitec.ac.nz|10021978|21EA|1517133|STAFF_C
+ssherring@unitec.ac.nz|Susan|Ellen|Sherring|ssherring@unitec.ac.nz|26031988|41HC|1517642|STAFF_C
+ssherring@unitec.ac.nz|Susan|Ellen|Sherring|ssherring@unitec.ac.nz|26031988|80SP|1517642|STAFF_C
+@unitec.ac.nz|Katie|Chantoun|Seng|kleang1327@gmail.com|30082000|21EA|1518131|STAFF_C
+jtregidga@unitec.ac.nz|Jessica|Myia|Tregidga|jtregidga@unitec.ac.nz|20102000|32BC|1518448|STAFF_C
+mocallahan@unitec.ac.nz|Michael|Peter|O'Callahan|mocallahan@unitec.ac.nz|20081990|60HR-02|1518932|STAFF_C
+sgoodey@unitec.ac.nz|Samuel|James|Goodey|sgoodey@unitec.ac.nz|25011998|21CI|1519116|STAFF_C
+metemaddar@unitec.ac.nz|Mitra||Etemaddar|metemaddar@unitec.ac.nz|24061976|21BP|1519748|STAFF_F
+cbasobas@unitec.ac.nz|Ma. Christina|Firmanes|Basobas|cbasobas@unitec.ac.nz|25121979|90TT|1521127|STAFF_F
+dkashirskaya@unitec.ac.nz|Dasha||Kashirskaya|dkashirskaya@unitec.ac.nz|02041991|80PG|1521141|STAFF_F
+rchan@unitec.ac.nz|Ruby||Chan|rchan@unitec.ac.nz|28071989|80PG|1521172|STAFF_F
+tliew@unitec.ac.nz|Tony|Lian|Liew|tliew@unitec.ac.nz|24041957|90AS_01|1521862|STAFF_C
+jleemorgan@unitec.ac.nz|Jenny|Joy|Lee-Morgan|jleemorgan@unitec.ac.nz|28111968|90NW|1522035|STAFF_F
+ckemp2@unitec.ac.nz|Caralyn|Romana|Kemp|ckemp2@unitec.ac.nz|16021982|43EA|1522038|STAFF_F
+talatimu@unitec.ac.nz|Taulaga|Monica|Alatimu|talatimu@unitec.ac.nz|20011986|41HC|1522874|STAFF_C
+thipa@unitec.ac.nz|Scarlette||Sunset|thipa@unitec.ac.nz|11082001|21CS|1523279|STAFF_C
+svanwinkel@unitec.ac.nz|Sarah|Jane|Wells|svanwinkel@unitec.ac.nz|03041981|43EA|1523482|STAFF_P
+mdeo@unitec.ac.nz|Monisha|Dikshit|Deo|mdeo@unitec.ac.nz|05031989|60IT|1523547|STAFF_F
+cbradley@unitec.ac.nz|Conan|Douglas|Bradley|cbradley@unitec.ac.nz|27051968|21CS|1523613|STAFF_C
+ebadu@unitec.ac.nz|Emmanuel||Badu|ebadu@unitec.ac.nz|05121985|41CD|1523779|STAFF_C
+sramasamy@unitec.ac.nz|Selvakumar||Ramasamy|sramasamy@unitec.ac.nz|30071985|60IT|1523784|STAFF_C
+lmartin2@unitec.ac.nz|Lisa|Clare|Martin|lmartin2@unitec.ac.nz|23121983|50FM|1523807|STAFF_F
+zwilcoxbrown@unitec.ac.nz|Zachary|Christopher|Wilcox-Brown|zwilcoxbrown@unitec.ac.nz|20041999|43EA|1523882|STAFF_C
+tdaly@unitec.ac.nz|Toni|Kay|Daly|tdaly@unitec.ac.nz|12081959|43EA|1524092|STAFF_C
+cdaniels@unitec.ac.nz|Chantelle|Cheryl Rama|Daniels|cdaniels@unitec.ac.nz|18031992|60OI|1524130|STAFF_F
+janthony@unitec.ac.nz|Jay|Edward|Anthony|janthony@unitec.ac.nz|17021982|60IT|1524367|STAFF_C
+akeivanmarz@unitec.ac.nz|Ali||Keivanmarz|alikeivanmarz@gmail.com|18061984|21CS|1524574|STAFF_C
+rjayasekera@unitec.ac.nz|Ruchira|Nishanki|Jayasekera|rjayasekera@unitec.ac.nz|17021971|90AS|1524736|STAFF_C
+hcharaniya@unitec.ac.nz|Hussein||Charaniya|hcharaniya@unitec.ac.nz|23031987|80PG|1524916|STAFF_F
+ktay@unitec.ac.nz|Katrina||Tay|ktay@unitec.ac.nz|01111963|90AS_01|1525052|STAFF_C
+kbennett@unitec.ac.nz|Kersti||Bennett|kbennett@unitec.ac.nz|18121986|60IT|1526312|STAFF_C
+bwilson@unitec.ac.nz|Bella||Wilson|bwilson@unitec.ac.nz|27091993|21CI|1526431|STAFF_C
+neruera@unitec.ac.nz|Ngahuia|Paula|Eruera|neruera@unitec.ac.nz|16061972|90NW|1526727|STAFF_F
+jmuliawan@unitec.ac.nz|Jesica||Muliawan|jmuliawan@unitec.ac.nz|04032001|32BC|1526798|STAFF_C
+wkanuta@unitec.ac.nz|William|Albert Hamiora|Kanuta|wkanuta@unitec.ac.nz|28042000|21BP|1526905|STAFF_C
+cbindon@unitec.ac.nz|Caroline||Bindon|caroline.bindon@nzdc.org.nz|01012001|21CI|1526917|STAFF_C
+eyang@unitec.ac.nz|Yuxiang||Yang|eyang@unitec.ac.nz|11011984|32CS|1527055|STAFF_C
+iebrahim@unitec.ac.nz|Idris|Abdelhamid|Ebrahim|iebrahim@unitec.ac.nz|21071998|32CS|1527611|STAFF_C
+avega@unitec.ac.nz|Al|Ong|Vega|avega@unitec.ac.nz|15101983|90TT|1527639|STAFF_F
+sschollum@unitec.ac.nz|Sonia||Schollum|sschollum@unitec.ac.nz|19071980|50CC|1527729|STAFF_P
+jrutherford@unitec.ac.nz|Joss|Helen|Rutherford|jrutherford@unitec.ac.nz|19061970|60HR|1527943|STAFF_P
+@unitec.ac.nz|Daniel||Cooper|dandc11@gmail.com|01012001|21CI|1528063|STAFF_C
+@unitec.ac.nz|Sean||Squires|seansquires@gmail.com|06121969|21EA|1528153|STAFF_C
+mmurphy@unitec.ac.nz|Maeleen||Murphy|mae-maez@hotmail.com|05121970|90NW|1528872|STAFF_C
+awilliams6@unitec.ac.nz|Ariana|Ruiha Teiringarangi|Williams|awilliams6@unitec.ac.nz|08121992|21CI|1529154|STAFF_C
+kborna@unitec.ac.nz|Kambiz||Borna|kborna@unitec.ac.nz|11091975|32CS|1529235|STAFF_F
+bwarwickching@unitec.ac.nz|Bettie|Louise|Warwick-Ching|bwarwickching@unitec.ac.nz|28031979|60HR|1529253|STAFF_F
+dray@unitec.ac.nz|Durga||Ray|dray@unitec.ac.nz|17021959|90AS_01|1529365|STAFF_C
+fbooth@unitec.ac.nz|Frances|Anne|Booth|franzeeb@gmail.com|03091965|90AS_01|1529430|STAFF_C
+tnuualiitia@unitec.ac.nz|Tu||Nuualiitia|tnuualiitia@unitec.ac.nz|22061966|31TS|1529782|STAFF_F
+dpaul@unitec.ac.nz|Dishan||Paul|dpaul@unitec.ac.nz|28111993|80BR|1530218|STAFF_C
+aali@unitec.ac.nz|Ashna||Ali|aali@unitec.ac.nz|23031993|80BR|1530222|STAFF_C
+smadicharla@unitec.ac.nz|Syamili|Syamili|Madicharla|smadicharla@unitec.ac.nz|24091991|60IT|1530402|STAFF_F
+ikhadija@unitec.ac.nz|Khadija||Mohamed Ismail|ikhadija@unitec.ac.nz|01081997|90TR|1530569|STAFF_C
+ghewagama@unitec.ac.nz|Gayani|Vijayanthi Lakdivdas|Hewagama|ghewagama@unitec.ac.nz|16121977|21BP|1530606|STAFF_F
+mbaling@unitec.ac.nz|Marleen||Baling|mbaling@unitec.ac.nz|24071979|43EA|1530658|STAFF_F
+klee@unitec.ac.nz|Kate||Lee|klee@unitec.ac.nz|17101985|80PG|1530694|STAFF_F
+lpillay@unitec.ac.nz|Lydia||Pillay|lpillay@unitec.ac.nz|13071990|90AS|1530696|STAFF_F
+kartik@unitec.ac.nz|Kartik||~|kartik@unitec.ac.nz|19102001|32CS|1530791|STAFF_C
+pmalik@unitec.ac.nz|Puja||Malik|pmalik@unitec.ac.nz|01012001|80MK|1530836|STAFF_C
+hthiminhpham@unitec.ac.nz|Helen|Minh Hien|Pham|hthiminhpham@unitec.ac.nz|12091984|21CI|1530952|STAFF_C
+drabot@unitec.ac.nz|Dallas||Rabot|drabot@unitec.ac.nz|01012001|21BP|1530971|STAFF_C
+snath2@unitec.ac.nz|Suman||Nath|snath2@unitec.ac.nz|26081959|60HR-02|1531001|STAFF_C
+zallen@unitec.ac.nz|Zane||Allen|zallen@unitec.ac.nz|20121997|21CI|1531065|STAFF_C
+zallen@unitec.ac.nz|Zane||Allen|zallen@unitec.ac.nz|20121997|21CI|1531065|STAFF_C
+jadafin@unitec.ac.nz|Johnson|Kayode|Adafin|jadafin@unitec.ac.nz|21011966|32BC|1531089|STAFF_C
+staylor4@unitec.ac.nz|Sevgi||Taylor|staylor4@unitec.ac.nz|19021985|31TS|1531199|STAFF_P
+staylor4@unitec.ac.nz|Sevgi||Taylor|staylor4@unitec.ac.nz|19021985|90AS|1531199|STAFF_C
+akumar07@unitec.ac.nz|Aron|Amish|Kumar|akumar07@unitec.ac.nz|03112001|32CS|1531209|STAFF_C
+acollins@unitec.ac.nz|Amanda|Joy|Collins|acollins@unitec.ac.nz|03081973|41HC|1531216|STAFF_F
+jtaufa@unitec.ac.nz|John|Fakaake-Oe-Lotu|Taufa|jtaufa@unitec.ac.nz|15091996|42SR|1531747|STAFF_F
+aamidu@unitec.ac.nz|Abdul-Rasheed||Amidu|aamidu@unitec.ac.nz|14011973|32BC|1531823|STAFF_C
+jhallie@unitec.ac.nz|Jason|Alexander|Hallie|jhallie@unitec.ac.nz|06111972|41SP|1531841|STAFF_F
+ialekefaavae@unitec.ac.nz|Ioane||Aleke Fa'avae|ialekefaavae@unitec.ac.nz|23061981|80PI|1532038|STAFF_F
+ssauerman@unitec.ac.nz|Shani|Mariette|Sauerman|ssauerman@unitec.ac.nz|06051996|15IW|1532044|STAFF_P
+ljawad@unitec.ac.nz|Laith||Jawad|ljawad@unitec.ac.nz|31051948|43EA|1532513|STAFF_C
+ljawad@unitec.ac.nz|Laith||Jawad|ljawad@unitec.ac.nz|31051948|90AS_01|1532513|STAFF_C
+cmcmenamin@unitec.ac.nz|Chloe|Maryanne|McMenamin|cmcmenamin@unitec.ac.nz|07091994|43EA|1532691|STAFF_F
+bhenderson@unitec.ac.nz|Beth||Henderson|bhenderson@unitec.ac.nz|08031958|80SD|1533106|STAFF_P
+dthia@unitec.ac.nz|Dayna|Rose Yee Sioe|Thia|dthia@unitec.ac.nz|26042001|43EA|1533254|STAFF_C
+ypurcell@unitec.ac.nz|Yanina|Karen Liang|Purcell|ypurcell@unitec.ac.nz|31101963|90TR|1533258|STAFF_C
+ypurcell@unitec.ac.nz|Yanina|Karen Liang|Purcell|ypurcell@unitec.ac.nz|31101963|90TR|1533258|STAFF_P
+cchiang@unitec.ac.nz|Ching-Lan||Chiang|cchiang@unitec.ac.nz|19081977|80SD|1533315|STAFF_C
+cgil@unitec.ac.nz|Constanza||Gil|cgil@unitec.ac.nz|26061981|32CS|1533499|STAFF_C
+lpihama@unitec.ac.nz|Leonie|Eileen|Pihama|lpihama@unitec.ac.nz|17081962|90NW|1533582|STAFF_P
+mgowling@unitec.ac.nz|Mark||Gowling|markgowling@gmail.com|21101979|50FM|1533654|STAFF_C
+estone2@unitec.ac.nz|Eric||Stone|estone2@unitec.ac.nz|20051957|90AS|1533778|STAFF_F
+sbennett2@unitec.ac.nz|Susan|Jill|Bennett|sbennett2@unitec.ac.nz|22081958|90AD|1533804|STAFF_F
+nnuntalid@unitec.ac.nz|Natt||Nuntalid|nnuntalid@unitec.ac.nz|04051981|21CS|1533897|STAFF_C
+apohiva@unitec.ac.nz|Akuila|Langi|Pohiva|apohiva@unitec.ac.nz|04041990|21CS|1534030|STAFF_C
+jlow@unitec.ac.nz|Joanne|Kai Yee|Low|jlow@unitec.ac.nz|06111996|90TR|1534150|STAFF_C
+jlow@unitec.ac.nz|Joanne|Kai Yee|Low|jlow@unitec.ac.nz|06111996|90TR|1534150|STAFF_P
+clloyd@unitec.ac.nz|Christopher|Edward|Lloyd|clloyd@unitec.ac.nz|08011990|21CS|1534282|STAFF_C
+sarya@unitec.ac.nz|Soham|Samirkumar|Arya|sarya@unitec.ac.nz|11102000|21CS|1534309|STAFF_C
+xzhai@unitec.ac.nz|Xindi||Zhai|santoro_pp@hotmail.com|18111988|32BC|1534454|STAFF_C
+ekabbar@unitec.ac.nz|Eltahir|Fadul|Kabbar|ekabbar@unitec.ac.nz|01031968|21CS|1534592|STAFF_F
+jnewell@unitec.ac.nz|John||Newell|john.newell@theta.co.nz|23081969|50FN|1534702|STAFF_C
+qli2@unitec.ac.nz|Qianyi||Li|qli2@unitec.ac.nz|02061993|21CI|1535205|STAFF_C
+aking4@unitec.ac.nz|Arthur||King|the.king@xtra.co.nz|22121941|90AS_01|1535503|STAFF_C
+ngousebasha@unitec.ac.nz|Nasreen||Gousebasha|nasreen.begam@presenceofit.com|21081986|60IT|1536016|STAFF_C
+sparsons@unitec.ac.nz|Sandra||Parsons|sandra.parsons@presenceofit.com.au|26091964|60IT|1536017|STAFF_C
+mshinohara@unitec.ac.nz|Miyoko||Shinohara|mshinohara@unitec.ac.nz|28061970|40LA|1536519|STAFF_C
+kfarrimond@unitec.ac.nz|Katie||Farrimond|kfarrimond@unitec.ac.nz|09051982|41CD|1536737|STAFF_F
+lschmid@unitec.ac.nz|Luzie|Maria Heidi|Schmid|lschmid@unitec.ac.nz|25061999|43EA|1536891|STAFF_C
+zzhou@unitec.ac.nz|Zhiqi||Zhou|zzhou@unitec.ac.nz|01061987|32CS|1536964|STAFF_C
+avasanthan@unitec.ac.nz|Arya|Sandaru|Vasanthan|avasanthan@unitec.ac.nz|19031993|80AD|1537174|STAFF_F
+kstansfield@unitec.ac.nz|Kellie||Stansfield|kstansfield@unitec.ac.nz|10081969|60IT|1537216|STAFF_F
+mmiller@unitec.ac.nz|Michael|Cannon|Miller|mmiller@unitec.ac.nz|05061979|21CI|1537250|STAFF_F
+lfihaki@unitec.ac.nz|Lupeti|Ilaisa|Fihaki|lfihaki@unitec.ac.nz|05031976|80PI|1537617|STAFF_F
+cmoore2@unitec.ac.nz|Cherie|Joy|Moore|cmoore2@unitec.ac.nz|23051987|21CI|1537749|STAFF_C
+msherrgill@unitec.ac.nz|Manveer|Singh|Sherrgill|msherrgill@unitec.ac.nz|08031988|32BC|1538034|STAFF_C
+smiddleditch@unitec.ac.nz|Stacey|Ann|Middleditch|smiddleditch@unitec.ac.nz|27101976|43EA|1538057|STAFF_F
+pshin@unitec.ac.nz|Paul||Shin|pshin@unitec.ac.nz|23051996|32CS|1538422|STAFF_C
+ibahri@unitec.ac.nz|Intan||Bahri|ibahri@unitec.ac.nz|11031982|32CS|1538644|STAFF_F
+kpritchard@unitec.ac.nz|Kris||Pritchard|kris.pritchard@gmail.com|10061983|15DS|1538781|STAFF_C
+hcosford@unitec.ac.nz|Hamish||Cosford|hcosford@unitec.ac.nz|30081987|80AC|1538982|STAFF_F
+jzozobrado@unitec.ac.nz|Jinky||Zozobrado|jzozobrado@unitec.ac.nz|26041986|50FM|1538988|STAFF_F
+kagarjacomb@unitec.ac.nz|Kirsty||Agar-Jacomb|kirstyagarjacomb@gmail.com|10081975|80SD|1539045|STAFF_C
+gjessen@unitec.ac.nz|Glenda||Jessen|gjessen@unitec.ac.nz|12031958|60HR|1539100|STAFF_C
+gjessen@unitec.ac.nz|Glenda||Jessen|gjessen@unitec.ac.nz|12031958|90AS|1539100|STAFF_C
+blee@unitec.ac.nz|Bernadette|Frances|Lee Te Young|blee@unitec.ac.nz|14081970|90NW|1539175|STAFF_F
+sbouwmeester@unitec.ac.nz|Sacha||Bouwmeester|sbouwmeester@unitec.ac.nz|18081995|80SD|1539244|STAFF_P
+jdavies4@unitec.ac.nz|Julie|Anne|Davies|jdavies4@unitec.ac.nz|27111963|50CC|1539657|STAFF_P
+lliu@unitec.ac.nz|Lechen||Liu|lliu@unitec.ac.nz|20061990|21EA|1539672|STAFF_C
+bdavis@unitec.ac.nz|Bryan||Davis|bdavis@unitec.ac.nz|15051960|31VS|1539927|STAFF_F
+rnicolas@unitec.ac.nz|Rudy|Paul|Nicolas|rnicolas@unitec.ac.nz|13041984|32CS|1540063|STAFF_C
+smahama@unitec.ac.nz|Shogo||Mahama|smahama@unitec.ac.nz|26071990|21EA|1540155|STAFF_C
+lbrown2@unitec.ac.nz|Lindsay||Brown|LBrown@riministreet.com|01071991|60IT|1540323|STAFF_C
+sfletcher@unitec.ac.nz|Stephanie||Fletcher|SFletcher@riministreet.com|02051981|60IT|1540324|STAFF_C
+sjarajapu@unitec.ac.nz|Sarat||Jarajapu|SJarajapu@riministreet.com|08101990|60IT|1540325|STAFF_C
+khoult@unitec.ac.nz|Kerry||Hoult|KHoult@riministreet.com|28061971|60IT|1540326|STAFF_C
+srenata@unitec.ac.nz|Steven|Mark|Renata|steven@kiwadigital.com|25091966|10CE|1540397|STAFF_C
+bkelling@unitec.ac.nz|Bruce||Kelling|bkelling@riminstreet.com|01061985|60IT|1540663|STAFF_C
+ggraham@unitec.ac.nz|Gil||Graham|ggraham@unitec.ac.nz|01031991|41HC|1540779|STAFF_F
+hkoroi@unitec.ac.nz|Haylee|Anne|Koroi|haylee.koroi@gmail.com|01012001|90NW|1540915|STAFF_C
+hropati@unitec.ac.nz|Hineamaru||Ropati|hropati@unitec.ac.nz|09051962|90NW|1540917|STAFF_C
+rreid3@unitec.ac.nz|Robert|John|Reid|robert@rednest.nz|11111952|10CE|1540947|STAFF_C
+alesa@unitec.ac.nz|Andrew|Andrew|Lesa|andrew.lesa@live.com|24011990|10CE|1540948|STAFF_C
+zjalil@unitec.ac.nz|Ziena|Nitasha|Jalil|jalilziena@gmail.com|01012001|10CE|1540949|STAFF_C
+glopez@unitec.ac.nz|Guillermo|Javier|Lopez|glopez@unitec.ac.nz|13011977|32CS|1540997|STAFF_C
+pwinder@unitec.ac.nz|Peter||Winder|peter@mcgredywinder.co.nz|01012001|10CE|1541083|STAFF_C
+pparussini@unitec.ac.nz|Peter||Parussini|peterparussini@xtra.co.nz|01012001|10CE|1541141|STAFF_C
+jdubouzet@unitec.ac.nz|Jenny||Dubouzet|jdubouzet@unitec.ac.nz|31081981|80PG|1541229|STAFF_F
+abhatia@unitec.ac.nz|Ajay|Kumar|Bhatia|abhatia@unitec.ac.nz|23091969|32BC|1541503|STAFF_C
+hgray@unitec.ac.nz|Harlin|Dee|Gray|hgray@unitec.ac.nz|21101962|90NW|1541774|STAFF_C
+ndong@unitec.ac.nz|Nan||Dong|ndong@unitec.ac.nz|04041986|32CS|1541937|STAFF_C
+rmatta@unitec.ac.nz|Ramesh||Matta|NSMatta@riministreet.com|09121994|60IT|1541988|STAFF_C
+pnewton@unitec.ac.nz|Pania|Peta|Newton|pnewton@unitec.ac.nz|15101989|90NW|1542055|STAFF_C
+gsamuels@unitec.ac.nz|Greer||Samuels|greertsamuels@gmail.com|17031973|90NW|1542137|STAFF_C
+dou@unitec.ac.nz|Jiaxin||Ou|dou@unitec.ac.nz|05101990|32BC|1542183|STAFF_C
+brangiwai@unitec.ac.nz|Byron|William|Rangiwai|brangiwai@unitec.ac.nz|25011980|41SP|1542452|STAFF_F
+mmau@unitec.ac.nz|Ma'ata|Paea 'I Kanikalini|Mau|mmau@unitec.ac.nz|19021993|21BP|1542663|STAFF_C
+evaldes@unitec.ac.nz|Erika||Valdes Jimenez|evaldes@unitec.ac.nz|26061982|60HR|1542685|STAFF_F
+bdeng@unitec.ac.nz|Bert||Deng|bdeng@unitec.ac.nz|07061992|60IT|1542953|STAFF_C
+rhuang@unitec.ac.nz|Ruiying||Huang|rhuang@unitec.ac.nz|10111992|32BC|1543064|STAFF_C
+schai@unitec.ac.nz|Soo|Yeon|Chai|bluecolour07@gmail.com|11061975|80SD|1543128|STAFF_C
+wrattenbury2@unitec.ac.nz|William|Julius|Rattenbury|wrattenbury2@unitec.ac.nz|30091998|21EA|1543286|STAFF_C
+zsun@unitec.ac.nz|Zonghua||Sun|zsun@unitec.ac.nz|12031973|21CS|1543287|STAFF_C
+zsun@unitec.ac.nz|Zonghua||Sun|zsun@unitec.ac.nz|12031973|21EA|1543287|STAFF_C
+vmaguire@unitec.ac.nz|Vanessa|Rachel|Maguire|vmaguire@unitec.ac.nz|20121969|21EA|1543386|STAFF_C
+ptere@unitec.ac.nz|Pa Tepairu||Tere|ptere@unitec.ac.nz|18101978|80SC|1543627|STAFF_F
+mhenderson@unitec.ac.nz|Michele||Henderson|mhenderson@unitec.ac.nz|14121967|41HC|1543746|STAFF_F
+jkim@unitec.ac.nz|Jonah||Kim|jkim@unitec.ac.nz|24091944|32AR|1543772|STAFF_C
+sgray@unitec.ac.nz|Sarah||Gray|sgray@unitec.ac.nz|12021992|41HC|1543814|STAFF_C
+ttauroa@unitec.ac.nz|Tammy|Raewyn|Tauroa|ttauroa@unitec.ac.nz|13021988|90NW|1544005|STAFF_C
+jstewart2@unitec.ac.nz|Jordan|James|Stewart|jstewart2@unitec.ac.nz|21061998|43EA|1544071|STAFF_C
+@unitec.ac.nz|Keith||Power|kkpower@xtra.co.nz|06051956|32BC|1544142|STAFF_C
+rgibson2@unitec.ac.nz|Rosemary|Jane|Gibson|rgibson2@unitec.ac.nz|22121988|50FN|1544191|STAFF_P
+lorbell@unitec.ac.nz|Luke|Christopher|Orbell|lorbell@unitec.ac.nz|19112002|80SP|1544253|STAFF_C
+tgoh@unitec.ac.nz|Ting Fong||Goh|tgoh@unitec.ac.nz|13061957|21EA|1544335|STAFF_F
+@unitec.ac.nz|Jenny||Kong|Jennyk@manurewamarae.co.nz|09111963|90NW|1544387|STAFF_C
+@unitec.ac.nz|Hinewirangi||Kohu Morgan|hinewirangi@xtra.co.nz|10121947|90NW|1544404|STAFF_C
+lkhan@unitec.ac.nz|Lubna||Khan|lkhan@unitec.ac.nz|30051985|80SC|1544488|STAFF_F
+wwon@unitec.ac.nz|Wendy||Won|wwon@unitec.ac.nz|14111984|32CS|1544537|STAFF_C
+kmbenn@unitec.ac.nz|Katy||Mann Benn|kmbenn@unitec.ac.nz|04071969|80AC|1544554|STAFF_F
+sbostwick@unitec.ac.nz|Sophie|Clair|Bostwick|sbostwick@unitec.ac.nz|08051974|32AR|1544848|STAFF_C
+riguin@unitec.ac.nz|Rosario||Iguin|riguin@unitec.ac.nz|26071983|90TL|1544970|STAFF_F
+ggilmore@unitec.ac.nz|Gus|Alan Peter|Gilmore|ggilmore@unitec.ac.nz|01041961|10CE|1545041|STAFF_C
+ggilmore@unitec.ac.nz|Gus|Alan Peter|Gilmore|ggilmore@unitec.ac.nz|01041961|10CE|1545041|STAFF_C
+@unitec.ac.nz|Graham|Roger|Morris|morris-gj@outlook.com|12041946|21CI|1545126|STAFF_C
+@unitec.ac.nz|Bridie||Lonie|bridie.lonie@op.ac.nz|07111951|21CI|1545127|STAFF_C
+@unitec.ac.nz|Joseph|Russell|Hurn|joe.hurn@raywhite.com|13021988|21BP|1545207|STAFF_C
+awood2@unitec.ac.nz|Antoinette|Louise|Wood|awood2@unitec.ac.nz|23071973|10CE|1545348|STAFF_C
+ktelford@unitec.ac.nz|Kim||Telford|ktelford@unitec.ac.nz|24021982|43EA|1545444|STAFF_F
+pgeorge@unitec.ac.nz|Peter|Robert|George|pgeorge@unitec.ac.nz|06121974|50FN|1545445|STAFF_C
+anikoloffkraan@unitec.ac.nz|Ari|Aidan|Nikoloff-Kraan|anikoloffkraan@unitec.ac.nz|06082003|21CS|1545505|STAFF_C
+pclements@unitec.ac.nz|Paige|Jordan|Clements|pclements@unitec.ac.nz|25041991|50FN|1545931|STAFF_F
+pshaw@unitec.ac.nz|Peter|Matthew|Shaw|pshaw@unitec.ac.nz|30041989|32CS|1545936|STAFF_P
+mwaa@unitec.ac.nz|Moana|Moe|Waa|mwaa@unitec.ac.nz|19121983|90NW|1546061|STAFF_C
+ttang@unitec.ac.nz|Tianyi||Tang|ttang@unitec.ac.nz|03121993|90RP|1546152|STAFF_P
+ttang@unitec.ac.nz|Tianyi||Tang|ttang@unitec.ac.nz|03121993|90TR|1546152|STAFF_P
+@unitec.ac.nz|Kristine||Bishop|isadream73@gmail.com|19081973|90NW|1546509|STAFF_C
+aturnbull@unitec.ac.nz|Alice|Jane|Turnbull|aturnbull@unitec.ac.nz|24101989|21CS|1546514|STAFF_C
+lwheeler@unitec.ac.nz|Laurian|Ann|Wheeler|lwheeler@unitec.ac.nz|28061993|41HC|1546773|STAFF_C
+mnaqvi2@unitec.ac.nz|Muhammad Sajjad Haider|Sajjad Haider|Naqvi|mnaqvi2@unitec.ac.nz|24081980|60HR-02|1546814|STAFF_C
+mnaqvi2@unitec.ac.nz|Muhammad Sajjad Haider|Sajjad Haider|Naqvi|mnaqvi2@unitec.ac.nz|24081980|80SC|1546814|STAFF_F
+lsun2@unitec.ac.nz|Lifu||Sun|lsun2@unitec.ac.nz|25081990|60IT-02|1546925|STAFF_F
+mmortimer@unitec.ac.nz|Mike|Rachuy|Mortimer|mikeonwaiheke@gmail.com|24031998|43EA|1547039|STAFF_C
+mshakiba@unitec.ac.nz|Masoud||Shakiba|masoud.shakibaa@gmail.com|10061983|21CS|1547130|STAFF_F
+adinh@unitec.ac.nz|Anh|Hai|Dinh|adinh@unitec.ac.nz|18091997|60HR-02|1547174|STAFF_C
+ysuarez@unitec.ac.nz|Yasdeily||Perez Suarez|ysuarez@unitec.ac.nz|02021990|32CS|1547868|STAFF_C
+jtarrant@unitec.ac.nz|Joseph||Tarrant|jtarrant@unitec.ac.nz|31011994|80BR|1547895|STAFF_C
+dtravasso@unitec.ac.nz|Dolly||Travasso|dtravasso@unitec.ac.nz|08071967|60HR-02|1547944|STAFF_C
+tatkins@unitec.ac.nz|Tommy|Rogers|Atkins|tatkins@unitec.ac.nz|25011960|31TS|1548292|STAFF_F
+keruera@unitec.ac.nz|Kahurangi|Te Otinga|Eruera|keruera@unitec.ac.nz|12091994|32AR|1548737|STAFF_C
+croberts@unitec.ac.nz|Carina||Roberts|croberts@unitec.ac.nz|30051992|42BE|1548783|STAFF_C
+@unitec.ac.nz|James||Cider|jaycidermedia@gmail.com|18111997|43EA|1548888|STAFF_C
+jcocker@unitec.ac.nz|Jason||Cocker|jcocker@unitec.ac.nz|04121991|50FM|1549043|STAFF_F
+charcombe@unitec.ac.nz|Chris|James|Harcombe|cjharcombe@gmail.com|25021965|41CD|1549102|STAFF_C
+kshepherd@unitec.ac.nz|Kim||Shepherd|kim@metahead.co.nz|02071983|60IT|1549142|STAFF_C
+arasheed@unitec.ac.nz|Ali||Rasheed|arasheed@unitec.ac.nz|06101961|41SP|1549168|STAFF_F
+cmcllvenna@unitec.ac.nz|Christine|Margaret|McIlvenna|cmcllvenna@unitec.ac.nz|09041945|90AS_01|1549258|STAFF_C
+bchand@unitec.ac.nz|Bhaviska|Shika|Chand|bchand@unitec.ac.nz|18071997|60HR-02|1549349|STAFF_C
+mhalliday@unitec.ac.nz|Matt|Rowan|Halliday|mhalliday@unitec.ac.nz|04041994|21CS|1549555|STAFF_C
+ebrothers@unitec.ac.nz|Emma|Grace|Brothers|ebrothers@unitec.ac.nz|26082000|60HR-02|1549622|STAFF_C
+hfuluifaga@unitec.ac.nz|Helena||Fuluifaga|hfuluifaga@unitec.ac.nz|18011999|60HR-02|1549706|STAFF_C
+ltalagi2@unitec.ac.nz|Lele|Rhodes|Talagi|ltalagi2@unitec.ac.nz|28081990|80SE|1549823|STAFF_C
+ltalagi2@unitec.ac.nz|Lele|Rhodes|Talagi|ltalagi2@unitec.ac.nz|28081990|80SE|1549823|STAFF_F
+mputt@unitec.ac.nz|Michael|Anthony|Putt|mputt@unitec.ac.nz|18081971|32BC|1549899|STAFF_P
+cjeffries@unitec.ac.nz|Chris|Phillip|Jeffries|cjeffries@unitec.ac.nz|08031984|60IT|1550184|STAFF_F
+usanjanwala@unitec.ac.nz|Utkarsh|Shyam|Sanjanwala|usanjanwala@unitec.ac.nz|11081985|40FS|1550355|STAFF_F
+rsanders@unitec.ac.nz|Rob|Jamie|Sanders|rsanders@unitec.ac.nz|12081994|21CS|1550596|STAFF_C
+ttam@unitec.ac.nz|Thomas||Tam|thomascwtam@yahoo.com|30071950|21BP|1550662|STAFF_C
+bdowell@unitec.ac.nz|Barry|Kane|Dowell|bdowell@unitec.ac.nz|10051967|21BP|1550701|STAFF_C
+dkirkman@unitec.ac.nz|Duncan|Thomas|Kirkman|dkirkman@unitec.ac.nz|24071970|80MK|1550798|STAFF_F
+akohler@unitec.ac.nz|Adrienne||Kohler|akohler@unitec.ac.nz|11121963|80CR|1550805|STAFF_F
+gbrown@unitec.ac.nz|Gabrielle|Lee|Brown|gbrown@unitec.ac.nz|17081975|80MK|1550810|STAFF_F
+astevens2@unitec.ac.nz|Alfred|Jack Logan|Stevens|astevens2@unitec.ac.nz|08082000|80PG|1550919|STAFF_F
+nxiong@unitec.ac.nz|Nancy||Xiong|nxiong@unitec.ac.nz|23031984|21EA|1551431|STAFF_C
+slotuiiga@unitec.ac.nz|Peseta Sam||Lotu-Iiga|slotuiiga@unitec.ac.nz|02111970|10CE|1551691|STAFF_C
+mteirney@unitec.ac.nz|Michelle|Leigh|Teirney|mteirney@unitec.ac.nz|05091971|10CE|1551692|STAFF_C
+mcarroll@unitec.ac.nz|Martin|Ian|Carroll|mcarroll@unitec.ac.nz|27031969|10CE|1551693|STAFF_C
+isheth@unitec.ac.nz|Ishita||Sheth|isheth@unitec.ac.nz|31081988|60IT|1551725|STAFF_C
+habraham@unitec.ac.nz|Ruia||Abraham|habraham@unitec.ac.nz|19111969|90NW|1551841|STAFF_P
+ncollins@unitec.ac.nz|Neemia||Collins|ncollins@unitec.ac.nz|24101978|60HR-02|1552038|STAFF_C
+khiron@unitec.ac.nz|Kara|Marguerite|Hiron|khiron@unitec.ac.nz|01081980|50FN|1552191|STAFF_C
+marora2@unitec.ac.nz|Meenakshi||Arora|khushimeenakshi26@gmail.com|26091981|80AC|1552230|STAFF_F
+swapenaar@unitec.ac.nz|Sonita||Wapenaar|swapenaar@unitec.ac.nz|28081974|10CE|1552240|STAFF_C
+mleeson@unitec.ac.nz|Mandy||Leeson|mleeson@unitec.ac.nz|06051962|41SP|1552243|STAFF_F
+mkrone@unitec.ac.nz|Marlene||Krone|mkrone@unitec.ac.nz|18101950|10CE|1552247|STAFF_C
+poke@unitec.ac.nz|Paul||Oke|poke@unitec.ac.nz|04051984|21EA|1552430|STAFF_F
+mgamage@unitec.ac.nz|Kapila Mahesh||Gamage|mahesh.gamage@nexa.com.au|07111979|60IT|1552638|STAFF_F
+browan@unitec.ac.nz|Brian|Leslie|Rowan|brian@brianrowan.nz|18101949|31TS|1552917|STAFF_P
+csinclair@unitec.ac.nz|Chris||Sinclair|csinclair@unitec.ac.nz|20071991|21CS|1552982|STAFF_F
+sfairuzbasalamah@unitec.ac.nz|Siti Fairuz|Binte Ismail|Basalamah|sfairuzbasalamah@unitec.ac.nz|12071987|21CS|1552983|STAFF_C
+jmudrovcic@unitec.ac.nz|Johnathan||Mudrovcic|jmudrovcic@unitec.ac.nz|24051991|32BC|1553077|STAFF_C
+smiranda2@unitec.ac.nz|Sergio Lautaro||Castro Miranda|smiranda2@unitec.ac.nz|24111985|21CS|1553187|STAFF_C
+yhagino@unitec.ac.nz|Yumi||Hagino|yhagino@unitec.ac.nz|12031980|80SR|1553618|STAFF_F
+atenana@unitec.ac.nz|Anania|Mereana Louisa|Te Nana|ananiatenana13@gmail.com|13071989|90NW|1553819|STAFF_C
+ibrown@unitec.ac.nz|Isaac||Brown|ibrown@unitec.ac.nz|25021998|90NW|1553879|STAFF_F
+sshamout@unitec.ac.nz|Sameh||Shamout|sshamout@unitec.ac.nz|04071990|32AR|1553921|STAFF_F
+nmason@unitec.ac.nz|Nick|James|Mason|nmason@unitec.ac.nz|27091985|21CS|1553948|STAFF_C
+jvictorino@unitec.ac.nz|Josephine||Victorino|jvictorino@unitec.ac.nz|22011963|10CE|1554034|STAFF_C
+ghafoka@unitec.ac.nz|Grace||Hafoka|ghafoka@unitec.ac.nz|03061990|41SP|1554483|STAFF_F
+ssinclair@unitec.ac.nz|Suzanne||Sinclair|suzsinclair100@gmail.com|08121955|42BE|1554512|STAFF_C
+ssinclair@unitec.ac.nz|Suzanne||Sinclair|suzsinclair100@gmail.com|08121955|60HR-02|1554512|STAFF_C
+@unitec.ac.nz|Dileep||Rajendran|dileep.rajendran@wintec.ac.nz|28101978|21CS|1554559|STAFF_C
+sanandasivam@unitec.ac.nz|Sivaram||Anandasivam|sanandasivam@unitec.ac.nz|17111984|80SP|1554684|STAFF_C
+sterangi@unitec.ac.nz|Shama||Te Rangi|sterangi@unitec.ac.nz|05111982|50FM|1554695|STAFF_F
+rdewar@unitec.ac.nz|Regan||Dewar|rdewar@unitec.ac.nz|27011994|41HC|1554805|STAFF_C
+mpierson@unitec.ac.nz|Mandie||Pierson-Jurriaans|mpierson@unitec.ac.nz|01041985|60HR|1554830|STAFF_F
+celvy@unitec.ac.nz|Caroline||Elvy|celvy@unitec.ac.nz|27111980|43EA|1555042|STAFF_F
+spawar@unitec.ac.nz|Sachin||Pawar|spawar@unitec.ac.nz|26031987|80IN|1555072|STAFF_F
+ttisdall@unitec.ac.nz|Tina||Tisdall|ttisdall@unitec.ac.nz|28051972|50FM|1555149|STAFF_C
+thiguchi@unitec.ac.nz|Takahito||Higuchi|thiguchi@unitec.ac.nz|12041978|80IN|1555224|STAFF_F
+@unitec.ac.nz|Te Reo||Hau|Reohau69@gmail.com|01051967|90RP|1555318|STAFF_C
+rwarfieldsmith@unitec.ac.nz|Roger||Warfield Smith|rwarfieldsmith@unitec.ac.nz|04041976|60IT|1555622|STAFF_C
+mszekely1@unitec.ac.nz|Mara||Szekely|mszekely1@unitec.ac.nz|10012006|60HR-02|1555641|STAFF_C
+rlal@unitec.ac.nz|Ronika||Lal|rlal@unitec.ac.nz|15081991|80SL|1555692|STAFF_F
+pzong@unitec.ac.nz|Phoebe||Zong|pzong@unitec.ac.nz|05021981|80PG|1555924|STAFF_F
+aencomienda@unitec.ac.nz|Amiel|Jan|Encomienda|aencomienda@unitec.ac.nz|04011995|21CS|1556015|STAFF_C
+lkapoor@unitec.ac.nz|Leanne|Lalita|Kapoor|lkapoor@unitec.ac.nz|12081965|80AD|1556051|STAFF_F
+tbarclay@unitec.ac.nz|Trent|James Maw|Barclay|tbarclay@unitec.ac.nz|24051966|31TS|1556112|STAFF_F
+plimbachiya@unitec.ac.nz|Pragnesh|Dhanjibhai|Limbachiya|plimbachiya@unitec.ac.nz|10011983|80BR|1556137|STAFF_C
+iyang@unitec.ac.nz|Irene|Kyung|Yang|iyang@unitec.ac.nz|08091983|80PG|1556200|STAFF_F
+aprastya@unitec.ac.nz|Angela||Prastya|aprastya@unitec.ac.nz|10011992|80PG|1556213|STAFF_F
+rpeters2@unitec.ac.nz|Raewyn|Yvonne|Peters|rpeters2@unitec.ac.nz|20101967|90AS_01|1556216|STAFF_C
+jmarshall@unitec.ac.nz|James|Douglas|Marshall|jmarshall@unitec.ac.nz|14011963|90AS_01|1556220|STAFF_C
+cknutson@unitec.ac.nz|Carol||Knutson|cknutson@unitec.ac.nz|05051974|80MK|1556471|STAFF_C
+gwright@unitec.ac.nz|Gael||Wright|gwright@unitec.ac.nz|01011950|90AS_01|1556515|STAFF_C
+rbond@unitec.ac.nz|Rosemary||Bond|rbond@unitec.ac.nz|03121947|90AS_01|1556556|STAFF_C
+aavci@unitec.ac.nz|Aynur||Kaya Avci|aavci@unitec.ac.nz|17071982|90AS_01|1556557|STAFF_C
+dcastellanos@unitec.ac.nz|Duzan|Avila|Castellanos,|dcastellanos@unitec.ac.nz|11101985|90AS_01|1556558|STAFF_C
+dharris2@unitec.ac.nz|David|Ernest|Harris|dharris2@unitec.ac.nz|13101941|90AS_01|1556564|STAFF_C
+cyiin@unitec.ac.nz|Cecilia|Suk Kiong|Yiin|cyiin@unitec.ac.nz|10051958|90AS_01|1556565|STAFF_C
+@unitec.ac.nz|Syeda||Yousaf|natasha.basitt@gmail.com|08021990|90AS_01|1556566|STAFF_C
+yelrafey@unitec.ac.nz|Yasmeen||El-Rafey|yelrafey@unitec.ac.nz|21111996|90AS_01|1556619|STAFF_C
+jkhor@unitec.ac.nz|Jasmine||Khor|jkhor@unitec.ac.nz|10091963|90AS_01|1556622|STAFF_C
+ahooper@unitec.ac.nz|Aaron|John|Hooper|ahooper@unitec.ac.nz|30111998|80SL|1556655|STAFF_F
+kwoods@unitec.ac.nz|Kimberley|Jean|Woods|kwoods@unitec.ac.nz|15041989|80MK|1556675|STAFF_F
+tafrin@unitec.ac.nz|Tahera||Afrin|tafrin@unitec.ac.nz|12041979|41CD|1556877|STAFF_F
+dgesche@unitec.ac.nz|Delphine|Fabienne B.|Gesche|dgesche@unitec.ac.nz|18061990|10CE|1556883|STAFF_F
+dfrethey@unitec.ac.nz|Daniel|Jeffery|Frethey|dfrethey@unitec.ac.nz|07031995|80BR|1557180|STAFF_C
+jjacobs@unitec.ac.nz|Jaala|Ann|Jacobs|jjacobs@unitec.ac.nz|18111974|50FM|1557217|STAFF_C
+jbrinkmann@unitec.ac.nz|Jens|Thomas|Brinkmann|jbrinkmann@unitec.ac.nz|11031986|21EA|1557389|STAFF_F
+nsakhaee@unitec.ac.nz|Neda||Sakhaee|nsakhaee@unitec.ac.nz|24031985|21CS|1557719|STAFF_C
+shumphries@unitec.ac.nz|Sophie|Jane|Humphries|shumphries@unitec.ac.nz|02101999|80AD|1557859|STAFF_F
+bredpath@unitec.ac.nz|Bevan|Stuart|Redpath|bredpath@unitec.ac.nz|01081981|31VS|1558199|STAFF_F
+ykuritamarsden@unitec.ac.nz|Yoko||Kurita-Marsden|yokomarsden.sunflower@gmail.com|03121963|80PG|1558238|STAFF_F
+rhochstein@unitec.ac.nz|Regina||Hochstein|rhochstein@unitec.ac.nz|17091965|32AR|1558249|STAFF_C
+nnaidu@unitec.ac.nz|Nirav||Naidu|nnaidu@unitec.ac.nz|19051984|60HR|1558253|STAFF_F
+bmcmahon@unitec.ac.nz|Beth|Maria|McMahon|bmcmahon@unitec.ac.nz|26091993|80AC|1558278|STAFF_C
+sshang@unitec.ac.nz|Sisi||Shang|sshang@unitec.ac.nz|14121991|80PG|1558279|STAFF_F
+chutton@unitec.ac.nz|Christine||Hutton|chutton@unitec.ac.nz|15071965|10CE|1558308|STAFF_F
+rlebas@unitec.ac.nz|Rene||Le Bas|rlebas@unitec.ac.nz|17081989|21CI|1558329|STAFF_C
+gmarriott@unitec.ac.nz|Gemma|Gemma|Marriott|gmarriott@unitec.ac.nz|06061971|60IT|1558464|STAFF_F
+@unitec.ac.nz|Luella||Linaker|leahs@papakuramarae.co.nz|25011971|90NW|1558627|STAFF_C
+rgreen@unitec.ac.nz|Richard|Hamiora|Green|rgreen@unitec.ac.nz|16021994|80MA|1558696|STAFF_C
+yqiu@unitec.ac.nz|Yan||Qiu|yqiu@unitec.ac.nz|26061986|32BC|1558746|STAFF_C
+jchang@unitec.ac.nz|Jason||Chang|jchang@unitec.ac.nz|14011993|60IT|1558874|STAFF_C
+kmann@unitec.ac.nz|Keith||Mann|kmann@unitec.ac.nz|23051967|32AR|1558938|STAFF_C
+wjin@unitec.ac.nz|Wei||Jin|wjin@unitec.ac.nz|12061973|50FN|1558968|STAFF_F
+ibrunt@unitec.ac.nz|Ian|Clifford|Brunt|ibrunt@unitec.ac.nz|10101962|31TS|1559130|STAFF_F
+felier@unitec.ac.nz|Fatin|Najihah Elier Binti Hisham|Elier|felier@unitec.ac.nz|30121993|80SC|1559383|STAFF_F
+nhart@unitec.ac.nz|Nicole||Hart|nhart@unitec.ac.nz|01081971|60IT|1559425|STAFF_C
+lrosieur@unitec.ac.nz|Lyndiana|Te Aroha Leigh|Rosieur|lrosieur@unitec.ac.nz|07021997|80MA|1559459|STAFF_F
+nwilsonhokowhitu@unitec.ac.nz|Nalani|Louise Nalani|Wilson-Hokowhitu|nwilsonhokowhitu@unitec.ac.nz|24051975|90NW|1559501|STAFF_P
+jbalan@unitec.ac.nz|Jigando||Balan|jbalan@unitec.ac.nz|07031977|60IT|1559635|STAFF_C
+dlithgow@unitec.ac.nz|Diane||Lithgow|dlithgow@unitec.ac.nz|26121970|10CE|1559690|STAFF_C
+aede@unitec.ac.nz|Anthea||Ede|aede@unitec.ac.nz|20101973|21CI|1559771|STAFF_C
+shsieh@unitec.ac.nz|Sally||Hsieh|shsieh@unitec.ac.nz|31071989|43EA|1559913|STAFF_F
+@unitec.ac.nz|Kahleyn|Te Wairua|Evans|kahleyne@manurewamarae.co.nz|12041998|90NW|1559958|STAFF_C
+jlove@unitec.ac.nz|James|Alec|Love|jlove@unitec.ac.nz|26041992|90RP|1560198|STAFF_F
+jlove@unitec.ac.nz|James|Alec|Love|jlove@unitec.ac.nz|26041992|90TR|1560198|STAFF_F
+kahuja@unitec.ac.nz|Kiran||Ahuja|kahuja@unitec.ac.nz|12061987|60IT|1560460|STAFF_C
+kbotha@unitec.ac.nz|Kirstin|Anne|Botha|kbotha@unitec.ac.nz|01121994|41HC|1560494|STAFF_F
+jsung@unitec.ac.nz|Jenny||Sung|jsung@unitec.ac.nz|21011992|41HC|1560499|STAFF_C
+@unitec.ac.nz|Jolie||Vuong|jolievuong.nz@gmail.com|02031987|60AD|1560517|STAFF_F
+@unitec.ac.nz|Jolie||Vuong|jolievuong.nz@gmail.com|02031987|60HR-02|1560517|STAFF_F
+ederbyshire@unitec.ac.nz|Emma||Derbyshire|ederbyshire@unitec.ac.nz|19091974|60HR|1560752|STAFF_F
+@unitec.ac.nz|Leesha||Turetahi|tonileesha80@yahoo.com|18031980|90RP|1560877|STAFF_C
+rsalman@unitec.ac.nz|Rawa'a||Salman|rsalman@unitec.ac.nz|03041984|41SP|1560906|STAFF_F
+fdevine@unitec.ac.nz|Francis|Justin|Devine|fdevine@unitec.ac.nz|21031992|60IT|1560907|STAFF_C
+anandini@unitec.ac.nz|Asheeta||Nandini|anandini@unitec.ac.nz|19031986|50FN|1561235|STAFF_P
+jthomas@unitec.ac.nz|Joanne||Thomas|jthomas@unitec.ac.nz|26071973|43EA|1561331|STAFF_P
+hhu@unitec.ac.nz|Hugo||Hu|hhu@unitec.ac.nz|20011990|80PG|1561343|STAFF_F
+bma@unitec.ac.nz|Bella||Ma|mahaoran7@gmail.com|01071994|80PG|1561348|STAFF_F
+jpoulsendavey@unitec.ac.nz|Jaide||Poulsen-Davey|jpoulsendavey@unitec.ac.nz|08121994|80BR|1561429|STAFF_C
+skirpal@unitec.ac.nz|Sneha||Kirpal|skirpal@unitec.ac.nz|10031999|80BR|1561475|STAFF_C
+mpatel2@unitec.ac.nz|Megha||Patel|mpatel2@unitec.ac.nz|05071992|80BR|1561583|STAFF_C
+jahvoa@unitec.ac.nz|Johannah||Skeen|jahvoa@unitec.ac.nz|09082000|80BR|1561585|STAFF_C
+rrao@unitec.ac.nz|Ritesh||Rao|rrao@unitec.ac.nz|17021982|80BR|1561632|STAFF_C
+dkusno@unitec.ac.nz|Djaja|Kurniawan|Kusno|dkusno@unitec.ac.nz|12011972|80PG|1561648|STAFF_F
+gstebletsova@unitec.ac.nz|Galina||Stebletsova|gstebletsova@unitec.ac.nz|03051978|41CD|1561661|STAFF_F
+syande@unitec.ac.nz|Sarang||Yande|syande@unitec.ac.nz|07071979|80BR|1561870|STAFF_C
+jkimiangatau@unitec.ac.nz|James|Teariki|Kimiangatau|jkimiangatau@unitec.ac.nz|13091995|41HC|1562507|STAFF_C
+jkimiangatau@unitec.ac.nz|James|Teariki|Kimiangatau|jkimiangatau@unitec.ac.nz|13091995|43EA|1562507|STAFF_C
+lsaulala@unitec.ac.nz|Lia||Saulala|lsaulala@unitec.ac.nz|15011997|80BR|1562659|STAFF_C
+@unitec.ac.nz|Misako||Okawa|misakoo@yahoo.com|18101968|60HR-02|1562723|STAFF_C
+htangihaere@unitec.ac.nz|Hape|Oriwa|Tangihaere|htangihaere@unitec.ac.nz|15092002|60HR-02|1562745|STAFF_C
+@unitec.ac.nz|Rangi|Josephine|Davis|rangi.davis@gmail.com|15071948|80SD|1562948|STAFF_C
+@unitec.ac.nz|Julia||Bohorquez Rodriguez de Medina|jbohorquez@unitec.ac.nz|07011986|43EA|1563059|STAFF_C
+kikin@unitec.ac.nz|Keith||Ikin|kikin@unitec.ac.nz|20011965|10CE|1563159|STAFF_C
+skommunuri@unitec.ac.nz|Sandy||Kommunuri|skommunuri@unitec.ac.nz|03111975|32BC|1563166|STAFF_C
+awilson4@unitec.ac.nz|Agnes|Jane|Wilson|awilson4@unitec.ac.nz|09081961|50FN|1563183|STAFF_C
+scoutts@unitec.ac.nz|Sarah|Josephine|Coutts|scoutts@unitec.ac.nz|09051975|60HS|1563312|STAFF_F
+@unitec.ac.nz|Jennifer|Michelle Vehia|Wheeler|jenwheeler85@gmail.com|01012001|90NW|1563453|STAFF_C
+@unitec.ac.nz|Ingrid||Dubbelt|ingrid.dubbelt@xtra.co.nz|23051955|90TR|1563718|STAFF_C
+esewell@unitec.ac.nz|Elizabeth||Sewell|esewell@unitec.ac.nz|20041966|80SD|1563729|STAFF_C
+bamarasekara@unitec.ac.nz|Dr Bede Ravindra||Amarasekara|bamarasekara@unitec.ac.nz|04031964|21CS|1563759|STAFF_C
+bhosking@unitec.ac.nz|Benjamin||Hosking|bhosking@unitec.ac.nz|18071994|50FM|1563760|STAFF_C
+mmcdaid@unitec.ac.nz|Melanie||McDaid|mmcdaid@unitec.ac.nz|15061984|32AR|1563787|STAFF_C
+npalmer@unitec.ac.nz|Neal||Palmer|Npalmer@unitec.ac.nz|09081968|21CI|1563875|STAFF_C
+msaville@unitec.ac.nz|Matthew|John|Saville|msaville@unitec.ac.nz|25071977|21CI|1563917|STAFF_C
+@unitec.ac.nz|Baari||Mio|operationsmanager.nakt@gmail.com|09101985|90NW|1563928|STAFF_C
+@unitec.ac.nz|Linh Ngoc||Do|nick.do@datumhq.com|18111992|15DS|1564075|STAFF_C
+@unitec.ac.nz|Linh Ngoc||Do|nick.do@datumhq.com|18111992|15DS|1564075|STAFF_C
+esmith3@unitec.ac.nz|Elroy|Elroy|Smith|esmith3@unitec.ac.nz|05111981|31VS|1564106|STAFF_C
+@unitec.ac.nz|Nikau|Gabrielle|Hindin|nikauhindin@gmail.com|20101991|21CI|1564143|STAFF_C
+@unitec.ac.nz|Charles||Turetahi|amtktrust@gmail.com|12041977|90RP|1564144|STAFF_C
+akumar8@unitec.ac.nz|Artika|Arunesh|Kumar|akumar8@unitec.ac.nz|20091980|80BR|1564188|STAFF_C
+jparnell@unitec.ac.nz|Julia|Alice|Parnell|jparnell@unitec.ac.nz|02111979|21CI|1564342|STAFF_C
+byao@unitec.ac.nz|Bohan||Yao|byao@unitec.ac.nz|26111992|32BC|1564353|STAFF_C
+smalhotra@unitec.ac.nz|Shaina||Malhotra|smalhotra@unitec.ac.nz|21011988|80BR|1564368|STAFF_C
+jcarr@unitec.ac.nz|Jeffrey|James|Carr|jcarr@unitec.ac.nz|08121953|21BP|1564385|STAFF_C
+fdalton@unitec.ac.nz|Fiona|Margaret Page|Dalton|fdalton@unitec.ac.nz|12021981|90TL|1564434|STAFF_F
+jyao@unitec.ac.nz|Jenny||Yao|jyao@unitec.ac.nz|28021983|90AS|1564453|STAFF_F
+swang4@unitec.ac.nz|Siyi||Wang|swang4@unitec.ac.nz|28011988|80PG|1564606|STAFF_F
+rkimberley@unitec.ac.nz|Rebecca||Kimberley|rkimberley@unitec.ac.nz|28011994|80PG|1564607|STAFF_F
+mxing@unitec.ac.nz|Michael||Xing|mxing@unitec.ac.nz|16091972|90AS|1564608|STAFF_F
+csweeney@unitec.ac.nz|Celeste|Irene|Sweeney|csweeney@unitec.ac.nz|26101993|21CI|1564634|STAFF_C
+dhuang@unitec.ac.nz|David||Huang|dhuang@unitec.ac.nz|31071983|60IT|1564748|STAFF_C
+jchen3@unitec.ac.nz|Jenny||Chen|jchen3@unitec.ac.nz|08011979|50FN|1564821|STAFF_C
+sli2@unitec.ac.nz|Siyuan||Li|sli2@unitec.ac.nz|05032000|42BE|1564843|STAFF_C
+sli2@unitec.ac.nz|Siyuan||Li|sli2@unitec.ac.nz|05032000|42BE|1564843|STAFF_P
+tngataicallaghan@unitec.ac.nz|Te Waimarie||Ngatai-Callaghan|tngataicallaghan@unitec.ac.nz|04012004|80MA|1564961|STAFF_C
+sganeshan@unitec.ac.nz|Sneha||Ganeshan|sganeshan@unitec.ac.nz|24091985|41HC|1564966|STAFF_C
+ganderson2@unitec.ac.nz|Guy|Charles|Anderson|ganderson2@unitec.ac.nz|05071961|31VS|1564978|STAFF_F
+jyzane@unitec.ac.nz|John|Yijun|Zane|jyzane@unitec.ac.nz|26101961|32BC|1565024|STAFF_C
+nlohia@unitec.ac.nz|Neha|Viral|Lohia|nlohia@unitec.ac.nz|31031991|80AD|1565274|STAFF_F
+lpaton@unitec.ac.nz|Leticia||Paton|leticia_paton@yahoo.co.nz|19041968|60HR-02|1565317|STAFF_C
+lpaton@unitec.ac.nz|Leticia||Paton|leticia_paton@yahoo.co.nz|19041968|90AS|1565317|STAFF_F
+ajoseph@unitec.ac.nz|Ancy||Joseph|ajoseph@unitec.ac.nz|05041986|41HC|1565358|STAFF_C
+mkim@unitec.ac.nz|Michelle||Kim|mkim@unitec.ac.nz|18041994|80SD|1565368|STAFF_F
+szimmerman@unitec.ac.nz|Sarah|Rose|Zimmerman|szimmerman@unitec.ac.nz|05091985|80SD|1565435|STAFF_P
+abeeming@unitec.ac.nz|Albert||Beeming|albert.beeming@manukau.ac.nz|04011971|50FM|1565447|STAFF_C
+ksmith5@unitec.ac.nz|Kim||Smith|ksmith5@unitec.ac.nz|29011967|50FM|1565581|STAFF_C
+bvinayagame@unitec.ac.nz|BALAJI||VINAYAGAME|bvinayagame@unitec.ac.nz|06111993|80BR|1565682|STAFF_C
+rkikuchi@unitec.ac.nz|Ruth|Dorothy|Kikuchi|rkikuchi@unitec.ac.nz|25021965|80SC|1565713|STAFF_P
+hmajurey@unitec.ac.nz|Hiwa|Tuhirae Te Kahurangi|Majurey|hmajurey@unitec.ac.nz|22102003|80MA|1565870|STAFF_C
+@unitec.ac.nz|Christine||Sumner|christine.sumner@spca.nz|09091977|43EA|1565897|STAFF_C
+@unitec.ac.nz|Ralph||Townsend|retownsend@alaska.edu|11121950|90RP|1565907|STAFF_C
+sthach@unitec.ac.nz|Sa Vang||Thach|sthach@unitec.ac.nz|03101989|60IT|1565912|STAFF_C
+tloketi@unitec.ac.nz|Christina|Ileini|Loketi|tloketi@unitec.ac.nz|05071996|80BR|1566076|STAFF_C
+rmidgley@unitec.ac.nz|Richard|Mark|Midgley|rmidgley@unitec.ac.nz|03091967|90AS|1566089|STAFF_C
+evai@unitec.ac.nz|Ezrah|Kasemili|Vai|evai@unitec.ac.nz|14051999|42SR|1566113|STAFF_F
+dperera@unitec.ac.nz|Dulani||Perera|dperera@unitec.ac.nz|19021983|80PG|1566131|STAFF_F
+rmillward@unitec.ac.nz|Rebecca||Millward|rmillward@unitec.ac.nz|15061983|50FN|1566157|STAFF_C
+@unitec.ac.nz|David|Jayzel|Diamond|polarisbridge@yahoo.com|07101962|90RP|1566184|STAFF_C
+mchudzinskipawlowski@unitec.ac.nz|Michal|Andrzej|Chudzinski|mchudzinskipawlowski@unitec.ac.nz|12051984|50FN|1566211|STAFF_C
+lzheng@unitec.ac.nz|Linda||Zheng|lzheng@unitec.ac.nz|28021992|90AS_01|1566532|STAFF_C
+tkhan3@unitec.ac.nz|Tabish||Khan|tkhan3@unitec.ac.nz|15061994|90AS_01|1566533|STAFF_C
+mwall@unitec.ac.nz|Martin|Sydney Richard|Wall|mwall@unitec.ac.nz|13021951|90AS_01|1566542|STAFF_C
+dclark@unitec.ac.nz|Daniela|Monica|Clark|dclark@unitec.ac.nz|16051968|90AS|1566544|STAFF_C
+tcaffery@unitec.ac.nz|Tia||Caffery|tcaffery@unitec.ac.nz|09021982|60HR-02|1566548|STAFF_C
+tcaffery@unitec.ac.nz|Tia||Caffery|tcaffery@unitec.ac.nz|09021982|90AS_01|1566548|STAFF_C
+sarumuganathan@unitec.ac.nz|Suresh||Arumuganathan|sarumuganathan@unitec.ac.nz|23031976|90AS_01|1566550|STAFF_C
+lattanayake@unitec.ac.nz|Lakshan|Lakshan|Attanayake|lattanayake@unitec.ac.nz|27101975|21BP|1566614|STAFF_F
+rjohn@unitec.ac.nz|Raveen||John|rjohn@unitec.ac.nz|15021985|90AS|1566693|STAFF_F
+amackrill@unitec.ac.nz|Alex|Iain|Mackrill|amackrill@unitec.ac.nz|17051980|21BP|1566709|STAFF_C
+sherath@unitec.ac.nz|Shenali||Herath|sherath@unitec.ac.nz|13051998|80AD|1566738|STAFF_C
+kpass@unitec.ac.nz|Kylie||Pass|kpass@unitec.ac.nz|10101975|15IW|1567045|STAFF_P
+ssu2@unitec.ac.nz|Shu||Su|ssu2@unitec.ac.nz|25051984|21BP|1567055|STAFF_F
+sshankar@unitec.ac.nz|Sheetal||Shankar|sshankar@unitec.ac.nz|15051994|80PG|1567060|STAFF_C
+jmatafi@unitec.ac.nz|Julia||Matafi|jmatafi@unitec.ac.nz|23102000|80PG|1567061|STAFF_C
+@unitec.ac.nz|Ina|Toefiliga|Teo|ina,teo19@gmail.com|19051991|80PG|1567062|STAFF_C
+ahenry3@unitec.ac.nz|Alice||Henry|ahenry3@unitec.ac.nz|12081981|43EA|1567081|STAFF_P
+rsmith3@unitec.ac.nz|Rebecca|Alexandra Genevieve|Smith|rsmith3@unitec.ac.nz|06031972|60IT|1567091|STAFF_C
+criddering@unitec.ac.nz|Chie||Riddering|criddering@unitec.ac.nz|14061973|60HR-02|1567092|STAFF_C
+***FileFooter|1613|11:27:14 2022/07/08

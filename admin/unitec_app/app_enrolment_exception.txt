@@ -1,0 +1,9 @@
+*** This student enrolment exception list uses ACTUAL dates to enrol/unenrol students. There is NO extension 
+*** such as 1 week before the start dates or 2 weeks after the end dates.
+
+USER_ID|LASTNAME|FIRSTNAME|EMAIL|DOB|PS_SUBJECT|PS_CAT|STUDENT_ID|PS_CLASS|PS_NSI|CRSE_GRADE_OFF|PS_PROG|PS_PROG_DESCR|PS_STRM|PS_CLASS_START_DT|PS_CLASS_END_DT
+
+
+
+
+*** FileFooter|94440|18:58:02 2010/03/01

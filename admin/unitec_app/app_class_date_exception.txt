@@ -1,0 +1,8 @@
+*** This class exception list uses ACTUAL dates to enrol/unenrol students. There is NO extension 
+*** such as 1 week before the start dates or 2 weeks after the end dates.
+
+*** PS_COURSE_ID|PS_CLASS|PS_STRM|PS_CLASS_START_DT|PS_CLASS_END_DT
+
+
+
+*** End of exception.
