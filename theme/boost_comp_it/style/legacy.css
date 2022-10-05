@@ -1,0 +1,1230 @@
+/*FRONT PAGE BUTTON SETTINGS
+----------------------------*/
+
+.frontpagebutton1 {
+    background-color: #006666; 
+    color: #ffffff !important;
+    margin: 0px 5px 10px 5px; 
+    width: 180px; 
+    height: 100px; 
+    border-radius: 0px; 
+    text-align: center; 
+    float: left; 
+    line-height: 100px;
+    /*display: table;*/
+}
+
+.frontpagebutton1:hover {
+    background-color: #009688;
+}
+
+.frontpagebuttoncontent1 {
+	color: #ffffff !important;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;
+}
+
+/* POST-IT NOTE CSS   - allows the creation of post-it
+notes with pin via pure css */
+.postit-container {
+	float: left; 
+	width: 30%; 
+	/*max-width 300px;*/ 
+	min-width: 150px;
+	margin: 0px 10px 0px 10px;
+}
+
+.postit-quote-container {
+  margin: 30px 0px 20px 0px;
+  position: relative;
+  width: 100%;
+}
+ 
+.postit-note {
+  color: #333;
+  position: relative;
+  width: 80%;
+  max-width: 300px;
+  min-width: 150px;
+  margin: 0 auto;
+  padding: 8%;
+  font-family: Architects Daughter;
+  font-size: larger;
+  line-height: 1;
+  box-shadow: 0 10px 10px 2px rgba(0,0,0,0.3);
+}
+
+.postit-note .postit-author {
+  display: block;
+  margin: 30px 0 0 0;
+  text-align: right;
+  font-family: Satisfy;
+  font-size: larger;
+}
+
+.postit-yellow {
+  background: #eae672;
+  -webkit-transform: rotate(2deg);
+  -moz-transform: rotate(2deg);
+  -o-transform: rotate(2deg);
+  -ms-transform: rotate(2deg);
+  transform: rotate(2deg);
+}
+
+.postit-blue {
+  background: #66ccff;
+  -webkit-transform: rotate(2deg);
+  -moz-transform: rotate(2deg);
+  -o-transform: rotate(2deg);
+  -ms-transform: rotate(2deg);
+  transform: rotate(2deg);
+}
+
+.postit-pink {
+  background: #ff99cc;
+  -webkit-transform: rotate(2deg);
+  -moz-transform: rotate(2deg);
+  -o-transform: rotate(2deg);
+  -ms-transform: rotate(2deg);
+  transform: rotate(2deg);
+}
+
+.postit-green {
+  background: #66ff99;
+  -webkit-transform: rotate(2deg);
+  -moz-transform: rotate(2deg);
+  -o-transform: rotate(2deg);
+  -ms-transform: rotate(2deg);
+  transform: rotate(2deg);
+}
+
+.postit-white {
+  background: #e6e6e6;
+  -webkit-transform: rotate(2deg);
+  -moz-transform: rotate(2deg);
+  -o-transform: rotate(2deg);
+  -ms-transform: rotate(2deg);
+  transform: rotate(2deg);
+}
+
+.postit-pin {
+  background-color: #aaa;
+  display: block;
+  height: 32px;
+  width: 2px;
+  position: absolute;
+  left: 50%;
+  top: -16px;
+  z-index: 1;
+}
+
+.postit-pin:after {
+  background-color: #A31;
+  background-image: radial-gradient(25% 25%, circle, hsla(0,0%,100%,.3), hsla(0,0%,0%,.3));
+  border-radius: 50%;
+  box-shadow: inset 0 0 0 1px hsla(0,0%,0%,.1),
+              inset 3px 3px 3px hsla(0,0%,100%,.2),
+              inset -3px -3px 3px hsla(0,0%,0%,.2),
+              23px 20px 3px hsla(0,0%,0%,.15);
+  content: '';
+  height: 12px;
+  left: -5px;
+  position: absolute;
+  top: -10px;
+  width: 12px;
+}
+
+.postit-pin:before {
+  background-color: hsla(0,0%,0%,0.1);
+  box-shadow: 0 0 .25em hsla(0,0%,0%,.1);
+  content: '';
+
+  height: 24px;
+  width: 2px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+ 
+  transform: rotate(57.5deg);
+  -moz-transform: rotate(57.5deg);
+  -webkit-transform: rotate(57.5deg);
+  -o-transform: rotate(57.5deg);
+  -ms-transform: rotate(57.5deg);
+
+  transform-origin: 50% 100%;
+  -moz-transform-origin: 50% 100%;
+  -webkit-transform-origin: 50% 100%;
+  -ms-transform-origin: 50% 100%;
+  -o-transform-origin: 50% 100%;
+}
+
+/*ADDITIONAL CLASS SETTINGS
+IMPORTANT FOR BADGE COURSES
+----------------------------*/
+
+.buttonhover:hover  {
+  opacity: 0.6;
+}
+.badgebutton {
+   transition: background-color 0.5s ease;
+    background-color: #ccc; 
+    color: #333 ;
+    padding: 0px 5px 0px 5px; 
+    border-radius: 0px; 
+    text-align: left; 
+    float: left; 
+    display: table;
+}
+
+.badgebutton:hover {
+    background-color: #1a8cff;
+   color: #fff;
+}
+
+.badgebuttoncontent{
+    display: table-cell; 
+    vertical-align: middle;
+     text-align: left; 
+}
+
+.unitecbutton {
+    background-color: #006666; 
+    color: #ffffff !important;
+    padding: 0px 5px 0px 5px; 
+    border-radius: 0px; 
+    text-align: center; 
+    float: left; 
+    display: table;
+}
+
+.unitecbutton:hover {
+    background-color: #0A7B7B;
+   color: #999;
+}
+
+.unitecbuttoncontent{
+   color: #ffffff !important;
+    display: table-cell; 
+    vertical-align: middle;
+     text-align: left; 
+}
+
+
+/*Nav button properties in left block*/ 
+.nav-button {
+    width: 100%;
+    min-width: 180px;
+    height: 50px;
+    border-radius: 0px;
+    font-weight: 500;
+    letter-spacing: 1px;
+	text-align: center;
+	margin: 3px;
+}
+
+/*Phone Nav and dropdown button properties in Section 0 (only visible on phones)*/ 
+.phone-button {
+       width: 95%; 
+	height: 60px;
+	border-radius: 0px; 
+	margin: 0px 0px  5px 10px;
+}
+
+/*Module button properties on course page*/ 
+.module-button {
+    background: #ffffff;
+    color: #000000;
+    width: 30%;
+    border: 4px solid #fa7705;
+    border-radius: 15px;
+    text-align: center;
+    padding: 2px 2px 10px 2px;
+    margin: 7px;
+    max-width: 250px;
+	min-width: 200px;
+}
+
+.button.module-button:hover {
+    background:  #f2f2f2;
+    color: #000000;
+    opacity: 0.8;
+}
+
+/*Defines the label for the module buttons on the course page*/
+.module-label {
+    width:100%; 
+    background-color: #fa7705; 
+    color: #000000; 
+    border-radius: 10px; 
+    padding: 2px 0px 0px 0px;
+}
+
+/* ############################################################################ */
+/* HSDV Course Template Compatability CSS !!!!!IMPORTANT _ DO NOT DELETE!!!!!! */
+/* ############################################################################ */
+
+/*HSDV CISC Generic Custom CSS*/
+/* Generic Container styles */
+/* Standard Text */
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.rightbtn {
+	float: right;
+}
+
+.leftbtn {
+	float: left;
+}
+
+.wordwrap { 
+   white-space: pre-wrap;      /* CSS3 */   
+   white-space: -moz-pre-wrap; /* Firefox */    
+   white-space: -pre-wrap;     /* Opera <7 */   
+   white-space: -o-pre-wrap;   /* Opera 7 */    
+   word-wrap: break-word;      /* IE */
+}
+ 
+ .wrapper {
+	background-size: cover; 
+	background-position: center;
+	float:left;
+	width: 100%;
+	margin: auto;
+	padding: 0px;
+	text-align: left;
+	color: #000000;
+	clear:both;
+}
+
+.text_block {
+	float:left;
+	width: 95%;
+	margin: auto;
+	padding: 10px;
+	text-align: left;
+	color: #000000;
+}
+
+/* Generic Text block clear (stacked - not side by side) */
+.text_block2 {
+	float:left;
+	width: 95%;
+	margin: auto;
+	padding: 10px;
+	text-align: left;
+	color: #000000;
+	clear: both;
+}
+
+.text_clear100 {
+	float:left;
+	width: 95%;
+	margin: auto;
+	padding: 10px;
+	text-align: left;
+	color: #000000;
+	clear: both;
+}
+
+/* Generic Text Block Right with container width percentage */
+
+.text_right100 {
+	float:right;
+	width: 97%;
+	margin: auto;
+	padding: 10px;
+	text-align: left;
+	color: #000000;
+}
+
+.text_right75 {
+	float:right;
+	width: 73%;
+	min-width: 250px;
+	margin: auto;
+	padding: 10px;
+	text-align: left;
+	color: #000000;
+}
+
+.text_right50 {
+	float:right;
+	width: 45%;
+	min-width: 250px;
+	margin: auto;
+	padding: 10px;
+	text-align: left;
+	color: #000000;
+}
+
+.text_right40 {
+	float:right;
+	width: 35%;
+	min-width: 250px;
+	margin: auto;
+	padding: 10px;
+	text-align: left;
+	color: #000000;
+}
+
+
+.text_right30 {
+	float:right;
+	width: 28%;
+	margin: auto;
+	padding: 10px;
+	text-align: left;
+	color: #000000;
+}
+
+.text_right25 {
+	float:right;
+	width: 23%;
+	margin: auto;
+	padding: 10px;
+	text-align: left;
+	color: #000000;
+}
+
+.text_right20 {
+	float: right;
+	width: 18%;
+	margin: auto;
+	padding: 10px;
+	text-align: left;
+	color: #000000;
+}
+
+/* Generic Text Block Left with container width percentage */
+
+.text_left100 {
+	float:left;
+	width: 97%;
+	margin: auto;
+	padding: 10px;
+	text-align: left;
+	color: #000000;
+}
+
+.text_left75 {
+	float:left;
+	width: 73%;
+	min-width: 250px;
+	margin: auto;
+	padding: 10px;
+	text-align: left;
+	color: #000000;
+}
+
+.text_left50 {
+	float:left;
+	width: 45%;
+	min-width: 250px;
+	margin-right: 20px;
+	padding: 10px;
+	text-align: left;
+	color: #000000;
+}
+
+.text_left40 {
+	float:left;
+	width: 35%;
+	min-width: 250px;
+	margin-right: 20px;
+	padding: 10px;
+	text-align: left;
+	color: #000000;
+}
+
+.text_left30 {
+	float:left;
+	width: 28%;
+	margin-right: 20px;
+	padding: 10px;
+	text-align: left;
+	color: #000000;
+}
+
+.text_left25 {
+	float:left;
+	width: 23%;
+	margin-right: 20px;
+	padding: 10px;
+	text-align: left;
+	color: #000000;
+}
+
+.text_left20 {
+	float:left;
+	width: 18%;
+	margin-right: 20px;
+	padding: 10px;
+	text-align: left;
+	color: #000000;
+}
+
+/* Generic Image Right Layout with container width percentage */
+
+.pict_right100{
+	float: right; 
+	width: 97%;
+	margin: auto;
+	padding: 10px;	
+}
+
+.pict_right75{
+	float: right; 
+	width: 73%;
+	min-width: 250px;
+	margin: auto;
+	padding: 10px;	
+}
+
+.pict_right50{
+	float: right; 
+	width: 45%;
+	min-width: 250px;
+	margin: auto;
+	padding: 10px;	
+}
+
+.pict_right40{
+	float: right; 
+	width: 35%;
+	min-width: 250px;
+	margin: auto;
+	padding: 10px;	
+}
+
+.pict_right30{
+	float: right; 
+	width: 28%;
+	margin: auto;
+	padding: 10px;	
+}
+
+.pict_right25{
+	float: right; 
+	width: 23%;
+	margin: auto;
+	padding: 10px;	
+}
+
+.pict_right20{
+	float: right; 
+	width: 18%;
+	margin: auto;
+	padding: 10px;	
+}
+
+/* Generic Image Left Layout with container width percentage */
+.pict_left100{
+	float: left; 
+	width: 97%;
+	margin: auto;
+	padding: 10px;	
+}
+
+.pict_left75{
+	float: left; 
+	width: 73%;
+	min-width: 250px;
+	margin: auto;
+	padding: 10px;	
+}
+
+.pict_left50{
+	float: left; 
+	width: 45%;
+	min-width: 250px;
+	margin-right: 20px;
+	padding: 10px;	
+}
+
+.pict_left40{
+	float: left; 
+	width: 35%;
+	min-width: 250px;
+	margin-right: 20px;
+	padding: 10px;	
+}
+
+.pict_left30{
+	float: left; 
+	width: 28%;
+	margin-right: 20px;
+	padding: 10px;	
+}
+
+.pict_left25{
+	float: left; 
+	width: 23%;
+	margin-right: 20px;
+	padding: 10px;	
+}
+
+.pict_left20{
+	float: left; 
+	width: 18%;
+	margin-right: 20px;
+	padding: 10px;	
+}
+
+/* Generic Video iframe Container Special */
+
+.vid_relative100{
+	position: realtive; 
+	width: 100%; 
+	height: 0; 
+	padding-bottom: 33%;	
+}
+
+/* Generic Video iframe Special */
+
+.vid_absolute30{
+	position: absolute; 
+	width: 30%; 
+	height: 30%;	
+}
+
+/* Generic Page Navbar styles */
+/* Navbar options */
+.nav_fw {
+  text-align:center;
+  width: 100%; /* Navbar width */
+  background: #e8e8e8; /* Navbar background color */
+  opacity: 0.8; /* background opacity for navbar elements */
+  padding: 0;
+  margin: 0;
+  position:relative;
+}
+
+/* Navbar List style */
+.nav_fw ul { 
+  list-style:none;
+}
+
+/* Navbar Items style */
+.nav_fw ul li {
+  display: inline-block;
+  width: 12%;
+  min-width: 110px;
+  text-align: center;
+}
+
+/* Navbar Dropdown menu options */
+.nav_fw ul ul {
+  background: #e8e8e8; /* Dropdown menu background color*/
+  padding:0;
+  text-align: center;
+  display:none;
+  width: 95%;
+  position: absolute;
+  top: 20px;
+  left: 0px;
+}
+
+/* Navbar Dropdown menu Items style */
+.nav_fw ul li a {
+  color:#333333;
+  display:block;
+  padding:0;
+  text-decoration:none;
+  float: left;
+  width: 10%;
+  min-width: 100px;
+  text-align: center;
+}
+
+/* Navbar Hover options */
+.nav_fw ul li:hover {
+  background: #333333;
+}
+
+.nav_fw ul li:hover > a{
+    color:#FFFFFF;
+}
+
+.nav_fw ul li:hover > ul {
+  display:block;
+}
+
+/* Hamburger menu options */
+
+.dropbtn_bar {
+	display:block; 
+	background-color: #e8e8e8; 
+	width: 100%; 
+	height: 22px; 
+}
+
+.dropbtn {
+    background-color: #e8e8e8;
+    color: #303030;
+    padding: 0px 10px 0px 10px;
+    font-size: 18px;
+	font-weight: bold;
+    border: none;
+    cursor: pointer;
+	/* height: 100% */
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    right: 0;
+    background-color: #f9f9f9;
+    min-width: 150px;
+	border: 2px solid #C8C8C8;
+	border-radius: 5px;
+    /* box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); */
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 5px 5px; 
+    text-decoration: none;
+    display: block;	
+}
+
+.dropdown-content a:hover {
+	color: #f9f9f9;
+	background-color: #333333;
+	border-radius: 5px;
+	}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #cccccc;
+}
+
+/* Generic Course aims special */
+.image_background{
+	background-color: #cccccc; 
+	float: left; 
+	padding: 15px; 
+	width: 23%;
+	margin-right: 20px;
+}
+
+.aims_main{
+	width: 100%; 
+	float: left;
+}
+
+.aims_quote{
+	width: 100%; 
+	text-align: center;
+	float: left;
+}
+
+.img_attr {
+	float:left;
+	width: 100%;
+	margin: auto;
+	padding: 0px;
+	text-align: left;
+	color: #000000;
+	clear: both;
+}
+
+/*HSDV Custom CSS*/
+
+.warning_label{
+float: left; 
+width: 90%;
+border-radius: 0px; 
+background-color: #ffffff; 
+color: #000000; 
+text-decoration: none;
+text-align: bottom;
+padding: 5px;
+margin: 20px;
+border: 2px  solid #fa7705;
+white-space:nowrap;
+
+}
+
+.warning_label2{
+float: left; 
+width: 80%;
+border-radius: 0px; 
+background-color: #ffffff; 
+color: #000000; 
+text-decoration: none;
+text-align: bottom;
+padding: 5px;
+margin-top: 30px;
+border: 2px solid #fa7705;
+white-space:nowrap;
+
+}
+
+/*HSDV Module link styles */
+.label.module_label{
+ 
+width: 95%;
+height: 45px; 
+border-radius: 10px; 
+background-color: #fa7705; 
+color: #000000; 
+text-decoration: none;
+text-align: bottom;
+padding: 10px 5px 0px 5px;
+margin: auto;
+white-space:nowrap;
+clear:both;
+
+}
+
+.module_border{
+display:inline-block;
+background-color: #ffffff; 
+border: 4px solid #fa7705; 
+border-radius: 15px; 
+width: 28%; 
+max-width: 250px;
+min-width: 200px; 
+padding: 2px; 
+text-align: center; 
+margin: 10px;
+
+}
+
+.module_border2{
+float: left; 
+border: 4px solid #fa7705; 
+border-radius: 15px; 
+width: 10%; 
+max-width: 250px; 
+min-width: 200px; 
+padding: 2px; 
+text-align: center; 
+margin: 5px 30px 5px 5px;
+
+}
+
+.module_border25{
+float: left; 
+border: 4px solid #fa7705; 
+border-radius: 15px; 
+width: 22%; 
+max-width: 250px; 
+min-width: 200px; 
+padding: 2px; 
+text-align: center; 
+margin: 5px;
+
+}
+
+/* HSDV Nav buttons styles */
+/* nav button wrapper */
+.nav_div {
+	float: left; 
+	margin: auto; 
+	width: 130px; 
+}
+
+/* HSDV Nav buttons */
+.nav_label {
+	display: block;
+	background-color: #fa7705;
+	color: #000000;
+	width: 130px;
+	border-radius: 5px;
+	text-align: center;
+	padding: 10px;
+	margin: 5px;
+}
+
+.nav_label_dropdown {
+	display: block;
+	background-color: #fa7705;
+	color: #000000;
+	width: 130px;
+	border-radius: 5px;
+	text-align: center;
+	padding: 10px;
+	margin: 0px 5px 0px 5px;
+}
+
+/* HSDV Welcome Page Special */
+.heading_banner {
+	width: 80%;
+	margin: auto;
+	padding: 0px;
+	border-radius: 10px;
+	border: 4px solid #fa7705;
+	text-align: center;
+	color: #000000;
+	clear:both;
+}
+
+.welcome_text {
+	width: 80%;
+	margin: auto;
+	padding: 0px;
+	text-align: center;
+	color: #fa7705;
+	clear:both;
+}
+
+.maori_proverb {
+	width: 40%;
+	margin: auto;
+	padding: 0px;
+	border-radius: 0px;
+	border: 3px solid #fa7705;
+	text-align: center;
+	color: #000000;
+	clear:both;
+}
+
+/* HSDV Course Overview Page Special */
+.orange_border{
+	float: left;
+	width: 90%;
+	margin: auto;
+	padding: 15px;
+	border-radius: 0px;
+	border: 3px solid #fa7705;
+	text-align: left;
+	color: #000000;
+	clear: both;
+}
+
+/* HSDV Course aims special */
+.aims_title{
+	width: 100%; 
+	text-align: center; 
+	border-radius: 0px; 
+	padding: 10px; 
+	color: #000000; 
+	background-color: #fa7705; 
+	float: left;
+}
+
+/* CISC Custom CSS */
+/* CISC Module link styles */
+.label.module_labelG{ 
+width: 95%;
+height: 45px; 
+border-radius: 10px; 
+background-color: #088a08; 
+color: #ffffff; 
+text-decoration: none;
+text-align: bottom;
+padding: 10px 5px 0px 5px;
+margin: auto;
+white-space:nowrap;
+
+}
+
+.module_borderG{
+display:inline-block;
+background-color: #ffffff; 
+border: 4px solid #088a08; 
+border-radius: 15px; 
+width: 28%; 
+max-width: 250px;
+min-width: 200px; 
+padding: 2px; 
+text-align: center; 
+margin: 10px;
+}
+
+.module_border2G{
+float: left; 
+border: 4px solid #088a08; 
+border-radius: 15px; 
+width: 10%; 
+max-width: 250px; 
+min-width: 200px; 
+padding: 2px; 
+text-align: center; 
+margin: 5px 30px 5px 5px;
+}
+
+.module_border25G{
+float: left; 
+border: 4px solid #088a08; 
+border-radius: 15px; 
+width: 22%; 
+max-width: 250px; 
+min-width: 200px; 
+padding: 2px; 
+text-align: center; 
+margin: 5px;
+}
+
+/* CISC Nav buttons */
+.nav_labelG {
+	display: block;
+	background-color: #088a08;
+	color: #ffffff;
+	width: 130px;
+	border-radius: 5px;
+	text-align: center;
+	padding: 10px;
+	margin: 5px;
+}
+
+.nav_label_dropdownG {
+	display: block;
+	background-color: #088a08;
+	color: #000000;
+	width: 130px;
+	border-radius: 5px;
+	text-align: center;
+	padding: 10px;
+	margin: 0px 5px 0px 5px;
+}
+
+/* CISC Welcome Page Special */
+.heading_bannerG {
+	width: 80%;
+	margin: auto;
+	padding: 0px;
+	border-radius: 10px;
+	border: 4px solid #088a08;
+	text-align: center;
+	color: #000000;
+	clear:both;
+}
+
+.maori_proverbG {
+	width: 40%;
+	margin: auto;
+	padding: 0px;
+	border-radius: 0px;
+	border: 3px solid #088a08;
+	text-align: center;
+	color: #000000;
+	clear:both;
+}
+
+.welcome_textG {
+	width: 80%;
+	margin: auto;
+	padding: 0px;
+	text-align: center;
+	color: #088a08;
+	clear:both;
+}
+
+/* CISC Course Overview Page Special */
+.green_border{
+	float: left;
+	width: 90%;
+	margin: auto;
+	padding: 15px;
+	border-radius: 0px;
+	border: 3px solid #088a08;
+	text-align: left;
+	color: #000000;
+	clear: both;
+}
+
+/* CISC Course aims special */
+.aims_titleG{
+	width: 100%; 
+	text-align: center; 
+	border-radius: 0px; 
+	padding: 10px; 
+	color: #000000; 
+	background-color: #088a08; 
+	float: left;
+}
+
+/* Icon styles */
+/* HSDV Icon styles */
+.ico {
+	text-decoration: none;
+	/*background-color: #fa7705;*/
+	display: block;
+	float: left;
+	color: #fa7705;
+	background-color: #fa7705;
+	background-repeat: no-repeat; 
+	background-position: left top;
+}
+
+/* CISC  Icon style*/
+.icoG {
+	text-decoration: none;
+	/*background-color: #088a08;*/
+	display: block;
+	float: left;
+	color: #088a08;
+	background-color: #088a08;
+	background-repeat: no-repeat; 
+	background-position: left top;
+}
+
+/* HSDV Sub-class Icon types */
+.ico.activity {
+	background-image: url(https://unitecnz-my.sharepoint.com/personal/mhay2_unitec_ac_nz/_layouts/15/guestaccess.aspx?guestaccesstoken=s3Ri4I0E%2bmGC93zymKU9uSLhOORzK9U0iLS%2bXQYVeTw%3d&docid=016d65d2350ca406bb668c41d99959d3f);	
+}
+
+.ico.bbcollaborate {
+	background-image: url(https://unitecnz-my.sharepoint.com/personal/mhay2_unitec_ac_nz/_layouts/15/guestaccess.aspx?guestaccesstoken=tlWcdlfzaENigtLP%2bjNi8omR9s7Jat7Im5Y%2fY1NrAd8%3d&docid=007f6dfb0991f44ddbde8b9e0c6bb3af3);
+}
+
+.ico.cross {
+	background-image: url(https://unitecnz-my.sharepoint.com/personal/mhay2_unitec_ac_nz/_layouts/15/guestaccess.aspx?guestaccesstoken=z0jjYDoW%2beymoKYIjcOchEMYLYdcbyHBDq0fJzIq5sc%3d&docid=06212fa3978ad40ef9268fc50d49658b9);
+}
+
+.ico.dropbox {
+	background-image: url(http://unitecnz-my.sharepoint.com/personal/mhay2_unitec_ac_nz/_layouts/15/guestaccess.aspx?guestaccesstoken=N6hfCWGCRw1Jtq0nipiHJha2YjzNo8s21K0qPVYpQ2s%3d&docid=047c7734c857e457fb354f24a5482e2a5);
+}
+
+.ico.exclamation {
+	background-image: url(https://unitecnz-my.sharepoint.com/personal/mhay2_unitec_ac_nz/_layouts/15/guestaccess.aspx?guestaccesstoken=2EEb5Te%2fPwuCEtXPll3yNn13rBQ2AIObJr2c0JjfzYY%3d&docid=0175dd3dca7ef48799376d455569b52e4);
+}
+.ico.f2f {
+	background-image: url(https://unitecnz-my.sharepoint.com/personal/mhay2_unitec_ac_nz/_layouts/15/guestaccess.aspx?guestaccesstoken=gjDu%2bN8L6Rpcf16N8Inb8g8sxZZCduzT1W209MmFss0%3d&docid=00113ceb3e8b04d0fb05146352f50877a);
+}
+
+.ico.forum {
+	background-image: url(https://unitecnz-my.sharepoint.com/personal/mhay2_unitec_ac_nz/_layouts/15/guestaccess.aspx?guestaccesstoken=GXlcbtZoZEwjbZCdae7rwFv5479C4RvOiJgqSlWMI6U%3d&docid=0719067722b304d95bec2d1e18367b0f7);
+}
+
+.ico.kete {
+	background-image: url(https://unitecnz-my.sharepoint.com/personal/mhay2_unitec_ac_nz/_layouts/15/guestaccess.aspx?guestaccesstoken=eyNKJz8uoINcMlKR%2bG1urm7Vfb1mic5dR%2bgw0RDQ55o%3d&docid=02e7b6c0c68e2444b962fa1d0e80ff244);
+}
+
+.ico.keywords { 
+	background-image: url(https://unitecnz-my.sharepoint.com/personal/mhay2_unitec_ac_nz/_layouts/15/guestaccess.aspx?guestaccesstoken=h2ptcYz4DQyoatQdRJQXemL1%2bGCCRanZO6fIYzXsZj4%3d&docid=02d21d430ba7946e39b1b3dbde50cb883);
+}
+
+.ico.question {
+	background-image: url(https://unitecnz-my.sharepoint.com/personal/mhay2_unitec_ac_nz/_layouts/15/guestaccess.aspx?guestaccesstoken=0ddvt8AEtNqnrz4wE1O%2bf4hTeyF5vAalDapsLehlQFE%3d&docid=03c5a8b9c9e1b4c47b7a2ac1728c55207);
+}
+
+.ico.resources {
+	background-image: url(https://unitecnz-my.sharepoint.com/personal/mhay2_unitec_ac_nz/_layouts/15/guestaccess.aspx?guestaccesstoken=b5uGwhsF6UDFrVIpDupvfcF%2bkJS2B9LllFuK%2bnu8Gts%3d&docid=0b2ae46f06bab44859fedebe741c9f072);
+}
+
+.ico.research {
+	background-image: url(https://unitecnz-my.sharepoint.com/personal/mhay2_unitec_ac_nz/_layouts/15/guestaccess.aspx?guestaccesstoken=D1yzUge0CkkvRe7pvk3SnpO7ATu%2b7ZrU7bTP1%2fqlm2U%3d&docid=0725dfe1ac5734719b97dd5bd7720c20c);
+}
+
+.ico.search {
+	background-image: url(https://unitecnz-my.sharepoint.com/personal/mhay2_unitec_ac_nz/_layouts/15/guestaccess.aspx?guestaccesstoken=oQ6a5ZP5r6NLzOBzLqJH5096WavQC2K1FaHAQB5yQ74%3d&docid=09855f8c543d14a7faedff75194da63c7);
+}
+
+.ico.sound {
+	background-image: url(https://unitecnz-my.sharepoint.com/personal/mhay2_unitec_ac_nz/_layouts/15/guestaccess.aspx?guestaccesstoken=hDh%2bvV%2fQdqJMwXYodPw5fEPzUpU6BZPqBuz8kopQwHQ%3d&docid=04ed6d935acb74c12b93038ac9856c622);
+}
+
+.ico.time {
+	background-image: url(https://unitecnz-my.sharepoint.com/personal/mhay2_unitec_ac_nz/_layouts/15/guestaccess.aspx?guestaccesstoken=gKBt9zv%2fu6gEKp7mN5Wj4RkssfqSY9iNvnrIfLVy75g%3d&docid=0d287e83b29aa4b6d87b8db9d1d5efdd3);
+}
+
+/* CISC Sub-class Icon types */
+.icoG.activity {
+	background-image: url(https://unitecnz-my.sharepoint.com/personal/mhay2_unitec_ac_nz/_layouts/15/guestaccess.aspx?guestaccesstoken=RWWTJAoRHhrkNfQx3HKYhqDU4OqcfofmfJG5i7KVrvA%3d&docid=023a97f3bcd93479aa624c320b86c6571);	
+} 
+
+.icoG.bbcollaborate {
+	background-image: url(https://unitecnz-my.sharepoint.com/personal/mhay2_unitec_ac_nz/_layouts/15/guestaccess.aspx?guestaccesstoken=C9gjoQX7KmfWROKiUulOMBVFsw6%2bl64SB3M0VeZmFjU%3d&docid=0f86f996d540c4d1bacecb076b8fca3be);
+}
+
+.icoG.cross {
+	background-image: url(https://unitecnz-my.sharepoint.com/personal/mhay2_unitec_ac_nz/_layouts/15/guestaccess.aspx?guestaccesstoken=E%2fyuHFFWdxnVN2nEuUWQGTCJYr1EX7a5FYlvglZs9zI%3d&docid=0852b6359e29742a39055b02941f44e24);
+}
+
+.icoG.dropbox {
+	background-image: url(https://unitecnz-my.sharepoint.com/personal/mhay2_unitec_ac_nz/_layouts/15/guestaccess.aspx?guestaccesstoken=E9MYAwUpJNMbG39dotUwe94zFR4c8ha%2fsrQzCcYPRYY%3d&docid=087541524abd44172a78fe53383b9bc39);
+}
+
+.icoG.exclamation {
+	background-image: url(https://unitecnz-my.sharepoint.com/personal/mhay2_unitec_ac_nz/_layouts/15/guestaccess.aspx?guestaccesstoken=x0ZTjnErBS841VBUBqv%2bZrPKf1yiQYGIzQFbTbjZhDY%3d&docid=04f0e5de49d504610b0a0c588924609c7);
+}
+
+.icoG.f2f {
+	background-image: url(https://unitecnz-my.sharepoint.com/personal/mhay2_unitec_ac_nz/_layouts/15/guestaccess.aspx?guestaccesstoken=JLz42Wl6pBc9PqtkOK6A9ZIW7ecN4HQcg%2fI63mq%2bU8c%3d&docid=05dc0529935d649eaa9bfb56f54b39eb9);
+}
+
+.icoG.forum {
+	background-image: url(https://unitecnz-my.sharepoint.com/personal/mhay2_unitec_ac_nz/_layouts/15/guestaccess.aspx?guestaccesstoken=L0GHmI6mh2NhdUc31utT%2bjqLv9lnDqsBJhoPibQyWAo%3d&docid=0ad3ea13386964460a905486c2e4b2275);
+}
+
+.icoG.kete {
+	background-image: url(https://unitecnz-my.sharepoint.com/personal/mhay2_unitec_ac_nz/_layouts/15/guestaccess.aspx?guestaccesstoken=Y2YbtKAnLLOFiJhmhMbICC9P7qzjvHiqkprIvr7qCg8%3d&docid=0325889074285466cbafaac9effabd32c);
+}
+
+.icoG.keywords { 
+	background-image: url(https://unitecnz-my.sharepoint.com/personal/mhay2_unitec_ac_nz/_layouts/15/guestaccess.aspx?guestaccesstoken=3C9e2Xj0bgBVK0eXz5FXfRvtB2f%2f0PKgnDGOFhe19o4%3d&docid=0591cb28fa1eb479984ed0825b85284ea);
+}
+
+.icoG.question {
+	background-image: url(https://unitecnz-my.sharepoint.com/personal/mhay2_unitec_ac_nz/_layouts/15/guestaccess.aspx?guestaccesstoken=kNPqFXx6aqmYYhP%2bm3ouoQ7m%2bMxFHUO9FIKVcw8JyMI%3d&docid=0f51f20d0cc90447d8dc65dfd2af60114);
+}
+
+.icoG.resources {
+	background-image: url(https://unitecnz-my.sharepoint.com/personal/mhay2_unitec_ac_nz/_layouts/15/guestaccess.aspx?guestaccesstoken=TxltfdBKEFx6Wmzo31MzzkxlUQYguv60I5k%2bAet%2fNdw%3d&docid=0526006b11e3b44d1ac6691c9357e8f94);
+}
+
+.icoG.search {
+	background-image: url(https://unitecnz-my.sharepoint.com/personal/mhay2_unitec_ac_nz/_layouts/15/guestaccess.aspx?guestaccesstoken=rrxxY9VcnGYeLIfMKw0tD7F9dUbsI7NZJiZAyRda3Ts%3d&docid=0e0fc90c700e24d65b7e15cbcfe3e0b8c);
+}
+
+.icoG.sound {
+	background-image: url(https://unitecnz-my.sharepoint.com/personal/mhay2_unitec_ac_nz/_layouts/15/guestaccess.aspx?guestaccesstoken=paOHb3dGmCK7eIxt%2bv3P1K9u%2fYpSCUaeUSUYlkyptfs%3d&docid=0b15ff38465d04eb7998835fe64b0cd38);
+}
+
+.icoG.time {
+	background-image: url(https://unitecnz-my.sharepoint.com/personal/mhay2_unitec_ac_nz/_layouts/15/guestaccess.aspx?guestaccesstoken=w8EBzy12WzOxchnw9rNd3%2bNP%2be%2binzzpEJXhGwyUYj4%3d&docid=095bf3e5cddff4461a3c8e90fe2798059);
+}
+
+/* Sub-class Icon Size */
+.ico.xsm, .icoG.xsm {
+	width: 14px;
+	height: 14px;
+	border-radius: 3px;
+	margin: 3px;
+}
+
+.ico.sm, .icoG.sm {
+	width: 27px;
+	height: 27px;
+	border-radius: 3px;
+	margin: 3px;
+}
+
+.ico.md, .icoG.md {
+	width: 45px;
+	height: 45px;
+	border-radius: 5px;
+	margin: 5px;
+}
+
+.ico.lg, .icoG.lg {
+	width: 60px;
+	height: 60px;
+	border-radius: 7px;
+	margin: 7px;
+}
+
+.ico.xl, .icoG.xl {
+	width: 85px;
+	height: 85px;
+	border-radius: 10px;
+	margin: 10px;
+}
+
+.ico.2xl, .icoG.2xl {
+	width: 130px;
+	height: 130px;
+	border-radius: 15px;
+	margin: 15px;
+}
